@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Zimbra.teuto.net on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/zimbra.teuto.net/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2025-10-15T21:00:00+00:00</lastBuildDate>
+    <updated>2025-10-15T21:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/zimbra.teuto.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Wartung zimbra.teuto.net</title>
+        <link>https://teuto.fail/issues/2025-10-15-wartungsarbeiten-zimbra/</link>
+        <pubDate>Wed, 15 Oct 2025 21:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-10-15-wartungsarbeiten-zimbra/</guid>
+        <category></category>
+        <description>&lt;p&gt;Am 15.10.2025 zwischen 21 und 23 Uhr werden Wartungsarbeiten am Server zimbra.teuto.net durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zugriff auf den Groupware-Server zimbra.teuto.net&lt;/li&gt;
+&lt;/ul&gt;</description>
+        <content type="html">&lt;p&gt;Am 15.10.2025 zwischen 21 und 23 Uhr werden Wartungsarbeiten am Server zimbra.teuto.net durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zugriff auf den Groupware-Server zimbra.teuto.net&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

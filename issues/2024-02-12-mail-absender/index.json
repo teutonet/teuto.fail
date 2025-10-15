@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Absender-Prüfung E-Mail",
+  "createdAt": "2024-02-12 00:00:00 +0000 UTC",
+  "lastMod": "2024-02-12 00:00:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2024-02-12-mail-absender/",
+  "severity": "Notice",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2024-02-12 07:00:00",
+  "affected": ["smtp.teuto.net"],
+  "filename": "2024-02-12-mail-absender.md"
+}

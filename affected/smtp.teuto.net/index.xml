@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Smtp.teuto.net on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/smtp.teuto.net/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2024-02-12T00:00:00+00:00</lastBuildDate>
+    <updated>2024-02-12T00:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/smtp.teuto.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Absender-Prüfung E-Mail</title>
+        <link>https://teuto.fail/issues/2024-02-12-mail-absender/</link>
+        <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-02-12-mail-absender/</guid>
+        <category>2024-02-12 07:00:00</category>
+        <description>&lt;p&gt;Ab dem 12.2.2024 ist auf dem Server smtp.teuto.net eine Absender-Prüfung aktiv.
+Das Feature bewirkt, dass unser Mail-Server smtp.teuto.net überprüft, ob ein Absender wirklich über den Domainnamen versenden darf.
+Alle berechtigten Domainnamen sind als Domainnamen zu der Kundennummer im Mailadmin hinterlegt. Anschließend kann jedes Postfach des Kunden (Benutzer) jede dieser Domains als Absender Adresse verwenden.&lt;/p&gt;
+&lt;h2 id=&#34;handlungsbedarf&#34;&gt;Handlungsbedarf&lt;/h2&gt;
+&lt;p&gt;Das neue Feature betrifft Sie nur, wenn Sie Ihre E-Mail Postfächer über den Mailadmin unter mailadmin.teuto.net verwalten oder den Postausgangsserver smtp.teuto.net verwenden.
+Bitte überprüfen Sie, ob alle verwendeten Domains im Mailadmin hinterlegt sind. Sollte das nicht der Fall sein, können Sie uns per E-Mail unter Angabe der Domain und der Kundennummer kontaktieren.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Ab dem 12.2.2024 ist auf dem Server smtp.teuto.net eine Absender-Prüfung aktiv.
+Das Feature bewirkt, dass unser Mail-Server smtp.teuto.net überprüft, ob ein Absender wirklich über den Domainnamen versenden darf.
+Alle berechtigten Domainnamen sind als Domainnamen zu der Kundennummer im Mailadmin hinterlegt. Anschließend kann jedes Postfach des Kunden (Benutzer) jede dieser Domains als Absender Adresse verwenden.&lt;/p&gt;
+&lt;h2 id=&#34;handlungsbedarf&#34;&gt;Handlungsbedarf&lt;/h2&gt;
+&lt;p&gt;Das neue Feature betrifft Sie nur, wenn Sie Ihre E-Mail Postfächer über den Mailadmin unter mailadmin.teuto.net verwalten oder den Postausgangsserver smtp.teuto.net verwenden.
+Bitte überprüfen Sie, ob alle verwendeten Domains im Mailadmin hinterlegt sind. Sollte das nicht der Fall sein, können Sie uns per E-Mail unter Angabe der Domain und der Kundennummer kontaktieren.&lt;/p&gt;
+&lt;p&gt;Wir überprüfen bis zum 12.2. regelmäßig die verwendeten Absenderadressen und reagieren bei entsprechenden Auffälligkeiten.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten am internen Datenbanksystem. Es kommt zu kurzen Unterbrechungen beim Email Empfang/Versand.</title>
+        <link>https://teuto.fail/issues/2024-01-16-wartungsarbeiten-datenbanksystem/</link>
+        <pubDate>Tue, 16 Jan 2024 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-01-16-wartungsarbeiten-datenbanksystem/</guid>
+        <category>2024-01-16 08:00:00</category>
+        <description>&lt;p&gt;Durch Wartungsarbeiten am internen Datenbanksystem kommt es am 16.01.2024 zwischen 07:00 und 08:00 Uhr zu kurzen Unterbrechungen beim Email Empfang/Versand. Davon betroffen sind imap.teuto.net, pop3.teuto.net und smtp.teuto.net.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Durch Wartungsarbeiten am internen Datenbanksystem kommt es am 16.01.2024 zwischen 07:00 und 08:00 Uhr zu kurzen Unterbrechungen beim Email Empfang/Versand. Davon betroffen sind imap.teuto.net, pop3.teuto.net und smtp.teuto.net.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

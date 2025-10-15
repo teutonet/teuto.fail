@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Störung des Routings",
+  "createdAt": "2024-08-06 15:10:00 +0000 UTC",
+  "lastMod": "2024-08-06 15:10:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2024-08-06-routing-probleme/",
+  "severity": "down",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-08-06 15:55:00",
+  "affected": ["Routing Frankfurt", "Routing Bielefeld", "Routing Paderborn"],
+  "filename": "2024-08-06-routing-probleme.md"
+}

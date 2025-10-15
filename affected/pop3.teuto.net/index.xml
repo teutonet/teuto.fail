@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Pop3.teuto.net on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/pop3.teuto.net/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2024-01-16T07:00:00+00:00</lastBuildDate>
+    <updated>2024-01-16T07:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/pop3.teuto.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten am internen Datenbanksystem. Es kommt zu kurzen Unterbrechungen beim Email Empfang/Versand.</title>
+        <link>https://teuto.fail/issues/2024-01-16-wartungsarbeiten-datenbanksystem/</link>
+        <pubDate>Tue, 16 Jan 2024 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-01-16-wartungsarbeiten-datenbanksystem/</guid>
+        <category>2024-01-16 08:00:00</category>
+        <description>&lt;p&gt;Durch Wartungsarbeiten am internen Datenbanksystem kommt es am 16.01.2024 zwischen 07:00 und 08:00 Uhr zu kurzen Unterbrechungen beim Email Empfang/Versand. Davon betroffen sind imap.teuto.net, pop3.teuto.net und smtp.teuto.net.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Durch Wartungsarbeiten am internen Datenbanksystem kommt es am 16.01.2024 zwischen 07:00 und 08:00 Uhr zu kurzen Unterbrechungen beim Email Empfang/Versand. Davon betroffen sind imap.teuto.net, pop3.teuto.net und smtp.teuto.net.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten imap.teuto.net, pop3.teuto.net</title>
+        <link>https://teuto.fail/issues/2023-07-31-einschraenkung-email-versand-empfang/</link>
+        <pubDate>Thu, 16 Nov 2023 21:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2023-07-31-einschraenkung-email-versand-empfang/</guid>
+        <category>2023-11-16 22:00:00</category>
+        <description>&lt;p&gt;Bedingt durch den Ausfall in der letzten Woche sind dringende Wartungsarbeiten notwendig. Davon betroffen sind imap.teuto.net und pop3.teuto.net.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Bedingt durch den Ausfall in der letzten Woche sind dringende Wartungsarbeiten notwendig. Davon betroffen sind imap.teuto.net und pop3.teuto.net.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Ausfall imap.teuto.net, pop3.teuto.net</title>
+        <link>https://teuto.fail/issues/2023-11-10-ausfall-imap-pop3/</link>
+        <pubDate>Fri, 10 Nov 2023 00:15:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2023-11-10-ausfall-imap-pop3/</guid>
+        <category>2023-11-10 09:15:00</category>
+        <description>&lt;p&gt;Durch einen Hardware-Ausfall sind die Dienste imap.teuto.net und pop3.teuto.net aktuell nicht erreichbar. Wir arbeiten an der Wiederherstellung der Dienste.&lt;/p&gt;
+&lt;p&gt;Aktuell gehen wir davon aus das die Störung bis 10:00 Uhr behoben ist.&lt;/p&gt;
+&lt;p&gt;Update 9:15 Uhr: Die Dienste sind wieder verfügbar.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Durch einen Hardware-Ausfall sind die Dienste imap.teuto.net und pop3.teuto.net aktuell nicht erreichbar. Wir arbeiten an der Wiederherstellung der Dienste.&lt;/p&gt;
+&lt;p&gt;Aktuell gehen wir davon aus das die Störung bis 10:00 Uhr behoben ist.&lt;/p&gt;
+&lt;p&gt;Update 9:15 Uhr: Die Dienste sind wieder verfügbar.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

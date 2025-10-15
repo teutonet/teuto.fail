@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Systemaktualisierung master.teuto.net",
+  "createdAt": "2024-07-16 21:00:00 +0000 UTC",
+  "lastMod": "2024-07-16 21:00:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2024-07-16-update-master-greensta/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-07-16 23:00:00",
+  "affected": ["mail.teuto.net", "login.teuto.net"],
+  "filename": "2024-07-16-update-master-greensta.md"
+}

@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Wartungsarbeiten an Außenanbindung durch Carrier in Bielefeld",
+  "createdAt": "2024-03-06 00:00:00 +0000 UTC",
+  "lastMod": "2024-03-06 00:00:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2024-03-06-wartungsarbeiten-au%C3%9Fenanbindung-durch-carrier-in-bielefeld/",
+  "severity": "<no value>",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2024-03-06 08:00:00",
+  "affected": ["Route Bielefeld"],
+  "filename": "2024-03-06-wartungsarbeiten-außenanbindung-durch-carrier-in-bielefeld.md"
+}
