@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Public Cloud Frankfurt on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/public-cloud-frankfurt/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2025-02-19T08:40:00+00:00</lastBuildDate>
+    <updated>2025-02-19T08:40:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/public-cloud-frankfurt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Netzwerkprobleme Public Cloud Frankfurt</title>
+        <link>https://teuto.fail/issues/2025-02-19-public-cloud-ffm/</link>
+        <pubDate>Wed, 19 Feb 2025 08:40:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-02-19-public-cloud-ffm/</guid>
+        <category>2025-02-19 09:41:00</category>
+        <description>&lt;p&gt;Heute Morgen kam es zu Netzwerkproblemen in der Public Cloud Frankfurt.
+Die Störung ist behoben, vereinzelt kann es noch zu Verzögerungen bei der Erreichbarkeit verschiedener Dienste kommen.&lt;/p&gt;
+&lt;p&gt;Sollten weiterhin Probleme auftreten, wenden Sie sich bitte über die Supportkanäle an uns.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Heute Morgen kam es zu Netzwerkproblemen in der Public Cloud Frankfurt.
+Die Störung ist behoben, vereinzelt kann es noch zu Verzögerungen bei der Erreichbarkeit verschiedener Dienste kommen.&lt;/p&gt;
+&lt;p&gt;Sollten weiterhin Probleme auftreten, wenden Sie sich bitte über die Supportkanäle an uns.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten Netzwerk Frankfurt</title>
+        <link>https://teuto.fail/issues/2024-07-02-wartung-ffm/</link>
+        <pubDate>Tue, 02 Jul 2024 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-07-02-wartung-ffm/</guid>
+        <category>2024-07-02 22:00:00</category>
+        <description>&lt;p&gt;Am 2.7.2024 zwischen 4 und 7 Uhr werden Wartungsarbeiten am Backbone-Routing und an den Aussenanbindungen in Frankfurt (AS42008) durchgeführt.&lt;/p&gt;
+&lt;p&gt;Es kann zu kurzen Ausfällen in der Erreichbarkeit aller Services kommen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 2.7.2024 zwischen 4 und 7 Uhr werden Wartungsarbeiten am Backbone-Routing und an den Aussenanbindungen in Frankfurt (AS42008) durchgeführt.&lt;/p&gt;
+&lt;p&gt;Es kann zu kurzen Ausfällen in der Erreichbarkeit aller Services kommen.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Stromausfall Rechenzentrum FRA8 in Frankfurt</title>
+        <link>https://teuto.fail/issues/2023-12-12-ausfall-strom/</link>
+        <pubDate>Tue, 12 Dec 2023 06:27:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2023-12-12-ausfall-strom/</guid>
+        <category>2023-12-12 09:26:00</category>
+        <description>&lt;p&gt;Aufgrund eines Ausfalls bei der Stromversorgung im Rechenzentrum FRA8 in Frankfurt kommt es bei den angegebenen Diensten zu Einschränkungen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Aufgrund eines Ausfalls bei der Stromversorgung im Rechenzentrum FRA8 in Frankfurt kommt es bei den angegebenen Diensten zu Einschränkungen.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

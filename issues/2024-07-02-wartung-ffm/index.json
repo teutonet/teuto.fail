@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Wartungsarbeiten Netzwerk Frankfurt",
+  "createdAt": "2024-07-02 07:00:00 +0000 UTC",
+  "lastMod": "2024-07-02 07:00:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2024-07-02-wartung-ffm/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-07-02 22:00:00",
+  "affected": ["Routing Frankfurt", "Public Cloud Frankfurt"],
+  "filename": "2024-07-02-Wartung-ffm.md"
+}

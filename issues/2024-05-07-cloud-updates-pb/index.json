@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Einspielen von Updates in Paderborn. Es kommt zu Unterbrechungen bei der Erreichbarkeit von Diensten in der Public Cloud.",
+  "createdAt": "2024-05-07 08:00:00 +0000 UTC",
+  "lastMod": "2024-05-07 08:00:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2024-05-07-cloud-updates-pb/",
+  "severity": "Notice",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2024-05-07 11:00:00",
+  "affected": ["Public Cloud Paderborn"],
+  "filename": "2024-05-07-cloud-updates-pb.md"
+}

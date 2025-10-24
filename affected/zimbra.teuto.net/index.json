@@ -1,0 +1,41 @@
+{
+  "is": "system",
+  "title": "Zimbra.teuto.net",
+  "permalink": "https://teuto.fail/affected/zimbra.teuto.net/",
+  "status": "notice", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Wartung E-Mail Systeme",
+        "createdAt": "2025-11-05 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-05 21:00:00 +0000 UTC",
+        "permalink": "https://teuto.fail/issues/2025-10-23-wartungsarbeiten-mail-umstellung/",
+        "severity": "notice",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "<no value>",
+        "affected": ["imap.teuto.net", "pop3.teuto.net", "smtp.teuto.net", "mail.teuto.net", "zimbra.teuto.net"],
+        "filename": "2025-10-23-wartungsarbeiten-mail-umstellung.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartung zimbra.teuto.net",
+        "createdAt": "2025-10-15 21:00:00 +0000 UTC",
+        "lastMod": "2025-10-15 21:00:00 +0000 UTC",
+        "permalink": "https://teuto.fail/issues/2025-10-15-wartungsarbeiten-zimbra/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-10-15 23:00:00",
+        "affected": ["zimbra.teuto.net"],
+        "filename": "2025-10-15-wartungsarbeiten-zimbra.md"
+      }
+    
+  ]
+}
+
+
+
+
+

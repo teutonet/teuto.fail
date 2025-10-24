@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Netzwerkprobleme Public Cloud Frankfurt",
+  "createdAt": "2025-02-19 08:40:00 +0000 UTC",
+  "lastMod": "2025-02-19 08:40:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2025-02-19-public-cloud-ffm/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-02-19 09:41:00",
+  "affected": ["Public Cloud Frankfurt"],
+  "filename": "2025-02-19-public-cloud-ffm.md"
+}
