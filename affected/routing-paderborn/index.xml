@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Routing Paderborn on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/routing-paderborn/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2024-08-06T15:10:00+00:00</lastBuildDate>
+    <updated>2024-08-06T15:10:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/routing-paderborn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Störung des Routings</title>
+        <link>https://teuto.fail/issues/2024-08-06-routing-probleme/</link>
+        <pubDate>Tue, 06 Aug 2024 15:10:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-08-06-routing-probleme/</guid>
+        <category>2024-08-06 15:55:00</category>
+        <description>&lt;p&gt;Aktuell kommt es zu einer Stoerung des Routings. Wir arbeiten mit Hochdruck an einer Loesung.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Aktuell kommt es zu einer Stoerung des Routings. Wir arbeiten mit Hochdruck an einer Loesung.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Störung der Netzwerkverbindung in Paderborn</title>
+        <link>https://teuto.fail/issues/2024-07-16-wartungsarbeiten-pb/</link>
+        <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-07-16-wartungsarbeiten-pb/</guid>
+        <category>2024-07-16 06:00:00</category>
+        <description>&lt;p&gt;Am Dienstag, den 16.07.2024 von 00:00 Uhr bis 06:00 Uhr wird eine Wartung der Infrastruktur am Standort Paderborn vorgenommen.&lt;/p&gt;
+&lt;p&gt;Es kann zu kurzen Einschränkungen bei der Verfügbarkeit der Dienste wie Public Cloud Paderborn, Webhosting, login.teuto.net und mail.teuto.net kommen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am Dienstag, den 16.07.2024 von 00:00 Uhr bis 06:00 Uhr wird eine Wartung der Infrastruktur am Standort Paderborn vorgenommen.&lt;/p&gt;
+&lt;p&gt;Es kann zu kurzen Einschränkungen bei der Verfügbarkeit der Dienste wie Public Cloud Paderborn, Webhosting, login.teuto.net und mail.teuto.net kommen.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Störung in Paderborn</title>
+        <link>https://teuto.fail/issues/2024-06-18-ausfall-pb/</link>
+        <pubDate>Tue, 18 Jun 2024 09:05:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-06-18-ausfall-pb/</guid>
+        <category>2024-06-18 10:26:00</category>
+        <description>&lt;p&gt;Wir verzeichnen aktuell eine Störung in Paderborn.&lt;/p&gt;
+&lt;p&gt;Update: Die Ursache war ein Stromausfall im Rechenzentrum eines Dienstleisters. Die Systeme sind wieder erreichbar.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Wir verzeichnen aktuell eine Störung in Paderborn.&lt;/p&gt;
+&lt;p&gt;Update: Die Ursache war ein Stromausfall im Rechenzentrum eines Dienstleisters. Die Systeme sind wieder erreichbar.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Störung der Netzwerkverbindung in Paderborn</title>
+        <link>https://teuto.fail/issues/2024-05-14-netwerk-ausfall-pb/</link>
+        <pubDate>Tue, 14 May 2024 12:10:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-05-14-netwerk-ausfall-pb/</guid>
+        <category>2024-05-14 16:40:00</category>
+        <description>&lt;p&gt;Wir verzeichnen aktuell eine Störung der Netzwerkverbindung in Paderborn.&lt;/p&gt;
+&lt;p&gt;Update: Im Rechenzentrum in Frankfurt kam es zu einem Stromausfall, davon ist die Leitung nach Paderborn betroffen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Wir verzeichnen aktuell eine Störung der Netzwerkverbindung in Paderborn.&lt;/p&gt;
+&lt;p&gt;Update: Im Rechenzentrum in Frankfurt kam es zu einem Stromausfall, davon ist die Leitung nach Paderborn betroffen.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

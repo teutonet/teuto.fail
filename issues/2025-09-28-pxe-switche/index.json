@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Ausfall Festverbindungen",
+  "createdAt": "2025-09-23 20:30:00 +0000 UTC",
+  "lastMod": "2025-09-23 20:30:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2025-09-28-pxe-switche/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-09-23 23:00:00",
+  "affected": ["Routing Bielefeld"],
+  "filename": "2025-09-28-pxe-switche.md"
+}
