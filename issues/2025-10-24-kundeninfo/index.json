@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Information zu smtp.teuto.net",
+  "createdAt": "2025-10-24 11:00:00 +0000 UTC",
+  "lastMod": "2025-10-24 11:00:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2025-10-24-kundeninfo/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-10-24 11:45:00",
+  "affected": ["smtp.teuto.net"],
+  "filename": "2025-10-24-kundeninfo.md"
+}

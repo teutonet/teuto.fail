@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Netzwerkproblemen in BFE",
+  "createdAt": "2025-02-25 10:05:00 +0000 UTC",
+  "lastMod": "2025-02-25 10:05:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2025-02-25-st%C3%B6rung-routing/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-02-25 11:00:00",
+  "affected": ["Routing Bielefeld"],
+  "filename": "2025-02-25-Störung-Routing.md"
+}

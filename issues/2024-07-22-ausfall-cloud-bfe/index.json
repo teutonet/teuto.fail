@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Störung der Load Balancer in Bielefeld",
+  "createdAt": "2024-07-22 00:10:00 +0000 UTC",
+  "lastMod": "2024-07-22 00:10:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2024-07-22-ausfall-cloud-bfe/",
+  "severity": "down",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-07-22 11:50:00",
+  "affected": ["Public Cloud Bielefeld", "<no value>"],
+  "filename": "2024-07-22-ausfall-cloud-bfe.md"
+}

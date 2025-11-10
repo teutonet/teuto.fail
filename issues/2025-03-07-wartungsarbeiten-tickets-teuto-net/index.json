@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Wartungsarbeiten gitlab System tickets.teuto.net",
+  "createdAt": "2025-03-07 07:00:00 +0000 UTC",
+  "lastMod": "2025-03-07 07:00:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2025-03-07-wartungsarbeiten-tickets-teuto-net/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-03-07 08:00:00",
+  "affected": ["tickets.teuto.net"],
+  "filename": "2025-03-07-wartungsarbeiten-tickets-teuto-net.md"
+}

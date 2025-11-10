@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Störung der Netzwerkverbindung in Paderborn",
+  "createdAt": "2024-05-14 12:10:00 +0000 UTC",
+  "lastMod": "2024-05-14 12:10:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2024-05-14-netwerk-ausfall-pb/",
+  "severity": "down",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-05-14 16:40:00",
+  "affected": ["Public Cloud Paderborn", "Routing Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "login.teuto.net", "mail.teuto.net"],
+  "filename": "2024-05-14-netwerk-ausfall-pb.md"
+}
