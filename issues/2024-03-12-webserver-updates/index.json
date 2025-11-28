@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Geplante Wartung - web2, web3, web4",
+  "createdAt": "2024-03-12 21:00:00 +0000 UTC",
+  "lastMod": "2024-03-12 21:00:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2024-03-12-webserver-updates/",
+  "severity": "<no value>",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-03-12 23:00:00",
+  "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net"],
+  "filename": "2024-03-12-webserver-updates.md"
+}

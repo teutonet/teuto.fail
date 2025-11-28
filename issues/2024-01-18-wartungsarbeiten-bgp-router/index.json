@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Wartungsarbeiten BGP-Router Bielefeld",
+  "createdAt": "2024-01-18 21:00:00 +0000 UTC",
+  "lastMod": "2024-01-18 21:00:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2024-01-18-wartungsarbeiten-bgp-router/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-01-18 23:00:00",
+  "affected": ["Routing Bielefeld"],
+  "filename": "2024-01-18-wartungsarbeiten-bgp-router.md"
+}

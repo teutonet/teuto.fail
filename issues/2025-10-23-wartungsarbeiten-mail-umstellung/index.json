@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Wartung E-Mail Systeme",
+  "createdAt": "2025-11-05 21:00:00 +0000 UTC",
+  "lastMod": "2025-11-05 21:00:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2025-10-23-wartungsarbeiten-mail-umstellung/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-11-05 21:10:00",
+  "affected": ["imap.teuto.net", "pop3.teuto.net", "smtp.teuto.net", "mail.teuto.net", "zimbra.teuto.net"],
+  "filename": "2025-10-23-wartungsarbeiten-mail-umstellung.md"
+}

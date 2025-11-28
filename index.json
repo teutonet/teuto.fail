@@ -1,0 +1,481 @@
+{
+  "is": "index",
+  "cStateVersion": "5.5.2",
+  "apiVersion": "2.0",
+  "title": "teuto.net Störungs- und Wartungsmeldungen",
+  "languageCodeHTML": "de",
+  "languageCode": "de",
+  "baseURL": "https://teuto.fail/", 
+  "description": "Auf diesen Seiten informieren wir Sie über Störungen und Wartungsarbeiten. Registrieren Sie sich [hier](https://ml.teuto.net/mailman3/lists/teuto-noc.ml.teuto.net/) mit Ihrer E-Mail-Adresse und Sie werden per E-Mail auf dem Laufenden gehalten. [Datenschutz](https://www.teuto.net/datenschutzerklaerung/) [Impressum](https://www.teuto.net/impressum/)",
+  "summaryStatus": "notice", 
+  "categories": [
+      {
+        "name": "Infrastruktur",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Public Cloud",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Webserver",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Mailserver",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "DNS",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Website",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    
+  ],
+  "systems": [
+    
+      {
+        "name": "web2.teuto.net",
+        "category": "Webserver", 
+        
+        "status": "notice",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Serverumzug in ein anderes Rechenzentrum",
+              "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+              "lastMod": "2026-01-13 20:00:00 +0000 UTC",
+              "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2026-01-14 04:00:00",
+              "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+              "filename": "2026-01-13-umzug-telehouse.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "web3.teuto.net",
+        "category": "Webserver", 
+        
+        "status": "notice",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Serverumzug in ein anderes Rechenzentrum",
+              "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+              "lastMod": "2026-01-13 20:00:00 +0000 UTC",
+              "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2026-01-14 04:00:00",
+              "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+              "filename": "2026-01-13-umzug-telehouse.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "web4.teuto.net",
+        "category": "Webserver", 
+        
+        "status": "notice",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Serverumzug in ein anderes Rechenzentrum",
+              "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+              "lastMod": "2026-01-13 20:00:00 +0000 UTC",
+              "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2026-01-14 04:00:00",
+              "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+              "filename": "2026-01-13-umzug-telehouse.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "mail.teuto.net",
+        "category": "Mailserver", 
+        
+        "status": "notice",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Serverumzug in ein anderes Rechenzentrum",
+              "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+              "lastMod": "2026-01-13 20:00:00 +0000 UTC",
+              "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2026-01-14 04:00:00",
+              "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+              "filename": "2026-01-13-umzug-telehouse.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "zimbra.teuto.net",
+        "category": "Mailserver", 
+        
+        "status": "notice",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Serverumzug in ein anderes Rechenzentrum",
+              "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+              "lastMod": "2026-01-13 20:00:00 +0000 UTC",
+              "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2026-01-14 04:00:00",
+              "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+              "filename": "2026-01-13-umzug-telehouse.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "imap.teuto.net",
+        "category": "Mailserver", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "pop3.teuto.net",
+        "category": "Mailserver", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "smtp.teuto.net",
+        "category": "Mailserver", 
+        
+        "status": "notice",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Serverumzug in ein anderes Rechenzentrum",
+              "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+              "lastMod": "2026-01-13 20:00:00 +0000 UTC",
+              "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2026-01-14 04:00:00",
+              "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+              "filename": "2026-01-13-umzug-telehouse.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "mail1.teuto.net",
+        "category": "Mailserver", 
+        
+        "status": "notice",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Serverumzug in ein anderes Rechenzentrum",
+              "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+              "lastMod": "2026-01-13 20:00:00 +0000 UTC",
+              "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2026-01-14 04:00:00",
+              "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+              "filename": "2026-01-13-umzug-telehouse.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "mx1.isp.teuto.net",
+        "category": "Mailserver", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "mx2.isp.teuto.net",
+        "category": "Mailserver", 
+        
+        "status": "notice",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Serverumzug in ein anderes Rechenzentrum",
+              "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+              "lastMod": "2026-01-13 20:00:00 +0000 UTC",
+              "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2026-01-14 04:00:00",
+              "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+              "filename": "2026-01-13-umzug-telehouse.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "ns1.teuto.net",
+        "category": "DNS", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "ns2.teuto.net",
+        "category": "DNS", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "ns3.teuto.net",
+        "category": "DNS", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "teuto.net",
+        "category": "Website", 
+        
+        "status": "notice",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Serverumzug in ein anderes Rechenzentrum",
+              "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+              "lastMod": "2026-01-13 20:00:00 +0000 UTC",
+              "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2026-01-14 04:00:00",
+              "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+              "filename": "2026-01-13-umzug-telehouse.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "login.teuto.net",
+        "category": "Website", 
+        
+        "status": "notice",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Serverumzug in ein anderes Rechenzentrum",
+              "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+              "lastMod": "2026-01-13 20:00:00 +0000 UTC",
+              "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2026-01-14 04:00:00",
+              "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+              "filename": "2026-01-13-umzug-telehouse.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "kundenportal.teuto.net",
+        "category": "Website", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "mail.teuto.net",
+        "category": "Website", 
+        
+        "status": "notice",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Serverumzug in ein anderes Rechenzentrum",
+              "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+              "lastMod": "2026-01-13 20:00:00 +0000 UTC",
+              "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2026-01-14 04:00:00",
+              "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+              "filename": "2026-01-13-umzug-telehouse.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "Routing Frankfurt",
+        "category": "Infrastruktur", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Routing Bielefeld",
+        "category": "Infrastruktur", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Routing Paderborn",
+        "category": "Infrastruktur", 
+        
+        "status": "notice",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Serverumzug in ein anderes Rechenzentrum",
+              "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+              "lastMod": "2026-01-13 20:00:00 +0000 UTC",
+              "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2026-01-14 04:00:00",
+              "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+              "filename": "2026-01-13-umzug-telehouse.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "Serverhousing Bielefeld",
+        "category": "Infrastruktur", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Festverbindungen",
+        "category": "Infrastruktur", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Public Cloud Bielefeld",
+        "category": "Public Cloud", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Public Cloud Frankfurt",
+        "category": "Public Cloud", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Public Cloud Paderborn",
+        "category": "Public Cloud", 
+        
+        "status": "notice",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Serverumzug in ein anderes Rechenzentrum",
+              "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+              "lastMod": "2026-01-13 20:00:00 +0000 UTC",
+              "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2026-01-14 04:00:00",
+              "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+              "filename": "2026-01-13-umzug-telehouse.md"
+            }
+          
+        ]
+      }
+  ],
+  
+  
+  "buildDate": "2025-11-28",
+  "buildTime": "10:52",
+  "buildTimezone": "UTC",
+  "colorBrand": "#35437b",
+  "colorOk": "#35437b",
+  "colorDisrupted": "#cc4400",
+  "colorDown": "#e60000",
+  "colorNotice": "#24478f",
+  "alwaysKeepBrandColor": "true",
+  "logo": "https://teuto.fail/logo.png",
+  "googleAnalytics": "UA-00000000-1"
+}

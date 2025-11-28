@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Netzwerkproblemen in BFE",
+  "createdAt": "2025-07-10 07:30:00 +0000 UTC",
+  "lastMod": "2025-07-10 07:30:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2025-07-10-stoerung-bielefeld/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-07-10 10:00:00",
+  "affected": ["Routing Bielefeld"],
+  "filename": "2025-07-10-stoerung-bielefeld.md"
+}

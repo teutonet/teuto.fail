@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Wartung Routing",
+  "createdAt": "2025-10-08 06:00:00 +0000 UTC",
+  "lastMod": "2025-10-08 06:00:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2025-10-08-vrrp/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-10-08 07:00:00",
+  "affected": ["Routing Bielefeld"],
+  "filename": "2025-10-08-vrrp.md"
+}

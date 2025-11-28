@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Umzug der Webhosting- und Mailhosting-Infrastruktur",
+  "createdAt": "2024-02-24 07:00:00 +0000 UTC",
+  "lastMod": "2024-02-24 07:00:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2024-02-24-ispconfig-migration/",
+  "severity": "Notice",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2024-02-24 18:00:00",
+  "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "login.teuto.net"],
+  "filename": "2024-02-24-ispconfig-migration.md"
+}
