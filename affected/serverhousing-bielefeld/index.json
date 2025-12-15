@@ -1,0 +1,27 @@
+{
+  "is": "system",
+  "title": "Serverhousing Bielefeld",
+  "permalink": "https://teuto.fail/affected/serverhousing-bielefeld/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Netzwerk Wartungsarbeiten Bielefeld",
+        "createdAt": "2025-04-07 19:00:00 +0000 UTC",
+        "lastMod": "2025-10-15 14:51:16 +0200 +0200",
+        "permalink": "https://teuto.fail/issues/2025-04-07-switchtausch/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-04-07 23:00:00",
+        "affected": ["Serverhousing Bielefeld", "Festverbindungen"],
+        "filename": "2025-04-07-switchtausch.md"
+      }
+    
+  ]
+}
+
+
+
+
+
