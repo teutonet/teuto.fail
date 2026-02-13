@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Mx1.teuto.net on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/mx1.teuto.net/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2026-02-26T10:00:00+00:00</lastBuildDate>
+    <updated>2026-02-26T10:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/mx1.teuto.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Neue Ip-Adressen für mx1 und mx2.teuto.net</title>
+        <link>https://teuto.fail/issues/2026-02-26-neue-mxserver-ips/</link>
+        <pubDate>Thu, 26 Feb 2026 10:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2026-02-26-neue-mxserver-ips/</guid>
+        <category></category>
+        <description>&lt;p&gt;Am 26.2.2026 verändern gegen ca. 10 Uhr sich die IP-Adressen der Systeme mx1.teuto.net und mx2.teuto.net.&lt;/p&gt;
+&lt;p&gt;Nachfolgend die neuen IP-Adressen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;212.15.214.182&lt;/li&gt;
+&lt;li&gt;212.8.207.204&lt;/li&gt;
+&lt;li&gt;2001:ae2:207::1:0:2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wir erwarten grundsätzlich keinerlei Ausfälle oder sonstige Probleme durch diese Umstellung.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 26.2.2026 verändern gegen ca. 10 Uhr sich die IP-Adressen der Systeme mx1.teuto.net und mx2.teuto.net.&lt;/p&gt;
+&lt;p&gt;Nachfolgend die neuen IP-Adressen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;212.15.214.182&lt;/li&gt;
+&lt;li&gt;212.8.207.204&lt;/li&gt;
+&lt;li&gt;2001:ae2:207::1:0:2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wir erwarten grundsätzlich keinerlei Ausfälle oder sonstige Probleme durch diese Umstellung.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>
