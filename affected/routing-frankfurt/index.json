@@ -1,0 +1,55 @@
+{
+  "is": "system",
+  "title": "Routing Frankfurt",
+  "permalink": "https://teuto.fail/affected/routing-frankfurt/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Störung des Routings",
+        "createdAt": "2024-08-06 15:10:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-08-06-routing-probleme/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-08-06 15:55:00",
+        "affected": ["Routing Frankfurt", "Routing Bielefeld", "Routing Paderborn"],
+        "filename": "2024-08-06-routing-probleme.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten Netzwerk Frankfurt",
+        "createdAt": "2024-07-02 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-07-02-wartung-ffm/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-07-02 22:00:00",
+        "affected": ["Routing Frankfurt", "Public Cloud Frankfurt"],
+        "filename": "2024-07-02-Wartung-ffm.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Stromausfall Rechenzentrum FRA8 in Frankfurt",
+        "createdAt": "2023-12-12 06:27:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2023-12-12-ausfall-strom/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2023-12-12 09:26:00",
+        "affected": ["Public Cloud Frankfurt", "Routing Frankfurt"],
+        "filename": "2023-12-12-ausfall-strom.md"
+      }
+    
+  ]
+}
+
+
+
+
+

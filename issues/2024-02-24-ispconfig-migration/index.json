@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Umzug der Webhosting- und Mailhosting-Infrastruktur",
+  "body": "\u003cp\u003eAm Samstag, den 24.02.2024 werden einige Server vom Standort Bielefeld in ein Rechenzentrum von windCORES, Teil der WestfalenWIND Gruppe umgezogen.\u003c/p\u003e\n\u003cp\u003eDie betroffenen Dienste sind ab 7 Uhr nicht erreichbar, wir gehen davon aus das der Umzug bis 11 Uhr abgeschlossen ist.\u003c/p\u003e\n\u003cp\u003eBetroffen sind sämtliche Webserver im Shared Hosting und ein Teil der Mailinfrastruktur.\u003c/p\u003e\n\u003cp\u003eOb Ihr Postfach betroffen ist können Sie unter \u003ca href=\"https://mailconf.teuto.net/\"\u003ehttps://mailconf.teuto.net/\u003c/a\u003e anhand der Posteingangsserver bzw. Postausgangserver prüfen.\u003c/p\u003e\n\u003cp\u003eDer Umzug wurde erfolgreich abgeschlossen.\u003c/p\u003e\n",
+  "createdAt": "2024-02-24 07:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2024-02-24-ispconfig-migration/",
+  "severity": "Notice",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2024-02-24 18:00:00",
+  "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "login.teuto.net"],
+  "filename": "2024-02-24-ispconfig-migration.md"
+}

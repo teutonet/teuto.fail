@@ -1,0 +1,69 @@
+{
+  "is": "system",
+  "title": "Imap.teuto.net",
+  "permalink": "https://teuto.fail/affected/imap.teuto.net/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Wartung E-Mail Systeme",
+        "createdAt": "2025-11-05 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-10-23-wartungsarbeiten-mail-umstellung/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-11-05 21:10:00",
+        "affected": ["imap.teuto.net", "pop3.teuto.net", "smtp.teuto.net", "mail.teuto.net", "zimbra.teuto.net"],
+        "filename": "2025-10-23-wartungsarbeiten-mail-umstellung.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten am internen Datenbanksystem. Es kommt zu kurzen Unterbrechungen beim Email Empfang/Versand.",
+        "createdAt": "2024-01-16 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-01-16-wartungsarbeiten-datenbanksystem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-01-16 08:00:00",
+        "affected": ["imap.teuto.net", "pop3.teuto.net", "smtp.teuto.net"],
+        "filename": "2024-01-16-wartungsarbeiten-datenbanksystem.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten imap.teuto.net, pop3.teuto.net",
+        "createdAt": "2023-11-16 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2023-07-31-einschraenkung-email-versand-empfang/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2023-11-16 22:00:00",
+        "affected": ["imap.teuto.net", "pop3.teuto.net"],
+        "filename": "2023-07-31-einschraenkung-email-versand-empfang.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Ausfall imap.teuto.net, pop3.teuto.net",
+        "createdAt": "2023-11-10 00:15:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2023-11-10-ausfall-imap-pop3/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2023-11-10 09:15:00",
+        "affected": ["imap.teuto.net", "pop3.teuto.net"],
+        "filename": "2023-11-10-ausfall-imap-pop3.md"
+      }
+    
+  ]
+}
+
+
+
+
+

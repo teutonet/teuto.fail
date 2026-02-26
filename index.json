@@ -1,0 +1,339 @@
+{
+  "is": "index",
+  "cStateVersion": "6.0.1",
+  "apiVersion": "2.0",
+  "title": "teuto.net Störungs- und Wartungsmeldungen",
+  "languageCodeHTML": "de",
+  "languageCode": "de",
+  "baseURL": "https://teuto.fail/",
+  "description": "Auf diesen Seiten informieren wir Sie über Störungen und Wartungsarbeiten. Registrieren Sie sich [hier](https://ml.teuto.net/mailman3/lists/teuto-noc.ml.teuto.net/) mit Ihrer E-Mail-Adresse und Sie werden per E-Mail auf dem Laufenden gehalten. [Datenschutz](https://www.teuto.net/datenschutzerklaerung/) [Impressum](https://www.teuto.net/impressum/)",
+  "summaryStatus": "notice",
+  "categories": [
+      {
+        "name": "Infrastruktur",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Public Cloud",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Webserver",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Mailserver",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "DNS",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Website",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    
+  ],
+  
+  
+  "pinnedIssues": [],
+  "systems": [
+    
+      {
+        "name": "web2.teuto.net",
+        "category": "Webserver",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Geplante Wartung - web2, web4",
+              "createdAt": "2026-03-04 20:00:00 +0000 UTC",
+              "lastMod": "2026-02-24 14:04:22 +0100 +0100",
+              "permalink": "https://teuto.fail/issues/2026-03-04-webserver-updates/",
+              "severity": "<no value>",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2024-03-12 23:00:00",
+              "affected": ["web2.teuto.net", "web4.teuto.net"],
+              "filename": "2026-03-04-webserver-updates.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "web3.teuto.net",
+        "category": "Webserver",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "web4.teuto.net",
+        "category": "Webserver",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Geplante Wartung - web2, web4",
+              "createdAt": "2026-03-04 20:00:00 +0000 UTC",
+              "lastMod": "2026-02-24 14:04:22 +0100 +0100",
+              "permalink": "https://teuto.fail/issues/2026-03-04-webserver-updates/",
+              "severity": "<no value>",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "2024-03-12 23:00:00",
+              "affected": ["web2.teuto.net", "web4.teuto.net"],
+              "filename": "2026-03-04-webserver-updates.md"
+            }
+          
+        ]
+      },
+      {
+        "name": "mail.teuto.net",
+        "category": "Mailserver",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "zimbra.teuto.net",
+        "category": "Mailserver",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "imap.teuto.net",
+        "category": "Mailserver",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "pop3.teuto.net",
+        "category": "Mailserver",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "smtp.teuto.net",
+        "category": "Mailserver",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "mail1.teuto.net",
+        "category": "Mailserver",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "mx1.isp.teuto.net",
+        "category": "Mailserver",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "mx2.isp.teuto.net",
+        "category": "Mailserver",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "ns1.teuto.net",
+        "category": "DNS",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "ns2.teuto.net",
+        "category": "DNS",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "ns3.teuto.net",
+        "category": "DNS",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "teuto.net",
+        "category": "Website",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "login.teuto.net",
+        "category": "Website",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "kundenportal.teuto.net",
+        "category": "Website",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "mail.teuto.net",
+        "category": "Website",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Routing Frankfurt",
+        "category": "Infrastruktur",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Routing Bielefeld",
+        "category": "Infrastruktur",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Routing Paderborn",
+        "category": "Infrastruktur",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Serverhousing Bielefeld",
+        "category": "Infrastruktur",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Festverbindungen",
+        "category": "Infrastruktur",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Public Cloud Bielefeld",
+        "category": "Public Cloud",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Public Cloud bfe2",
+        "category": "Public Cloud",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Public Cloud Frankfurt",
+        "category": "Public Cloud",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Public Cloud Paderborn",
+        "category": "Public Cloud",
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      }
+  ],
+  
+
+  "buildDate": "2026-02-26",
+  "buildTime": "12:36",
+  "buildTimezone": "UTC",
+  "colorBrand": "#f5f5f5",
+  "colorOk": "#008000",
+  "colorDisrupted": "#cc4400",
+  "colorDown": "#e60000",
+  "colorNotice": "#24478f",
+  "alwaysKeepBrandColor": "true",
+  "logo": "https://teuto.fail/teutonet_logo_1k.png",
+  "googleAnalytics": "UA-00000000-1"
+}

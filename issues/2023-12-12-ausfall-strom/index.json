@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Stromausfall Rechenzentrum FRA8 in Frankfurt",
+  "body": "\u003cp\u003eAufgrund eines Ausfalls bei der Stromversorgung im Rechenzentrum FRA8 in Frankfurt kommt es bei den angegebenen Diensten zu Einschränkungen.\u003c/p\u003e\n",
+  "createdAt": "2023-12-12 06:27:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2023-12-12-ausfall-strom/",
+  "severity": "down",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2023-12-12 09:26:00",
+  "affected": ["Public Cloud Frankfurt", "Routing Frankfurt"],
+  "filename": "2023-12-12-ausfall-strom.md"
+}

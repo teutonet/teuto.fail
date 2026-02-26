@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Wartung zimbra.teuto.net",
+  "body": "\u003cp\u003eAm 15.10.2025 zwischen 21 und 23 Uhr werden Wartungsarbeiten am Server zimbra.teuto.net durchgeführt.\u003c/p\u003e\n\u003cp\u003eWährend der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eZugriff auf den Groupware-Server zimbra.teuto.net\u003c/li\u003e\n\u003c/ul\u003e\n",
+  "createdAt": "2025-10-15 21:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2025-10-15-wartungsarbeiten-zimbra/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-10-15 23:00:00",
+  "affected": ["zimbra.teuto.net"],
+  "filename": "2025-10-15-wartungsarbeiten-zimbra.md"
+}

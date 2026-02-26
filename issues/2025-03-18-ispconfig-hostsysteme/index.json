@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Updates Webhosting Hostsysteme",
+  "body": "\u003cp\u003eAm 18.03.2025 zwischen 20 und 23 Uhr werden an den genannten Servern Wartungsarbeiten durchgeführt.\u003c/p\u003e\n\u003cp\u003eWährend der Wartungsarbeiten stehen folgende Dienste zeitweise nicht zur Verfügung:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eteuto.net shared Webhosting\u003c/li\u003e\n\u003cli\u003eKundenlogin\u003c/li\u003e\n\u003cli\u003eAbruf und Versand von E-Mails im neuen Mailsystem\u003c/li\u003e\n\u003c/ul\u003e\n",
+  "createdAt": "2025-03-18 20:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2025-03-18-ispconfig-hostsysteme/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-03-18 22:00:00",
+  "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "login.teuto.net", "teuto.net", "mail.teuto.net"],
+  "filename": "2025-03-18-ispconfig-hostsysteme.md"
+}

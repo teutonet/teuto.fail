@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Netzwerkproblemen in BFE",
+  "body": "\u003cp\u003eSeit 07:30 Uhr kommt es zu Störungen an der in Bielefeld gehosteten\nInfrastruktur. Die Erreichbarkeit verschiedener Dienste ist eingeschränkt.\u003c/p\u003e\n\u003cp\u003eDie telefonische Erreichbarkeit von teuto.net ist ebenfalls davon betroffen.\u003c/p\u003e\n\u003cp\u003eEine Kontaktaufnahme ist per E-Mail an \u003ca href=\"mailto:support@teuto.net\"\u003esupport@teuto.net\u003c/a\u003e möglich.\u003c/p\u003e\n\u003cp\u003eUpdate: Die Dienste sind wieder erreichbar. Telefonische Kontaktaufnahme\nist auch wieder möglich.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003eSince 07:30 am there are issues with the infrastructure hosted in Bielefeld.\nThe connectivity of various services is limited.\u003c/p\u003e\n\u003cp\u003eThe availability of teuto.net via telephone is also limited.\u003c/p\u003e\n\u003cp\u003eYou can contact us by email at \u003ca href=\"mailto:support@teuto.net\"\u003esupport@teuto.net\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eUpdate: All services are up again. You can also reach us by phone again.\u003c/p\u003e\n",
+  "createdAt": "2025-07-10 07:30:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2025-07-10-stoerung-bielefeld/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-07-10 10:00:00",
+  "affected": ["Routing Bielefeld"],
+  "filename": "2025-07-10-stoerung-bielefeld.md"
+}

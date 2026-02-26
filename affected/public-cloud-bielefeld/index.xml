@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Public Cloud Bielefeld on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/public-cloud-bielefeld/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2024-08-07T22:00:00+00:00</lastBuildDate>
+    <updated>2024-08-07T22:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/public-cloud-bielefeld/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Störung des Routings</title>
+        <link>https://teuto.fail/issues/2024-08-07-switch-reboot/</link>
+        <pubDate>Wed, 07 Aug 2024 22:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-08-07-switch-reboot/</guid>
+        <category>2024-08-07 22:30:00</category>
+        <description>&lt;p&gt;Am 7.8. ab 22 Uhr werden dringende Wartungsarbeiten durchgeführt. Eine Netzwerkkomponente wird hierbei neu gestartet. Aufgrund der redudanten Auslegung werden keine Einschränkungen erwartet.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 7.8. ab 22 Uhr werden dringende Wartungsarbeiten durchgeführt. Eine Netzwerkkomponente wird hierbei neu gestartet. Aufgrund der redudanten Auslegung werden keine Einschränkungen erwartet.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Störung der Load Balancer in Bielefeld</title>
+        <link>https://teuto.fail/issues/2024-07-22-ausfall-cloud-bfe/</link>
+        <pubDate>Mon, 22 Jul 2024 00:10:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-07-22-ausfall-cloud-bfe/</guid>
+        <category>2024-07-22 11:50:00</category>
+        <description>&lt;p&gt;Wir verzeichnen eine Störung der Load Balancer in der Cloud am Standort Bielefeld.&lt;/p&gt;
+&lt;p&gt;Die Erreichbarkeit der in der Cloud betriebenen Dienste ist derzeit eingeschränkt.&lt;/p&gt;
+&lt;p&gt;Update: Die Dienste sind wieder erreichbar.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Wir verzeichnen eine Störung der Load Balancer in der Cloud am Standort Bielefeld.&lt;/p&gt;
+&lt;p&gt;Die Erreichbarkeit der in der Cloud betriebenen Dienste ist derzeit eingeschränkt.&lt;/p&gt;
+&lt;p&gt;Update: Die Dienste sind wieder erreichbar.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,694 @@
+{
+  "is": "issues",
+  "title": "Issues",
+  "baseURL": "https://teuto.fail/", 
+  "description": "",
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Geplante Wartung - web2, web4",
+        "createdAt": "2026-03-04 20:00:00 +0000 UTC",
+        "lastMod": "2026-02-24 14:04:22 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-03-04-webserver-updates/",
+        "severity": "<no value>",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "2024-03-12 23:00:00",
+        "affected": ["web2.teuto.net", "web4.teuto.net"],
+        "filename": "2026-03-04-webserver-updates.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Neue Ip-Adressen für mx1 und mx2.teuto.net",
+        "createdAt": "2026-02-26 10:00:00 +0000 UTC",
+        "lastMod": "2026-02-11 12:47:16 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-02-26-neue-mxserver-ips/",
+        "severity": "notice",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "<no value>",
+        "affected": ["mx1.teuto.net", "mx2.teuto.net"],
+        "filename": "2026-02-26-neue-mxserver-ips.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Netzwerkprobleme in Bielefeld",
+        "createdAt": "2026-02-26 08:00:00 +0000 UTC",
+        "lastMod": "2026-02-26 13:34:40 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-02-26-netzwerkprobleme-bielefeld/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-02-26 13:30:00",
+        "affected": ["Netzwerke in Bielefeld"],
+        "filename": "2026-02-26-netzwerkprobleme-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Beeinträchtigung der Klimasysteme im Bielefelder Rechenzentrum",
+        "createdAt": "2026-02-13 08:25:00 +0000 UTC",
+        "lastMod": "2026-02-13 12:47:57 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-02-13-ausfall-klimatisierung-bfe/",
+        "severity": "Notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-02-13 12:16:00",
+        "affected": ["Serverhousing Bielefeld"],
+        "filename": "2026-02-13-ausfall-klimatisierung-bfe.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Serverumzug in ein anderes Rechenzentrum",
+        "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+        "lastMod": "2026-01-14 03:52:49 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-01-14 04:00:00",
+        "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+        "filename": "2026-01-13-umzug-telehouse.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartung Routing",
+        "createdAt": "2025-11-11 06:30:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-11-11-vrrp/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-11-11 07:30:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-11-11-vrrp.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartung E-Mail Systeme",
+        "createdAt": "2025-11-05 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-10-23-wartungsarbeiten-mail-umstellung/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-11-05 21:10:00",
+        "affected": ["imap.teuto.net", "pop3.teuto.net", "smtp.teuto.net", "mail.teuto.net", "zimbra.teuto.net"],
+        "filename": "2025-10-23-wartungsarbeiten-mail-umstellung.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Information zu smtp.teuto.net",
+        "createdAt": "2025-10-24 11:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-10-24-kundeninfo/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-10-24 11:45:00",
+        "affected": ["smtp.teuto.net"],
+        "filename": "2025-10-24-kundeninfo.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartung interner Datenbank-Server",
+        "createdAt": "2025-10-20 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-10-20-wartungsarbeiten-secure-intra/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-10-20 07:45:00",
+        "affected": ["imap.teuto.net, pop3.teuto.net und smtp.teuto.net"],
+        "filename": "2025-10-20-wartungsarbeiten-secure-intra.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartung zimbra.teuto.net",
+        "createdAt": "2025-10-15 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-10-15-wartungsarbeiten-zimbra/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-10-15 23:00:00",
+        "affected": ["zimbra.teuto.net"],
+        "filename": "2025-10-15-wartungsarbeiten-zimbra.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartung Routing",
+        "createdAt": "2025-10-08 06:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-10-08-vrrp/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-10-08 07:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-10-08-vrrp.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Ausfall Festverbindungen",
+        "createdAt": "2025-09-23 20:30:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-09-28-pxe-switche/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-09-23 23:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-09-28-pxe-switche.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Netzwerkproblemen in BFE",
+        "createdAt": "2025-07-10 07:30:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-07-10-stoerung-bielefeld/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-07-10 10:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-07-10-stoerung-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Netzwerk Wartungsarbeiten Bielefeld",
+        "createdAt": "2025-05-07 20:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-05-07-switchtausch/",
+        "severity": "informational",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-05-07 23:00:00",
+        "affected": ["Festverbindungen"],
+        "filename": "2025-05-07-switchtausch.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Netzwerk Wartungsarbeiten Bielefeld",
+        "createdAt": "2025-04-07 19:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-04-07-switchtausch/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-04-07 23:00:00",
+        "affected": ["Serverhousing Bielefeld", "Festverbindungen"],
+        "filename": "2025-04-07-switchtausch.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Updates Webhosting Hostsysteme",
+        "createdAt": "2025-03-18 20:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-03-18-ispconfig-hostsysteme/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-03-18 22:00:00",
+        "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "login.teuto.net", "teuto.net", "mail.teuto.net"],
+        "filename": "2025-03-18-ispconfig-hostsysteme.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten gitlab System tickets.teuto.net",
+        "createdAt": "2025-03-07 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-03-07-wartungsarbeiten-tickets-teuto-net/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-03-07 08:00:00",
+        "affected": ["tickets.teuto.net"],
+        "filename": "2025-03-07-wartungsarbeiten-tickets-teuto-net.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten Netzwerk Bielefeld",
+        "createdAt": "2025-03-04 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-03-04-wartungsarbeiten-netzwerk-bielefeld/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-03-04 08:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-03-04-wartungsarbeiten-netzwerk-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Dringende Wartungsarbeiten Netzwerk Bielefeld",
+        "createdAt": "2025-02-27 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-02-27-wartungsarbeiten-netzwerk-bielefeld/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-02-27 21:30:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-02-27-wartungsarbeiten-netzwerk-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Netzwerkproblemen in BFE",
+        "createdAt": "2025-02-25 10:05:00 +0000 UTC",
+        "lastMod": "2025-02-25 10:05:00 +0000 UTC",
+        "permalink": "https://teuto.fail/issues/2025-02-25-st%C3%B6rung-routing/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-02-25 11:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-02-25-Störung-Routing.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Netzwerkprobleme Public Cloud Frankfurt",
+        "createdAt": "2025-02-19 08:40:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-02-19-public-cloud-ffm/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-02-19 09:41:00",
+        "affected": ["Public Cloud Frankfurt"],
+        "filename": "2025-02-19-public-cloud-ffm.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Gestörte Anbindung Bielefeld",
+        "createdAt": "2024-11-11 10:30:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-11-11-glasfaser/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-11-11 15:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2024-11-11-glasfaser.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Systemaktualisierung tickets.teuto.net",
+        "createdAt": "2024-10-23 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-10-23-update-tickets-teuto.net/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-10-23 07:45:00",
+        "affected": ["tickets.teuto.net"],
+        "filename": "2024-10-23-update-tickets-teuto.net.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten BGP-Routing Bielefeld",
+        "createdAt": "2024-10-16 22:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-10-16-wartungsarbeiten-bgp-bielefeld/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-10-16 23:59:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2024-10-16-wartungsarbeiten-bgp-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung des Routings",
+        "createdAt": "2024-08-07 22:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-08-07-switch-reboot/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-08-07 22:30:00",
+        "affected": ["Public Cloud Bielefeld"],
+        "filename": "2024-08-07-switch-reboot.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung des Routings",
+        "createdAt": "2024-08-06 15:10:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-08-06-routing-probleme/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-08-06 15:55:00",
+        "affected": ["Routing Frankfurt", "Routing Bielefeld", "Routing Paderborn"],
+        "filename": "2024-08-06-routing-probleme.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten Netzwerk Bielefeld",
+        "createdAt": "2024-08-01 23:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-08-01-dringende-wartungsarbeiten/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-08-01 23:30:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2024-08-01-dringende-wartungsarbeiten.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung der Load Balancer in Bielefeld",
+        "createdAt": "2024-07-22 00:10:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-07-22-ausfall-cloud-bfe/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-07-22 11:50:00",
+        "affected": ["Public Cloud Bielefeld", "<no value>"],
+        "filename": "2024-07-22-ausfall-cloud-bfe.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Systemaktualisierung master.teuto.net",
+        "createdAt": "2024-07-16 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-07-16-update-master-greensta/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-07-16 23:00:00",
+        "affected": ["mail.teuto.net", "login.teuto.net"],
+        "filename": "2024-07-16-update-master-greensta.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung der Netzwerkverbindung in Paderborn",
+        "createdAt": "2024-07-16 00:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-07-16-wartungsarbeiten-pb/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-07-16 06:00:00",
+        "affected": ["Public Cloud Paderborn", "Routing Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "login.teuto.net", "mail.teuto.net"],
+        "filename": "2024-07-16-wartungsarbeiten-pb.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten Netzwerk Frankfurt",
+        "createdAt": "2024-07-02 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-07-02-wartung-ffm/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-07-02 22:00:00",
+        "affected": ["Routing Frankfurt", "Public Cloud Frankfurt"],
+        "filename": "2024-07-02-Wartung-ffm.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Systemaktualisierung mail1.teuto.net",
+        "createdAt": "2024-06-24 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-06-25-update-mail1-teuto-net/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-06-24 23:00:00",
+        "affected": ["mail.teuto.net"],
+        "filename": "2024-06-25-update-mail1-teuto-net.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten Netzwerk Bielefeld",
+        "createdAt": "2024-06-18 22:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-06-18-wartungsarbeiten-netzwerk-bielefeld/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-06-18 23:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2024-06-18-wartungsarbeiten-netzwerk-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung in Paderborn",
+        "createdAt": "2024-06-18 09:05:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-06-18-ausfall-pb/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-06-18 10:26:00",
+        "affected": ["Public Cloud Paderborn", "Routing Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "login.teuto.net", "mail.teuto.net"],
+        "filename": "2024-06-18-ausfall-pb.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Systemaktualisierung mail.teuto.net",
+        "createdAt": "2024-05-28 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-05-28-update-mail-teuto-net/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-05-28 22:00:00",
+        "affected": ["mail.teuto.net", "login.teuto.net"],
+        "filename": "2024-05-28-update-mail-teuto-net.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten Netzwerk Bielefeld",
+        "createdAt": "2024-05-27 22:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-05-27-wartungsarbeiten-netzwerk-bielefeld/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-05-27 22:30:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2024-05-27-wartungsarbeiten-netzwerk-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung der Netzwerkverbindung in Paderborn",
+        "createdAt": "2024-05-14 12:10:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-05-14-netwerk-ausfall-pb/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-05-14 16:40:00",
+        "affected": ["Public Cloud Paderborn", "Routing Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "login.teuto.net", "mail.teuto.net"],
+        "filename": "2024-05-14-netwerk-ausfall-pb.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Einspielen von Updates in Paderborn. Es kommt zu Unterbrechungen bei der Erreichbarkeit von Diensten in der Public Cloud.",
+        "createdAt": "2024-05-07 08:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-05-07-cloud-updates-pb/",
+        "severity": "Notice",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-05-07 11:00:00",
+        "affected": ["Public Cloud Paderborn"],
+        "filename": "2024-05-07-cloud-updates-pb.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Geplante Wartung - web2, web3, web4",
+        "createdAt": "2024-03-12 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-03-12-webserver-updates/",
+        "severity": "<no value>",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-03-12 23:00:00",
+        "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net"],
+        "filename": "2024-03-12-webserver-updates.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten an Außenanbindung durch Carrier in Bielefeld",
+        "createdAt": "2024-03-06 00:00:00 +0000 UTC",
+        "lastMod": "2024-03-06 00:00:00 +0000 UTC",
+        "permalink": "https://teuto.fail/issues/2024-03-06-wartungsarbeiten-au%C3%9Fenanbindung-durch-carrier-in-bielefeld/",
+        "severity": "<no value>",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-03-06 08:00:00",
+        "affected": ["Route Bielefeld"],
+        "filename": "2024-03-06-wartungsarbeiten-außenanbindung-durch-carrier-in-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Umzug der Webhosting- und Mailhosting-Infrastruktur",
+        "createdAt": "2024-02-24 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-02-24-ispconfig-migration/",
+        "severity": "Notice",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-02-24 18:00:00",
+        "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "login.teuto.net"],
+        "filename": "2024-02-24-ispconfig-migration.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Absender-Prüfung E-Mail",
+        "createdAt": "2024-02-12 00:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-02-12-mail-absender/",
+        "severity": "Notice",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-02-12 07:00:00",
+        "affected": ["smtp.teuto.net"],
+        "filename": "2024-02-12-mail-absender.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten BGP-Router Bielefeld",
+        "createdAt": "2024-01-18 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-01-18-wartungsarbeiten-bgp-router/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-01-18 23:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2024-01-18-wartungsarbeiten-bgp-router.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten am internen Datenbanksystem. Es kommt zu kurzen Unterbrechungen beim Email Empfang/Versand.",
+        "createdAt": "2024-01-16 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-01-16-wartungsarbeiten-datenbanksystem/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-01-16 08:00:00",
+        "affected": ["imap.teuto.net", "pop3.teuto.net", "smtp.teuto.net"],
+        "filename": "2024-01-16-wartungsarbeiten-datenbanksystem.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Stromausfall Rechenzentrum FRA8 in Frankfurt",
+        "createdAt": "2023-12-12 06:27:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2023-12-12-ausfall-strom/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2023-12-12 09:26:00",
+        "affected": ["Public Cloud Frankfurt", "Routing Frankfurt"],
+        "filename": "2023-12-12-ausfall-strom.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten imap.teuto.net, pop3.teuto.net",
+        "createdAt": "2023-11-16 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2023-07-31-einschraenkung-email-versand-empfang/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2023-11-16 22:00:00",
+        "affected": ["imap.teuto.net", "pop3.teuto.net"],
+        "filename": "2023-07-31-einschraenkung-email-versand-empfang.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Ausfall imap.teuto.net, pop3.teuto.net",
+        "createdAt": "2023-11-10 00:15:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2023-11-10-ausfall-imap-pop3/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2023-11-10 09:15:00",
+        "affected": ["imap.teuto.net", "pop3.teuto.net"],
+        "filename": "2023-11-10-ausfall-imap-pop3.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten an Außenanbindung durch Carrier in Bielefeld",
+        "createdAt": "2023-10-16 07:00:00 +0000 UTC",
+        "lastMod": "2023-10-16 07:00:00 +0000 UTC",
+        "permalink": "https://teuto.fail/issues/2023-10-16-wartungsarbeiten-au%C3%9Fenanbindung-durch-carrier-in-bielefeld/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2023-10-18 08:00:00",
+        "affected": ["Route Bielefeld"],
+        "filename": "2023-10-16-wartungsarbeiten-außenanbindung-durch-carrier-in-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten Core-Routing Frankfurt",
+        "createdAt": "2023-09-04 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2023-09-04-wartungsarbeiten-core-routing-frankfurt/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2023-09-04 08:00:00",
+        "affected": ["Route Frankfurt"],
+        "filename": "2023-09-04-wartungsarbeiten-core-routing-frankfurt.md"
+      }
+    
+  ]
+}

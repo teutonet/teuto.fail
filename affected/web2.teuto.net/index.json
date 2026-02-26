@@ -1,0 +1,125 @@
+{
+  "is": "system",
+  "title": "Web2.teuto.net",
+  "permalink": "https://teuto.fail/affected/web2.teuto.net/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Geplante Wartung - web2, web4",
+        "createdAt": "2026-03-04 20:00:00 +0000 UTC",
+        "lastMod": "2026-02-24 14:04:22 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-03-04-webserver-updates/",
+        "severity": "<no value>",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "2024-03-12 23:00:00",
+        "affected": ["web2.teuto.net", "web4.teuto.net"],
+        "filename": "2026-03-04-webserver-updates.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Serverumzug in ein anderes Rechenzentrum",
+        "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+        "lastMod": "2026-01-14 03:52:49 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-01-14 04:00:00",
+        "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+        "filename": "2026-01-13-umzug-telehouse.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Updates Webhosting Hostsysteme",
+        "createdAt": "2025-03-18 20:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-03-18-ispconfig-hostsysteme/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-03-18 22:00:00",
+        "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "login.teuto.net", "teuto.net", "mail.teuto.net"],
+        "filename": "2025-03-18-ispconfig-hostsysteme.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung der Netzwerkverbindung in Paderborn",
+        "createdAt": "2024-07-16 00:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-07-16-wartungsarbeiten-pb/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-07-16 06:00:00",
+        "affected": ["Public Cloud Paderborn", "Routing Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "login.teuto.net", "mail.teuto.net"],
+        "filename": "2024-07-16-wartungsarbeiten-pb.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung in Paderborn",
+        "createdAt": "2024-06-18 09:05:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-06-18-ausfall-pb/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-06-18 10:26:00",
+        "affected": ["Public Cloud Paderborn", "Routing Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "login.teuto.net", "mail.teuto.net"],
+        "filename": "2024-06-18-ausfall-pb.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung der Netzwerkverbindung in Paderborn",
+        "createdAt": "2024-05-14 12:10:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-05-14-netwerk-ausfall-pb/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-05-14 16:40:00",
+        "affected": ["Public Cloud Paderborn", "Routing Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "login.teuto.net", "mail.teuto.net"],
+        "filename": "2024-05-14-netwerk-ausfall-pb.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Geplante Wartung - web2, web3, web4",
+        "createdAt": "2024-03-12 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-03-12-webserver-updates/",
+        "severity": "<no value>",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-03-12 23:00:00",
+        "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net"],
+        "filename": "2024-03-12-webserver-updates.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Umzug der Webhosting- und Mailhosting-Infrastruktur",
+        "createdAt": "2024-02-24 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-02-24-ispconfig-migration/",
+        "severity": "Notice",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-02-24 18:00:00",
+        "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "login.teuto.net"],
+        "filename": "2024-02-24-ispconfig-migration.md"
+      }
+    
+  ]
+}
+
+
+
+
+

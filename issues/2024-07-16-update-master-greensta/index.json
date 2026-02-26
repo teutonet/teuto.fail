@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Systemaktualisierung master.teuto.net",
+  "body": "\u003cp\u003eAm 16.07.2024 zwischen 21:00 Uhr und 22:00 Uhr werden Wartungsarbeiten am System master.teuto.net durchgeführt.\u003c/p\u003e\n\u003cp\u003eDies betrifft das Kundenlogin unter login.teuto.net und den E-Mail Versand und Abruf mittels IMAP, SMTP, POP3 oder Webmailer.\u003c/p\u003e\n\u003cp\u003eE-Mails werden weiterhin vom Server empfangen, sodass es nicht zu Datenverlust kommt.\u003c/p\u003e\n",
+  "createdAt": "2024-07-16 21:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2024-07-16-update-master-greensta/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-07-16 23:00:00",
+  "affected": ["mail.teuto.net", "login.teuto.net"],
+  "filename": "2024-07-16-update-master-greensta.md"
+}

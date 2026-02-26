@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Beeinträchtigung der Klimasysteme im Bielefelder Rechenzentrum",
+  "body": "\u003cp\u003eAm 13.02.2026 kam es zu einer Beeinträchtigung der Klimasysteme im Bielefelder Rechenzentrum.\u003cbr\u003e\nDadurch kam es zu gesteigerten Temperaturen im Warm- und Kaltgang. Nicht-kritische Systeme wurden\ntemporär abgeschaltet.\u003c/p\u003e\n",
+  "createdAt": "2026-02-13 08:25:00 +0000 UTC",
+  "lastMod": "2026-02-13 12:47:57 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2026-02-13-ausfall-klimatisierung-bfe/",
+  "severity": "Notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2026-02-13 12:16:00",
+  "affected": ["Serverhousing Bielefeld"],
+  "filename": "2026-02-13-ausfall-klimatisierung-bfe.md"
+}

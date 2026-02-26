@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Systemaktualisierung mail1.teuto.net",
+  "body": "\u003cp\u003eAm 24.06.2024 zwischen 21:00 Uhr und 23:00 Uhr werden Wartungsarbeiten am System mail1.teuto.net durchgeführt.\u003c/p\u003e\n\u003cp\u003eDies betrifft E-Mail Versand und Abruf mittels IMAP, SMTP, POP3 oder Webmailer über mail.teuto.net.\u003c/p\u003e\n\u003cp\u003eDie genannten Dienste werden nur eingeschränkt erreichbar sein.\u003c/p\u003e\n",
+  "createdAt": "2024-06-24 21:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2024-06-25-update-mail1-teuto-net/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-06-24 23:00:00",
+  "affected": ["mail.teuto.net"],
+  "filename": "2024-06-25-update-mail1-teuto-net.md"
+}

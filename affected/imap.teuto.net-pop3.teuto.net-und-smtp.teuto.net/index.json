@@ -1,0 +1,27 @@
+{
+  "is": "system",
+  "title": "Imap.teuto.net, Pop3.teuto.net Und Smtp.teuto.net",
+  "permalink": "https://teuto.fail/affected/imap.teuto.net-pop3.teuto.net-und-smtp.teuto.net/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Wartung interner Datenbank-Server",
+        "createdAt": "2025-10-20 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-10-20-wartungsarbeiten-secure-intra/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-10-20 07:45:00",
+        "affected": ["imap.teuto.net, pop3.teuto.net und smtp.teuto.net"],
+        "filename": "2025-10-20-wartungsarbeiten-secure-intra.md"
+      }
+    
+  ]
+}
+
+
+
+
+

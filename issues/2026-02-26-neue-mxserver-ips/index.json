@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Neue Ip-Adressen für mx1 und mx2.teuto.net",
+  "body": "\u003cp\u003eAm 26.2.2026 verändern gegen ca. 10 Uhr sich die IP-Adressen der Systeme mx1.teuto.net und mx2.teuto.net.\u003c/p\u003e\n\u003cp\u003eNachfolgend die neuen IP-Adressen:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e212.15.214.182\u003c/li\u003e\n\u003cli\u003e212.8.207.204\u003c/li\u003e\n\u003cli\u003e2001:ae2:207::1:0:2\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eWir erwarten grundsätzlich keinerlei Ausfälle oder sonstige Probleme durch diese Umstellung.\u003c/p\u003e\n",
+  "createdAt": "2026-02-26 10:00:00 +0000 UTC",
+  "lastMod": "2026-02-11 12:47:16 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2026-02-26-neue-mxserver-ips/",
+  "severity": "notice",
+  "resolved": false,
+  "informational": false,
+  "resolvedAt": "<no value>",
+  "affected": ["mx1.teuto.net", "mx2.teuto.net"],
+  "filename": "2026-02-26-neue-mxserver-ips.md"
+}

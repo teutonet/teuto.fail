@@ -1,0 +1,2750 @@
+<!DOCTYPE html>
+<html lang="de" class="no-js">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <meta name="description" content="Auf diesen Seiten informieren wir Sie über Störungen und Wartungsarbeiten. Registrieren Sie sich hier mit Ihrer E-Mail-Adresse und Sie werden per E-Mail auf dem Laufenden gehalten. Datenschutz Impressum">
+    <title>teuto.net Störungs- und Wartungsmeldungen</title>
+    <link rel="canonical" href="https://teuto.fail/">
+    <link rel="alternate" type="application/json" href="https://teuto.fail/index.json" title="teuto.net Störungs- und Wartungsmeldungen" />
+    <link rel="alternate" type="application/rss+xml" href="https://teuto.fail/index.xml" title="teuto.net Störungs- und Wartungsmeldungen" />
+    <link rel="alternate" type="image/svg+xml" href="https://teuto.fail/index.svg" title="teuto.net Störungs- und Wartungsmeldungen" />
+    <meta name="generator" content="cState v6.0.1 - https://github.com/cstate/cstate">
+    <meta name="theme-color" content="#f5f5f5">
+    <script>
+    var themeBrandColor = '#f5f5f5';
+    var themeOkColor = '#008000';
+    var themeNoticeColor = '#24478f';
+    var themeDisruptedColor = '#cc4400';
+    var themeDownColor = '#e60000';
+
+
+    </script>
+    
+    <style>
+    html, body {
+      margin: 0;
+      background: #fff;
+      color: #4d4d4d;
+      font: 100%/1.5 "Inter", "Inter UI", BlinkMacSystemFont, -apple-system, "San Francisco Text", "Roboto", "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+      box-sizing: border-box;
+      -webkit-tap-highlight-color: rgba(0,0,0, 0.25);
+    }
+
+    ::selection { background: #B4D5FF; }
+
+    *, *:before, *:after {
+      box-sizing: inherit;
+    }
+
+    a {
+      text-decoration: none;
+      color: #000;
+      border-bottom: 1px dotted currentColor;
+    }
+
+    a:hover { opacity: 0.9; }
+    a:active { opacity: 0.8; }
+
+    hr {
+      border: 0;
+      border-bottom: 1px solid #ccc;
+      margin: 24px 0;
+    }
+
+    h1 {
+      font-size: 40px;
+      line-height: 1;
+    }
+    h2 { font-size: 26px; }
+    h3 { font-size: 20px; }
+    h4 { font-size: 18px; }
+
+    h1, h2, h4 {
+      font-weight: normal;
+      color: #000;
+      letter-spacing: -0.4px;
+      overflow-wrap: break-word;
+    }
+
+    h3 {
+      margin: 0;
+      color: #000;
+    }
+
+    img {
+      border: 0;
+      width: 100%;
+      height: auto;
+    }
+
+    .hidden { display: none; }
+
+     
+
+	.sr-only {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		padding: 0;
+		margin: -1px;
+		overflow: hidden;
+		clip: rect(0, 0, 0, 0);
+		white-space: nowrap;
+		border-width: 0;
+	}
+
+    a.no-underline { border-bottom: 0; }
+
+    .headline { font-size: 20px; }
+
+    .bold { color: #000; }
+    .hinted { color: #6d6d6d; }
+    .faded { color: #6d6d6d; }
+
+    .clean { margin: 0; }
+
+    .ok { color: #008000; }
+    .warning { color: #cc4400; }
+    .error { color: #e60000; }
+
+    .contain {
+      max-width: 640px;
+      margin: 16px auto;
+      padding: 16px;
+    }
+
+    .markdown pre {
+        overflow-x: scroll;
+    }
+
+    .contain--more { max-width: 680px; }
+
+    .center { text-align: center; }
+    .right { text-align: right; }
+    .padding-s { padding: 8px; }
+    .padding { padding: 16px; }
+    .clicky { cursor: pointer; }
+
+    a.external-link-style {
+			border: none;
+			padding: 2px;
+			display: inline-block;
+			border-radius: 4px;
+			opacity: 0.5;
+		}
+
+    a.external-link-style:hover {
+			opacity: 1;
+		}
+
+    a.external-link-style:active {
+			opacity: 0.75;
+		}
+
+    .span-icon {
+      float: right;
+      margin-left: 16px;
+    }
+
+     
+
+     
+    .js .category--open .category__closed-marker { display: none; }
+    .js .category--closed .components { display: none; }
+    .js .category--closed .category__open-marker { display: none; }
+
+	.hide-without-js svg {
+		position: relative;
+		margin-bottom: -6px;
+	}
+
+     
+    .js .hidden-with-js { display: none; }
+    .hide-without-js { display: none; }
+    .js span.hide-without-js { display: inline; }
+    .js div.hide-without-js { display: block; }
+
+
+     
+
+    .date {
+      display: block;
+      margin-top: 12px;
+      color: #666;
+      font-variant: small-caps;
+    }
+
+    .tag {
+      display: inline-block;
+      padding: 4px 8px;
+      margin-right: 4px;
+      margin-bottom: 2px;
+	  border-radius: 4px;
+	  transition: background 0.2s;
+	  cursor: pointer;
+	  border: none;
+      background: #eee;
+    }
+
+    .tag:hover { background: #ddd; }
+	.tag:active { background: #ccc; }
+
+     
+
+    .header {
+      padding: 8px 0;
+      background: #f5f5f5;
+    }
+
+    .header a {
+      color: #fff;
+      font-size: 14px;
+      font-variant: small-caps;
+    }
+
+    
+      .header a h1 { color: #000; }
+    
+
+    .header__logo img {
+      height: auto;
+      width: 320px;
+    }
+
+    .header__logo--small img {
+      height: auto;
+      width: 160px;
+    }
+
+    .header--large { padding: 16px; }
+    .header--large a { font-size: 20px; }
+
+    .footer {
+      padding: 10px;
+      background: #f5f5f5;
+    }
+
+    .footer__copyright {
+      display: block;
+      font-variant: small-caps;
+    }
+
+    .footer__copyright a, a.header__logo {
+      border-bottom: 0;
+    }
+
+     
+
+    .summary {
+      padding: 16px;
+      color: #fff;
+    }
+
+    .summary__date:hover {
+      opacity: 0.8;
+    }
+
+    .summary__date:hover:after {
+      content: ' ⟳ ';
+      color: #fff;
+    }
+
+     
+
+     .components {
+       border: 2px solid #ddd;
+       border-bottom: 0;
+     }
+
+     .component {
+       color: #000;
+       padding: 16px;
+       border-bottom: 2px solid #ddd;
+     }
+
+    .tooltip { cursor: pointer; position: relative; }
+    .tooltip__text { display: none; }
+    .tooltip:hover .tooltip__text,
+    .tooltip:active .tooltip__text  {
+      display: block;
+      position: absolute;
+	  animation: fadeUp 0.1s cubic-bezier(0.39, 0.575, 0.565, 1);
+      top: 0;
+      left: 24px;
+      background: #000;
+      color: #fff;
+      z-index: 50;
+      padding: 8px;
+	  border-radius: 4px;
+	  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+      font-size: 14px;
+      color: #ccc;
+      width: 320px;
+      height: auto;
+    }
+
+	@keyframes fadeUp {
+	  0% { opacity: 0; transform: translateY(5px); }
+	  100% { opacity: 1; transform: translateY(0); }
+	}
+
+    @media (max-width: 640px) {
+      .tooltip:hover .tooltip__text,
+      .tooltip:active .tooltip__text {
+        width: 50vw;
+      }
+    }
+
+     
+
+    .tabs { border-bottom: 1px solid #ccc; }
+    .tabs--inner { padding: 0 16px; margin: 0 auto; }
+    a.tab { display: inline-table; }
+
+    .tab--current {
+      border: 1px solid #ccc;
+      border-bottom-color: #fff;
+      padding: 12px 18px;
+      position: relative;
+      top: 1px;
+    }
+
+    .tab--other {
+      border: 0;
+      padding: 12px 18px;
+      position: relative;
+      top: 1px;
+      color: #757575;
+    }
+
+    .tab--other:hover { color: #000; }
+
+     
+
+    .issue { display: block; padding: 14px 24px; border-radius: 4px; }
+    .issue:hover, .category__head:hover { background: #f5f5f5; }
+    .issue:active, .category__head:active { background: #eee; }
+
+    .issue h3 { line-height: 1.25; }
+
+    .category__head { margin-top: 20px; }
+    .archive__head { padding: 20px; background: #f5f5f5; }
+
+
+     .status-ok .summary {
+  background: #008000;
+  box-shadow: 0 0 20px rgba(0, 128, 0, 0.3);
+	border-radius: 4px;
+}
+
+.status-disrupted .summary,
+.change-header-color.status-disrupted .header {
+  background: rgba(204, 68, 0, 1);
+
+  box-shadow: 0 0 20px rgba(204, 68, 0, 0.3);
+}
+
+.status-down .summary,
+.change-header-color.status-down .header {
+  background: rgba(230, 0, 0, 1);
+}
+
+.status-notice .summary,
+.change-header-color.status-notice .header {
+  background: rgba(36, 71, 143, 1);
+}
+
+
+    .announcement-box .padding {
+      padding: 16px;
+    }
+
+    .status-disrupted .announcement-box { border: 2px solid #cc4400; }
+    .status-down .announcement-box { border: 2px solid #e60000; }
+    .status-notice .announcement-box { border: 2px solid #24478f; }
+    .status-disrupted .announcement-box,
+    .status-down .announcement-box,
+    .status-notice .announcement-box { border-top: 0; }
+
+     
+
+    .category--open .category-status { display: none; }
+    .component-status, .category-status { float: right; }
+    .component[data-status="ok"] .component-status,
+    .category__head[data-status="ok"] .category-status
+    { color: #008000; }
+    .component[data-status="disrupted"] .component-status,
+    .category__head[data-status="disrupted"] .category-status
+    { color: #cc4400; }
+    .component[data-status="notice"] .component-status,
+    .category__head[data-status="notice"] .category-status
+    { color: #24478f; }
+    .component[data-status="down"] .component-status,
+    .category__head[data-status="down"] .category-status
+    { color: #e60000; }
+
+     
+
+    @media (min-width: 640px) {
+      .float-right {
+        float: right;
+        display: inline;
+      }
+    }
+
+    
+    </style>
+    
+  </head>
+
+
+
+
+
+
+
+
+
+  <body class="status-homepage status-notice ">
+    
+
+
+<div class="header">
+  <div class="contain">
+    <a href="https://teuto.fail/" class="header__logo header__logo--small">
+      
+        <img src="/teutonet_logo_1k.png" alt="teuto.net Störungs- und Wartungsmeldungen">
+          
+    </a>
+    <h3>Störungs- und Wartungsmeldungen</h3>
+  </div>
+</div>
+
+
+
+
+
+    
+    <div class="contain">
+      
+      <noscript>
+  <p class="error">Uh oh! Es sieht aus, als wäre JavaScript bei Dir deaktiviert. Bitte <a href="//enable-javascript.com">aktiviere die Einstellung, die verhindert, dass Skripte laufen.</a> um Dein Erlebnis auf dieser Website zu verbessern.</p>
+  <div class="padding"></div>
+</noscript>
+
+      
+      
+
+
+
+
+
+
+<div class="summary status-box">
+	<div class="summary-flex">
+		<div class="status-text">
+			<strong>
+				
+				Bitte lies die Ankündigungen
+				
+			</strong>
+			<div class="summary__date clicky relative-time" onclick="location.reload()" data-time-prefix="Zuletzt aktualisiert "
+      ></div>
+    </div>
+
+    
+    <div class=" subscribe-wrapper">
+				<button class="subscribe-button" aria-haspopup="true" aria-expanded="false" aria-label="Dropdown öffnen">
+					Abonnieren
+				</button>
+				<div class="subscribe-dropdown hidden" aria-label="Dropdown schließen">
+					<ul>
+						<a href="https://teuto.fail//index.xml" target="_blank" rel="noopener noreferrer">
+						<li>
+							<svg viewBox="0 0 512 512" class="subscribe-dropdown__icon">
+								<path d="M108.56 342.78a60.34 60.34 0 1 0 60.56 60.44 60.63 60.63 0 0 0-60.56-60.44Z">
+								</path>
+								<path
+									d="M48 186.67v86.55c52 0 101.94 15.39 138.67 52.11s52 86.56 52 138.67h86.66c0-151.56-125.66-277.33-277.33-277.33Z">
+								</path>
+								<path
+									d="M48 48v86.56c185.25 0 329.22 144.08 329.22 329.44H464C464 234.66 277.67 48 48 48Z">
+								</path>
+							</svg>
+							RSS
+						</li></a>
+						<a href="https://ml.teuto.net/mailman3/lists/teuto-noc.ml.teuto.net/" target="_blank" rel="noopener noreferrer"><li>
+							<svg viewBox="0 0 512 512" class="subscribe-dropdown__icon">
+								<path
+									d="M424 80H88a56 56 0 0 0-56 56v240a56 56 0 0 0 56 56h336a56 56 0 0 0 56-56V136a56 56 0 0 0-56-56zm-14.18 92.63-144 112a16 16 0 0 1-19.64 0l-144-112a16 16 0 1 1 19.64-25.26L256 251.73l134.18-104.36a16 16 0 1 1 19.64 25.26z">
+								</path>
+							</svg>
+							E-Mail
+						</li></a>
+						
+						<li data-option="api">
+							<svg viewBox="0 0 512 512" class="subscribe-dropdown__icon">
+								<path
+									d="M160 389a20.91 20.91 0 0 1-13.82-5.2l-128-112a21 21 0 0 1 0-31.6l128-112a21 21 0 0 1 27.66 31.61L63.89 256l109.94 96.19A21 21 0 0 1 160 389zm192 0a21 21 0 0 1-13.84-36.81L448.11 256l-109.94-96.19a21 21 0 0 1 27.66-31.61l128 112a21 21 0 0 1 0 31.6l-128 112A20.89 20.89 0 0 1 352 389zm-144 48a21 21 0 0 1-20.12-27l96-320a21 21 0 1 1 40.23 12l-96 320A21 21 0 0 1 208 437z">
+								</path>
+							</svg>
+							API
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	<div id="modal-overlay" class="hidden"></div>
+	<div class="subscribe-modal hidden" role="dialog" aria-modal="true">
+		<button class="subscribe-modal__close" aria-label="Dropdown schließen">✕</button>
+		<h2 class="subscribe-modal__title"></h2>
+		<div class="subscribe-modal__content"></div>
+		
+		<div class="subscribe-modal__actions"></div>
+	</div>
+
+	<style>
+		 
+		.status-box {
+			padding: 16px;
+			color: #fff;
+			display: flex;
+			flex-direction: column;
+			border-radius: 4px;
+			position: relative;
+
+			background: {
+					{
+					.Site.Params.ok
+				}
+			}
+
+			;
+		}
+
+		.summary-flex {
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+		}
+
+		.status-text {
+			font-size: 20px;
+			font-weight: bold;
+		}
+
+		.summary__date {
+			font-size: 14px;
+			margin-top: 4px;
+			color: rgba(255, 255, 255, 0.8);
+		}
+
+		 
+		.subscribe-wrapper {
+			position: relative;
+			z-index: 500;
+		}
+
+		.subscribe-button {
+			padding: 8px 16px;
+			font: inherit;
+			font-size: 15px;
+			border-radius: 4px;
+			cursor: pointer;
+			background: rgba(255, 255, 255, 0.2);
+			border: 1px solid rgba(255, 255, 255, 0.25);
+			color: #fff;
+			transition: background 0.1s, opacity 0.1s;
+		}
+
+		.subscribe-button:hover {
+			background: rgba(255, 255, 255, 0.3);
+		}
+
+		.subscribe-button:active {
+			background: rgba(255, 255, 255, 0.4);
+		}
+
+		 
+
+		.subscribe-dropdown {
+			position: absolute;
+			top: calc(100% + 10px);
+			right: 0;
+			background: #fff;
+			border-radius: 8px;
+			width: 220px;
+			overflow-y: auto;
+			opacity: 0;
+			transform: translateY(5px);
+			animation: fadeUp 0.15s ease-out forwards;
+			box-shadow: 0 10px 32px rgba(0, 0, 0, 0.15);
+		}
+
+		.subscribe-dropdown ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+		}
+
+		.subscribe-dropdown li {
+			display: flex;
+			align-items: center;
+			padding: 10px 12px;
+			margin: 4px;
+			font-size: 14px;
+			cursor: pointer;
+			color: #333;
+			border-radius: 8px;
+			 
+			transition: background 0.1s;
+			 
+		}
+
+		.subscribe-dropdown li:hover {
+			background: #f2f2f2;
+		}
+
+		.subscribe-dropdown__icon {
+			width: 18px;
+			height: 18px;
+			margin-right: 8px;
+			fill: #999;
+			 
+		}
+
+		 
+		@keyframes fadeUp {
+			0% {
+				opacity: 0;
+				transform: translateY(5px);
+			}
+
+			100% {
+				opacity: 1;
+				transform: translateY(0);
+			}
+		}
+
+		.hidden {
+			display: none !important;
+		}
+
+		 
+		#modal-overlay {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: rgba(0, 0, 0, 0.5);
+			 
+			z-index: 998;
+			 
+		}
+
+		.subscribe-modal {
+			position: fixed;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			 
+			margin: auto;
+			max-width: 600px;
+			background: #fff;
+			border-radius: 8px;
+			box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+			padding: 24px;
+			z-index: 999;
+			display: flex;
+			flex-direction: column;
+			gap: 16px;
+			opacity: 0;
+			animation: fadeUpModal 0.2s ease-out forwards;
+			 
+		}
+
+		.subscribe-modal__close {
+			position: absolute;
+			top: 10px;
+			right: 10px;
+			border: none;
+			background: transparent;
+			font-size: 20px;
+			line-height: 1;
+			cursor: pointer;
+			color: #444;
+			padding: 10px;
+			border-radius: 50%;
+		}
+
+		.subscribe-modal__close:hover {
+			background-color: rgba(0, 0, 0, 0.1);
+		}
+
+		.subscribe-modal__close:active {
+			background-color: rgba(0, 0, 0, 0.2);
+		}
+
+		.subscribe-modal__title {
+			margin: 0 0 16px 0;
+			font-size: 20px;
+			font-weight: bold;
+			color: #333;
+		}
+
+		.subscribe-modal__content {
+			color: #555;
+			flex: 1;
+		}
+
+		.subscribe-modal__content p {
+			margin: 0;
+		}
+
+		.btn {
+			padding: 10px 20px;
+			border-radius: 4px;
+			display: inline-block;
+			border: none;
+			font-weight: bold;
+			cursor: pointer;
+			transition: background 0.1s, opacity 0.1s;
+		}
+
+		.btn--primary {
+			background: #000;
+			color: #fff;
+			border: none;
+		}
+
+		.btn--primary:hover {
+			background: #111;
+		}
+
+		.btn--primary:active {
+			background: #222;
+		}
+
+
+		 
+		.subscribe-modal__actions {
+			margin-top: 8px;
+			gap: 8px;
+		}
+
+		 
+		@keyframes fadeUpModal {
+			0% {
+				opacity: 0;
+			}
+
+			100% {
+				opacity: 1;
+			}
+		}
+	</style>
+
+	<script>
+		document.addEventListener('DOMContentLoaded', function () {
+			const subscribeButton = document.querySelector('.subscribe-button');
+			const subscribeDropdown = document.querySelector('.subscribe-dropdown');
+			const subscribeModal = document.querySelector('.subscribe-modal');
+			const modalCloseBtn = document.querySelector('.subscribe-modal__close');
+			const modalTitle = document.querySelector('.subscribe-modal__title');
+			const modalContent = document.querySelector('.subscribe-modal__content');
+			const modalActions = document.querySelector('.subscribe-modal__actions');
+			const modalOverlay = document.getElementById('modal-overlay');
+
+			
+			function showModal() {
+				modalOverlay.classList.remove('hidden');
+				subscribeModal.classList.remove('hidden');
+			}
+
+			
+			function hideModal() {
+				modalOverlay.classList.add('hidden');
+				subscribeModal.classList.add('hidden');
+			}
+
+			
+			subscribeButton.addEventListener('click', function (e) {
+				e.stopPropagation();
+				if (subscribeDropdown.classList.contains('hidden')) {
+					subscribeDropdown.classList.remove('hidden');
+					subscribeButton.setAttribute('aria-expanded', 'true');
+				} else {
+					subscribeDropdown.classList.add('hidden');
+					subscribeButton.setAttribute('aria-expanded', 'false');
+				}
+			});
+
+			
+			subscribeDropdown.addEventListener('click', function (e) {
+				if (e.target && e.target.matches('li[data-option], li[data-option] *')) {
+					let li = e.target.closest('li[data-option]');
+					let chosen = li.getAttribute('data-option');
+
+					subscribeDropdown.classList.add('hidden');
+					subscribeButton.setAttribute('aria-expanded', 'false');
+					showModal();
+
+					
+					modalActions.innerHTML = '';
+
+					let copyText = ''; 
+
+					switch (chosen) {
+						case 'rss':
+							modalTitle.textContent = 'RSS';
+							modalContent.innerHTML = `<p>Abonnieren Sie Updates von dieser Statusseite.</p>`;
+							modalActions.innerHTML = `
+							<a href="https:\/\/teuto.fail\//index.xml" target="_blank" rel="noopener noreferrer" class="padding-s">Öffnen</a>
+          `;
+							break;
+
+						case 'email':
+							modalTitle.textContent = 'E-Mail';
+							modalContent.innerHTML = `<p>Abonnieren Sie Updates von dieser Statusseite.</p>
+            <input type="email" placeholder="Email address..." />`;
+							modalActions.innerHTML = `
+            <button class="btn btn--primary">Abonnieren</button>
+            <p class="small-text">Wir empfehlen, eine andere Benachrichtigungsmethode zu wählen, wenn Sie kritische Updates so schnell wie möglich erhalten möchten.</p>
+          `;
+							break;
+
+						case 'discord':
+							modalTitle.textContent = 'Discord';
+							modalContent.innerHTML = `<p>Abonnieren Sie Updates von dieser Statusseite. (Discord server invitation)</p>`;
+							copyText = 'YOUR_DISCORD_INVITE_LINK'; 
+							modalActions.innerHTML = `
+            <button class="btn btn--primary" data-copy="${copyText}">Kopieren</button>
+            <p class="small-text">Suchen Sie nach weiteren Informationen zu diesem Einbettungscode und wie Sie ihn verwenden können?</p>
+          `;
+							break;
+
+						case 'slack':
+							modalTitle.textContent = 'Slack';
+							modalContent.innerHTML = `<p>Abonnieren Sie Updates von dieser Statusseite. (Slack workspace link)</p>`;
+							copyText = 'YOUR_SLACK_WORKSPACE_LINK'; 
+							modalActions.innerHTML = `
+            <button class="btn btn--primary" data-copy="${copyText}">Kopieren</button>
+            <p class="small-text">Suchen Sie nach weiteren Informationen zu diesem Einbettungscode und wie Sie ihn verwenden können?</p>
+          `;
+							break;
+
+						case 'webhook':
+							modalTitle.textContent = 'Webhook';
+							modalContent.innerHTML = `<p>Abonnieren Sie Updates von dieser Statusseite.</p>
+            <input type="text" placeholder="Webhook-URL" />`;
+							modalActions.innerHTML = `
+            <button class="btn btn--primary">Abonnieren</button>
+            <p class="small-text">Bitte beachten Sie, dass die API möglicherweise einer Ratenbegrenzung unterliegt.</p>
+          `;
+							break;
+
+						case 'push':
+							modalTitle.textContent = 'Push-Benachrichtigungen';
+							modalContent.innerHTML = `<p>Sie können diese Statusseite über Push-Benachrichtigungen über Ihren Browser abonnieren. Sie müssen dies auf jedem Gerät tun, auf dem Sie Benachrichtigungen erhalten möchten. Bitte beachten Sie, dass diese Funktion von der Browserunterstützung abhängig ist und möglicherweise nicht auf allen Geräten wie erwartet funktioniert.</p>`;
+							modalActions.innerHTML = `
+            <button class="btn btn--primary">Abonnieren</button>
+            <p class="small-text">Wir empfehlen, eine andere Benachrichtigungsmethode zu wählen, wenn Sie kritische Updates so schnell wie möglich erhalten möchten.</p>
+          `;
+							break;
+
+						case 'api':
+							modalTitle.textContent = 'API';
+							modalContent.innerHTML = `<p>Sie können unsere API verwenden, um die Informationen und Updates von dieser Statusseite in Ihre eigene Website oder Anwendung zu integrieren. Stellen Sie einfach eine GET-Anfrage an die folgende URL: <br /> <code>https:\/\/teuto.fail\/index.json</code></p>`;
+							modalActions.innerHTML = `
+            <a href="https://github.com/cstate/cstate/wiki/API" target="_blank" rel="noopener noreferrer" class="btn btn--primary">Dokumentation lesen</a>
+            <p>Bitte beachten Sie, dass die API möglicherweise einer Ratenbegrenzung unterliegt.</p>
+          `;
+							break;
+
+						default:
+							modalTitle.textContent = 'Abonnieren';
+							modalContent.innerHTML = `<p>Abonnieren Sie Updates von dieser Statusseite.</p>`;
+							modalActions.innerHTML = `
+            <button class="btn btn--primary">Abonnieren</button>
+            <p class="small-text">Suchen Sie nach weiteren Informationen zu diesem Einbettungscode und wie Sie ihn verwenden können?</p>
+          `;
+							break;
+					}
+
+					
+					const copyButtons = modalActions.querySelectorAll('button[data-copy]');
+					copyButtons.forEach(button => {
+						button.addEventListener('click', () => {
+							const textToCopy = button.getAttribute('data-copy');
+							navigator.clipboard.writeText(textToCopy).then(() => {
+								
+								button.textContent = 'Kopiert!';
+							}).catch(err => {
+								console.error('Failed to copy text:', err);
+							});
+						});
+					});
+				}
+			});
+
+			
+			modalCloseBtn.addEventListener('click', hideModal);
+			modalOverlay.addEventListener('click', hideModal);
+
+			
+			document.addEventListener('click', function (e) {
+				if (!subscribeButton.contains(e.target) && !subscribeDropdown.contains(e.target)) {
+					subscribeDropdown.classList.add('hidden');
+					subscribeButton.setAttribute('aria-expanded', 'false');
+				}
+			});
+		});
+	</script>
+
+      
+      
+
+
+
+
+
+
+
+
+
+  <div class="announcement-box" style="border-bottom: 0">
+    
+      <div class="padding">
+        <p>
+          <a href="/issues/2026-03-04-webserver-updates/"><strong class="bold">Geplante Wartung - web2, web4 →</strong></a>
+        </p>
+
+        <p><small>
+          
+              
+          <a href="/affected/web2.teuto.net/" class="tag no-underline">web2.teuto.net</a>
+          
+          
+              
+          <a href="/affected/web4.teuto.net/" class="tag no-underline">web4.teuto.net</a>
+          
+          
+        </small></p>
+
+        <p>Am Dienstag den 04.03.2026 ab 20 Uhr kommt es zu Einschränkungen bei allen Webseiten auf den folgenden Webservern:</p>
+<ul>
+<li>web2.teuto.net</li>
+<li>web4.teuto.net</li>
+</ul>
+<p>Auf den genannten Webservern werden Softwareaktualisierungen eingespielt.</p>
+<p>Den Server Ihrer Webseite Sehen Sie im Kundenlogin unter &ldquo;Webseiten&rdquo; im Feld &ldquo;Server&rdquo;.
+Es besteht Ihrerseits kein Handlungsbedarf.</p>
+
+        <p></p>
+      </div>
+      <hr class="clean announcement-box">
+    
+      <div class="padding">
+        <p>
+          <a href="/issues/2026-02-26-neue-mxserver-ips/"><strong class="bold">Neue Ip-Adressen für mx1 und mx2.teuto.net →</strong></a>
+        </p>
+
+        <p><small>
+          
+              
+          <a href="/affected/mx1.teuto.net/" class="tag no-underline">mx1.teuto.net</a>
+          
+          
+              
+          <a href="/affected/mx2.teuto.net/" class="tag no-underline">mx2.teuto.net</a>
+          
+          
+        </small></p>
+
+        <p>Am 26.2.2026 verändern gegen ca. 10 Uhr sich die IP-Adressen der Systeme mx1.teuto.net und mx2.teuto.net.</p>
+<p>Nachfolgend die neuen IP-Adressen:</p>
+<ul>
+<li>212.15.214.182</li>
+<li>212.8.207.204</li>
+<li>2001:ae2:207::1:0:2</li>
+</ul>
+<p>Wir erwarten grundsätzlich keinerlei Ausfälle oder sonstige Probleme durch diese Umstellung.</p>
+
+        <p></p>
+      </div>
+      <hr class="clean announcement-box">
+    
+    
+    
+  </div>
+ 
+
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+<div class="categories">
+	
+	
+
+	
+	<div class="category category--closed category--titled"
+		id="infrastruktur">
+		
+		<div class="bold padding clicky category__head" onclick="toggleCategoryHead(this)">
+			<span class="hide-without-js">
+				<span class="category__closed-marker">
+					<span class="sr-only">Dropdown öffnen</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+						<polyline points="9 18 15 12 9 6"></polyline>
+					</svg>
+				</span>
+				<span class="category__open-marker">
+					<span class="sr-only">Dropdown schließen</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down">
+						<polyline points="6 9 12 15 18 9"></polyline>
+					</svg>
+				</span>
+			</span>
+			<b>Infrastruktur</b>
+			
+			<span class="category-status"></span>
+		</div>
+		
+
+		
+		<div class="components">
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-routing-frankfurt"
+				data-status="ok">
+				<a href="/affected/routing-frankfurt/" class="no-underline">
+					Routing Frankfurt
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-routing-bielefeld"
+				data-status="ok">
+				<a href="/affected/routing-bielefeld/" class="no-underline">
+					Routing Bielefeld
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-routing-paderborn"
+				data-status="ok">
+				<a href="/affected/routing-paderborn/" class="no-underline">
+					Routing Paderborn
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-serverhousing-bielefeld"
+				data-status="ok">
+				<a href="/affected/serverhousing-bielefeld/" class="no-underline">
+					Serverhousing Bielefeld
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-festverbindungen"
+				data-status="ok">
+				<a href="/affected/festverbindungen/" class="no-underline">
+					Festverbindungen
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+		</div>
+
+		
+		<script>
+			(function () {
+				var thisCategory = document.currentScript.parentNode;
+				var componentsOfThisCategory = thisCategory.querySelectorAll('.component');
+				var highestLevelStatus = 'ok';
+
+				function checkStatus(element) {
+					var status = element.getAttribute('data-status');
+					if (status === 'down') {
+						highestLevelStatus = 'down';
+					} else if (status === 'disrupted' && highestLevelStatus !== 'down') {
+						highestLevelStatus = 'disrupted';
+					} else if (status === 'notice' && highestLevelStatus !== 'down' && highestLevelStatus !== 'disrupted') {
+						highestLevelStatus = 'notice';
+					}
+				}
+
+				componentsOfThisCategory.forEach(checkStatus);
+
+				var highestLevelStatusReadable = highestLevelStatus;
+				if (highestLevelStatus === 'ok') highestLevelStatusReadable = 'Funktionsbereit';
+				else if (highestLevelStatus === 'notice') highestLevelStatusReadable = 'Wartung';
+				else if (highestLevelStatus === 'disrupted') highestLevelStatusReadable = 'Störung';
+				else if (highestLevelStatus === 'down') highestLevelStatusReadable = 'Ausfall';
+
+				if (thisCategory.classList.contains('category--titled')) {
+					thisCategory.querySelector('.category__head').setAttribute('data-status', highestLevelStatus);
+					thisCategory.querySelector('.category-status').innerHTML = highestLevelStatusReadable;
+				}
+			})();
+		</script>
+	</div>
+	
+	<div class="category category--closed category--titled"
+		id="public-cloud">
+		
+		<div class="bold padding clicky category__head" onclick="toggleCategoryHead(this)">
+			<span class="hide-without-js">
+				<span class="category__closed-marker">
+					<span class="sr-only">Dropdown öffnen</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+						<polyline points="9 18 15 12 9 6"></polyline>
+					</svg>
+				</span>
+				<span class="category__open-marker">
+					<span class="sr-only">Dropdown schließen</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down">
+						<polyline points="6 9 12 15 18 9"></polyline>
+					</svg>
+				</span>
+			</span>
+			<b>Public Cloud</b>
+			
+			<span class="category-status"></span>
+		</div>
+		
+
+		
+		<div class="components">
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-public-cloud-bielefeld"
+				data-status="ok">
+				<a href="/affected/public-cloud-bielefeld/" class="no-underline">
+					Public Cloud Bielefeld
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-public-cloud-bfe2"
+				data-status="ok">
+				<a href="/affected/public-cloud-bfe2/" class="no-underline">
+					Public Cloud bfe2
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-public-cloud-frankfurt"
+				data-status="ok">
+				<a href="/affected/public-cloud-frankfurt/" class="no-underline">
+					Public Cloud Frankfurt
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-public-cloud-paderborn"
+				data-status="ok">
+				<a href="/affected/public-cloud-paderborn/" class="no-underline">
+					Public Cloud Paderborn
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+		</div>
+
+		
+		<script>
+			(function () {
+				var thisCategory = document.currentScript.parentNode;
+				var componentsOfThisCategory = thisCategory.querySelectorAll('.component');
+				var highestLevelStatus = 'ok';
+
+				function checkStatus(element) {
+					var status = element.getAttribute('data-status');
+					if (status === 'down') {
+						highestLevelStatus = 'down';
+					} else if (status === 'disrupted' && highestLevelStatus !== 'down') {
+						highestLevelStatus = 'disrupted';
+					} else if (status === 'notice' && highestLevelStatus !== 'down' && highestLevelStatus !== 'disrupted') {
+						highestLevelStatus = 'notice';
+					}
+				}
+
+				componentsOfThisCategory.forEach(checkStatus);
+
+				var highestLevelStatusReadable = highestLevelStatus;
+				if (highestLevelStatus === 'ok') highestLevelStatusReadable = 'Funktionsbereit';
+				else if (highestLevelStatus === 'notice') highestLevelStatusReadable = 'Wartung';
+				else if (highestLevelStatus === 'disrupted') highestLevelStatusReadable = 'Störung';
+				else if (highestLevelStatus === 'down') highestLevelStatusReadable = 'Ausfall';
+
+				if (thisCategory.classList.contains('category--titled')) {
+					thisCategory.querySelector('.category__head').setAttribute('data-status', highestLevelStatus);
+					thisCategory.querySelector('.category-status').innerHTML = highestLevelStatusReadable;
+				}
+			})();
+		</script>
+	</div>
+	
+	<div class="category category--closed category--titled"
+		id="webserver">
+		
+		<div class="bold padding clicky category__head" onclick="toggleCategoryHead(this)">
+			<span class="hide-without-js">
+				<span class="category__closed-marker">
+					<span class="sr-only">Dropdown öffnen</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+						<polyline points="9 18 15 12 9 6"></polyline>
+					</svg>
+				</span>
+				<span class="category__open-marker">
+					<span class="sr-only">Dropdown schließen</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down">
+						<polyline points="6 9 12 15 18 9"></polyline>
+					</svg>
+				</span>
+			</span>
+			<b>Webserver</b>
+			
+			<span class="category-status"></span>
+		</div>
+		
+
+		
+		<div class="components">
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-web2.teuto.net"
+				data-status="ok">
+				<a href="/affected/web2.teuto.net/" class="no-underline">
+					web2.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-web3.teuto.net"
+				data-status="ok">
+				<a href="/affected/web3.teuto.net/" class="no-underline">
+					web3.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-web4.teuto.net"
+				data-status="ok">
+				<a href="/affected/web4.teuto.net/" class="no-underline">
+					web4.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+		</div>
+
+		
+		<script>
+			(function () {
+				var thisCategory = document.currentScript.parentNode;
+				var componentsOfThisCategory = thisCategory.querySelectorAll('.component');
+				var highestLevelStatus = 'ok';
+
+				function checkStatus(element) {
+					var status = element.getAttribute('data-status');
+					if (status === 'down') {
+						highestLevelStatus = 'down';
+					} else if (status === 'disrupted' && highestLevelStatus !== 'down') {
+						highestLevelStatus = 'disrupted';
+					} else if (status === 'notice' && highestLevelStatus !== 'down' && highestLevelStatus !== 'disrupted') {
+						highestLevelStatus = 'notice';
+					}
+				}
+
+				componentsOfThisCategory.forEach(checkStatus);
+
+				var highestLevelStatusReadable = highestLevelStatus;
+				if (highestLevelStatus === 'ok') highestLevelStatusReadable = 'Funktionsbereit';
+				else if (highestLevelStatus === 'notice') highestLevelStatusReadable = 'Wartung';
+				else if (highestLevelStatus === 'disrupted') highestLevelStatusReadable = 'Störung';
+				else if (highestLevelStatus === 'down') highestLevelStatusReadable = 'Ausfall';
+
+				if (thisCategory.classList.contains('category--titled')) {
+					thisCategory.querySelector('.category__head').setAttribute('data-status', highestLevelStatus);
+					thisCategory.querySelector('.category-status').innerHTML = highestLevelStatusReadable;
+				}
+			})();
+		</script>
+	</div>
+	
+	<div class="category category--closed category--titled"
+		id="mailserver">
+		
+		<div class="bold padding clicky category__head" onclick="toggleCategoryHead(this)">
+			<span class="hide-without-js">
+				<span class="category__closed-marker">
+					<span class="sr-only">Dropdown öffnen</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+						<polyline points="9 18 15 12 9 6"></polyline>
+					</svg>
+				</span>
+				<span class="category__open-marker">
+					<span class="sr-only">Dropdown schließen</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down">
+						<polyline points="6 9 12 15 18 9"></polyline>
+					</svg>
+				</span>
+			</span>
+			<b>Mailserver</b>
+			
+			<span class="category-status"></span>
+		</div>
+		
+
+		
+		<div class="components">
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-mail.teuto.net"
+				data-status="ok">
+				<a href="/affected/mail.teuto.net/" class="no-underline">
+					mail.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-zimbra.teuto.net"
+				data-status="ok">
+				<a href="/affected/zimbra.teuto.net/" class="no-underline">
+					zimbra.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-imap.teuto.net"
+				data-status="ok">
+				<a href="/affected/imap.teuto.net/" class="no-underline">
+					imap.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-pop3.teuto.net"
+				data-status="ok">
+				<a href="/affected/pop3.teuto.net/" class="no-underline">
+					pop3.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-smtp.teuto.net"
+				data-status="ok">
+				<a href="/affected/smtp.teuto.net/" class="no-underline">
+					smtp.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-mail1.teuto.net"
+				data-status="ok">
+				<a href="/affected/mail1.teuto.net/" class="no-underline">
+					mail1.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-mx1.isp.teuto.net"
+				data-status="ok">
+				<a href="/affected/mx1.isp.teuto.net/" class="no-underline">
+					mx1.isp.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-mx2.isp.teuto.net"
+				data-status="ok">
+				<a href="/affected/mx2.isp.teuto.net/" class="no-underline">
+					mx2.isp.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+		</div>
+
+		
+		<script>
+			(function () {
+				var thisCategory = document.currentScript.parentNode;
+				var componentsOfThisCategory = thisCategory.querySelectorAll('.component');
+				var highestLevelStatus = 'ok';
+
+				function checkStatus(element) {
+					var status = element.getAttribute('data-status');
+					if (status === 'down') {
+						highestLevelStatus = 'down';
+					} else if (status === 'disrupted' && highestLevelStatus !== 'down') {
+						highestLevelStatus = 'disrupted';
+					} else if (status === 'notice' && highestLevelStatus !== 'down' && highestLevelStatus !== 'disrupted') {
+						highestLevelStatus = 'notice';
+					}
+				}
+
+				componentsOfThisCategory.forEach(checkStatus);
+
+				var highestLevelStatusReadable = highestLevelStatus;
+				if (highestLevelStatus === 'ok') highestLevelStatusReadable = 'Funktionsbereit';
+				else if (highestLevelStatus === 'notice') highestLevelStatusReadable = 'Wartung';
+				else if (highestLevelStatus === 'disrupted') highestLevelStatusReadable = 'Störung';
+				else if (highestLevelStatus === 'down') highestLevelStatusReadable = 'Ausfall';
+
+				if (thisCategory.classList.contains('category--titled')) {
+					thisCategory.querySelector('.category__head').setAttribute('data-status', highestLevelStatus);
+					thisCategory.querySelector('.category-status').innerHTML = highestLevelStatusReadable;
+				}
+			})();
+		</script>
+	</div>
+	
+	<div class="category category--closed category--titled"
+		id="dns">
+		
+		<div class="bold padding clicky category__head" onclick="toggleCategoryHead(this)">
+			<span class="hide-without-js">
+				<span class="category__closed-marker">
+					<span class="sr-only">Dropdown öffnen</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+						<polyline points="9 18 15 12 9 6"></polyline>
+					</svg>
+				</span>
+				<span class="category__open-marker">
+					<span class="sr-only">Dropdown schließen</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down">
+						<polyline points="6 9 12 15 18 9"></polyline>
+					</svg>
+				</span>
+			</span>
+			<b>DNS</b>
+			
+			<span class="category-status"></span>
+		</div>
+		
+
+		
+		<div class="components">
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-ns1.teuto.net"
+				data-status="ok">
+				<a href="/affected/ns1.teuto.net/" class="no-underline">
+					ns1.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-ns2.teuto.net"
+				data-status="ok">
+				<a href="/affected/ns2.teuto.net/" class="no-underline">
+					ns2.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-ns3.teuto.net"
+				data-status="ok">
+				<a href="/affected/ns3.teuto.net/" class="no-underline">
+					ns3.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+		</div>
+
+		
+		<script>
+			(function () {
+				var thisCategory = document.currentScript.parentNode;
+				var componentsOfThisCategory = thisCategory.querySelectorAll('.component');
+				var highestLevelStatus = 'ok';
+
+				function checkStatus(element) {
+					var status = element.getAttribute('data-status');
+					if (status === 'down') {
+						highestLevelStatus = 'down';
+					} else if (status === 'disrupted' && highestLevelStatus !== 'down') {
+						highestLevelStatus = 'disrupted';
+					} else if (status === 'notice' && highestLevelStatus !== 'down' && highestLevelStatus !== 'disrupted') {
+						highestLevelStatus = 'notice';
+					}
+				}
+
+				componentsOfThisCategory.forEach(checkStatus);
+
+				var highestLevelStatusReadable = highestLevelStatus;
+				if (highestLevelStatus === 'ok') highestLevelStatusReadable = 'Funktionsbereit';
+				else if (highestLevelStatus === 'notice') highestLevelStatusReadable = 'Wartung';
+				else if (highestLevelStatus === 'disrupted') highestLevelStatusReadable = 'Störung';
+				else if (highestLevelStatus === 'down') highestLevelStatusReadable = 'Ausfall';
+
+				if (thisCategory.classList.contains('category--titled')) {
+					thisCategory.querySelector('.category__head').setAttribute('data-status', highestLevelStatus);
+					thisCategory.querySelector('.category-status').innerHTML = highestLevelStatusReadable;
+				}
+			})();
+		</script>
+	</div>
+	
+	<div class="category category--closed category--titled"
+		id="website">
+		
+		<div class="bold padding clicky category__head" onclick="toggleCategoryHead(this)">
+			<span class="hide-without-js">
+				<span class="category__closed-marker">
+					<span class="sr-only">Dropdown öffnen</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+						<polyline points="9 18 15 12 9 6"></polyline>
+					</svg>
+				</span>
+				<span class="category__open-marker">
+					<span class="sr-only">Dropdown schließen</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down">
+						<polyline points="6 9 12 15 18 9"></polyline>
+					</svg>
+				</span>
+			</span>
+			<b>Website</b>
+			
+			<span class="category-status"></span>
+		</div>
+		
+
+		
+		<div class="components">
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-teuto.net"
+				data-status="ok">
+				<a href="/affected/teuto.net/" class="no-underline">
+					teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-login.teuto.net"
+				data-status="ok">
+				<a href="/affected/login.teuto.net/" class="no-underline">
+					login.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-kundenportal.teuto.net"
+				data-status="ok">
+				<a href="/affected/kundenportal.teuto.net/" class="no-underline">
+					kundenportal.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+			
+			
+			
+			
+
+			<div class="component" id="system-mail.teuto.net"
+				data-status="ok">
+				<a href="/affected/mail.teuto.net/" class="no-underline">
+					mail.teuto.net
+				</a>
+
+				
+
+				
+
+				<span class="component-status">
+					
+					Funktionsbereit
+					
+				</span>
+
+				
+
+				
+			</div>
+			
+		</div>
+
+		
+		<script>
+			(function () {
+				var thisCategory = document.currentScript.parentNode;
+				var componentsOfThisCategory = thisCategory.querySelectorAll('.component');
+				var highestLevelStatus = 'ok';
+
+				function checkStatus(element) {
+					var status = element.getAttribute('data-status');
+					if (status === 'down') {
+						highestLevelStatus = 'down';
+					} else if (status === 'disrupted' && highestLevelStatus !== 'down') {
+						highestLevelStatus = 'disrupted';
+					} else if (status === 'notice' && highestLevelStatus !== 'down' && highestLevelStatus !== 'disrupted') {
+						highestLevelStatus = 'notice';
+					}
+				}
+
+				componentsOfThisCategory.forEach(checkStatus);
+
+				var highestLevelStatusReadable = highestLevelStatus;
+				if (highestLevelStatus === 'ok') highestLevelStatusReadable = 'Funktionsbereit';
+				else if (highestLevelStatus === 'notice') highestLevelStatusReadable = 'Wartung';
+				else if (highestLevelStatus === 'disrupted') highestLevelStatusReadable = 'Störung';
+				else if (highestLevelStatus === 'down') highestLevelStatusReadable = 'Ausfall';
+
+				if (thisCategory.classList.contains('category--titled')) {
+					thisCategory.querySelector('.category__head').setAttribute('data-status', highestLevelStatus);
+					thisCategory.querySelector('.category-status').innerHTML = highestLevelStatusReadable;
+				}
+			})();
+		</script>
+	</div>
+	
+</div>
+
+
+
+
+
+      
+      
+    </div>
+
+  
+  
+  
+    <div class="contain contain--more">
+      <h2 class="center">Vorfallshistorie</h2>
+      <hr class="clean">
+    </div>
+  
+
+
+
+  
+  
+    <div class="contain contain--more" id="incidents">
+	  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://teuto.fail/issues/2026-03-04-webserver-updates/" class="issue no-underline">
+  
+  
+    <small class="date float-right relative-time" title="4.3.2026 - 20:00 Uhr" data-date="2026-03-04T20:00:00Z">
+
+      
+      
+    </small>
+
+    <h3>
+      Geplante Wartung - web2, web4
+    </h3>
+
+
+
+    
+    
+		<strong>
+		
+		<span style="color: #24478f">◆ Wartung</span>
+		
+		</strong>
+		<span class="faded">
+			– Ungelöst
+		</span>
+    
+
+  
+</a>
+
+
+
+
+
+
+
+
+
+<a href="https://teuto.fail/issues/2026-02-26-neue-mxserver-ips/" class="issue no-underline">
+  
+  
+    <small class="date float-right relative-time" title="26.2.2026 - 10:00 Uhr" data-date="2026-02-26T10:00:00Z">
+
+      
+        
+          26.2.2026 - 10:00 Uhr
+        
+      
+    </small>
+
+    <h3>
+      Neue Ip-Adressen für mx1 und mx2.teuto.net
+    </h3>
+
+
+
+    
+    
+      <strong class="error">
+        ◆
+        
+          Ungelöst
+        
+      </strong>
+    
+
+  
+</a>
+
+
+
+
+
+
+
+
+
+<a href="https://teuto.fail/issues/2026-02-26-netzwerkprobleme-bielefeld/" class="issue no-underline">
+  
+    <small class="date float-right relative-time" title="26.2.2026 - 08:00 Uhr" data-date="2026-02-26T08:00:00Z">
+      
+        26.2.2026 - 08:00 Uhr
+      
+    </small>
+
+    <h3>
+      Netzwerkprobleme in Bielefeld
+    </h3>
+
+    
+    
+    
+
+    
+	
+	
+	
+	
+	
+	
+
+	<div
+		class="warning">
+		
+		Gelöst nach 
+		5h 
+		30m
+		
+		
+	</div>
+
+  
+</a>
+
+
+
+
+
+
+
+
+
+<a href="https://teuto.fail/issues/2026-02-13-ausfall-klimatisierung-bfe/" class="issue no-underline">
+  
+    <small class="date float-right relative-time" title="13.2.2026 - 08:25 Uhr" data-date="2026-02-13T08:25:00Z">
+      
+        13.2.2026 - 08:25 Uhr
+      
+    </small>
+
+    <h3>
+      Beeinträchtigung der Klimasysteme im Bielefelder Rechenzentrum
+    </h3>
+
+    
+    
+    
+
+    
+	
+	
+	
+	
+	
+	
+
+	<div
+		class="warning">
+		
+		Gelöst nach 
+		3h 
+		51m
+		
+		
+	</div>
+
+  
+</a>
+
+
+
+
+
+
+
+
+
+<a href="https://teuto.fail/issues/2026-01-13-umzug-telehouse/" class="issue no-underline">
+  
+    <small class="date float-right relative-time" title="13.1.2026 - 20:00 Uhr" data-date="2026-01-13T20:00:00Z">
+      
+        13.1.2026 - 20:00 Uhr
+      
+    </small>
+
+    <h3>
+      Serverumzug in ein anderes Rechenzentrum
+    </h3>
+
+    
+    
+    
+
+    
+	
+	
+	
+	
+	
+	
+
+	<div
+		class="warning">
+		
+		Gelöst nach 
+		8h 
+		0m
+		
+		
+	</div>
+
+  
+</a>
+
+
+
+
+
+
+
+
+
+<a href="https://teuto.fail/issues/2025-11-11-vrrp/" class="issue no-underline">
+  
+    <small class="date float-right relative-time" title="11.11.2025 - 06:30 Uhr" data-date="2025-11-11T06:30:00Z">
+      
+        11.11.2025 - 06:30 Uhr
+      
+    </small>
+
+    <h3>
+      Wartung Routing
+    </h3>
+
+    
+    
+    
+
+    
+	
+	
+	
+	
+	
+	
+
+	<div
+		class="warning">
+		
+		Gelöst nach 
+		1h 
+		0m
+		
+		
+	</div>
+
+  
+</a>
+
+
+
+
+
+
+
+
+
+<a href="https://teuto.fail/issues/2025-10-23-wartungsarbeiten-mail-umstellung/" class="issue no-underline">
+  
+    <small class="date float-right relative-time" title="5.11.2025 - 21:00 Uhr" data-date="2025-11-05T21:00:00Z">
+      
+        5.11.2025 - 21:00 Uhr
+      
+    </small>
+
+    <h3>
+      Wartung E-Mail Systeme
+    </h3>
+
+    
+    
+    
+
+    
+	
+	
+	
+	
+	
+	
+
+	<div
+		class="ok">
+		
+		Gelöst nach 
+		
+		10m
+		
+		
+	</div>
+
+  
+</a>
+
+
+
+
+
+
+
+
+
+<a href="https://teuto.fail/issues/2025-10-24-kundeninfo/" class="issue no-underline">
+  
+    <small class="date float-right relative-time" title="24.10.2025 - 11:00 Uhr" data-date="2025-10-24T11:00:00Z">
+      
+        24.10.2025 - 11:00 Uhr
+      
+    </small>
+
+    <h3>
+      Information zu smtp.teuto.net
+    </h3>
+
+    
+    
+    
+
+    
+	
+	
+	
+	
+	
+	
+
+	<div
+		class="ok">
+		
+		Gelöst nach 
+		
+		45m
+		
+		
+	</div>
+
+  
+</a>
+
+
+
+
+
+
+
+
+
+<a href="https://teuto.fail/issues/2025-10-20-wartungsarbeiten-secure-intra/" class="issue no-underline">
+  
+    <small class="date float-right relative-time" title="20.10.2025 - 07:00 Uhr" data-date="2025-10-20T07:00:00Z">
+      
+        20.10.2025 - 07:00 Uhr
+      
+    </small>
+
+    <h3>
+      Wartung interner Datenbank-Server
+    </h3>
+
+    
+    
+    
+
+    
+	
+	
+	
+	
+	
+	
+
+	<div
+		class="ok">
+		
+		Gelöst nach 
+		
+		45m
+		
+		
+	</div>
+
+  
+</a>
+
+
+
+
+
+
+
+
+
+<a href="https://teuto.fail/issues/2025-10-15-wartungsarbeiten-zimbra/" class="issue no-underline">
+  
+    <small class="date float-right relative-time" title="15.10.2025 - 21:00 Uhr" data-date="2025-10-15T21:00:00Z">
+      
+        15.10.2025 - 21:00 Uhr
+      
+    </small>
+
+    <h3>
+      Wartung zimbra.teuto.net
+    </h3>
+
+    
+    
+    
+
+    
+	
+	
+	
+	
+	
+	
+
+	<div
+		class="warning">
+		
+		Gelöst nach 
+		2h 
+		0m
+		
+		
+	</div>
+
+  
+</a>
+
+
+
+
+
+<hr>
+<div class="right">
+	<a href="/issues/" class="next-link">
+		Vorherige &nbsp; &rarr;
+	</a>
+</div>
+
+
+      <div class="padding"></div>
+    </div>
+  
+
+  <script type="text/javascript">
+  
+
+
+  console.log('cState v6.0.1 - https://github.com/cstate/cstate');
+  document.getElementsByTagName('html')[0].className = 'js';
+
+  
+
+
+  if (document.body.className === 'change-header-color') {
+    if (document.body.className === 'status-down') {
+      document.querySelector('meta[name=theme-color]').setAttribute('content', themeDownColor);
+    } else if (document.body.className === 'status-disrupted') {
+      document.querySelector('meta[name=theme-color]').setAttribute('content', themeDisruptedColor);
+    } else {
+      document.querySelector('meta[name=theme-color]').setAttribute('content', themeNoticeColor);
+    }
+  }
+
+  
+
+
+  if (window.location.hash.match('access_token')) {
+    document.location.pathname = '/admin';
+  }
+  if (window.location.hash.match('invite_token')) {
+    document.location.pathname = '/admin';
+  }
+  if (window.location.hash.match('confirmation_token')) {
+    document.location.pathname = '/admin';
+  }
+  if (window.location.hash.match('email_change_token')) {
+    document.location.pathname = '/admin';
+  }
+  if (window.location.hash.match('recovery_token')) {
+    document.location.pathname = '/admin';
+  }
+
+  
+
+
+  function toggleCategoryHead(el) {
+    if (el.parentNode.className == 'category category--open category--titled') {
+      el.parentNode.className = 'category category--closed category--titled';
+    } else {
+      el.parentNode.className = 'category category--open category--titled';
+    }
+  }
+
+  
+
+
+  function timeSince(date) {
+    var seconds = Math.floor((new Date() - date) / 1000);
+
+    var interval = Math.floor(seconds / 31536000);
+
+    if (interval > 1) {
+      return interval + ' Jahre';
+    }
+    interval = Math.floor(seconds / 2592000);
+    if (interval > 1) {
+      return interval + ' Monate';
+    }
+    interval = Math.floor(seconds / 86400);
+    if (interval > 1) {
+      return interval + 't';
+    }
+    interval = Math.floor(seconds / 3600);
+    if (interval > 1) {
+      return interval + 'h';
+    }
+    interval = Math.floor(seconds / 60);
+    if (interval > 1) {
+      return interval + ' min';
+    }
+
+    
+    if(Math.floor(seconds) < 0) {
+      return Math.floor(seconds);
+    }
+
+    
+    
+      return Math.floor(seconds) + 's';
+    
+  }
+
+  
+
+
+  function updateRelativeTimes() {
+    var elements = document.querySelectorAll('.relative-time');
+    for (var i = 0; i < elements.length; i++) {
+      var element = elements[i];
+      var time = Date.parse(element.dataset.date);
+      var html = element.getAttribute('data-time-prefix') || '';
+
+
+      if (!time) {
+        time = element.innerText;
+        element.setAttribute('title', time || new Date);
+        html += 'gerade eben';
+      } else if (timeSince(time) < 0) {
+        html = element.innerText;
+      } else {
+        html += timeSince(time) + ' her';
+      }
+      html += element.getAttribute('data-time-suffix') || '';
+      element.innerHTML = html.trim();
+    }
+  }
+
+  updateRelativeTimes();
+
+  
+  setInterval(updateRelativeTimes, 5000);
+</script>
+
+
+
+
+  
+
+<div class="footer">
+  <div class="contain">
+    <p><strong class="bold">&copy; teuto.net Störungs- und Wartungsmeldungen, 2026</strong>
+       &nbsp; • &nbsp; <a href="#">Nach oben</a>
+    </p>
+
+    <p>Auf diesen Seiten informieren wir Sie über Störungen und Wartungsarbeiten. Registrieren Sie sich <a href="https://ml.teuto.net/mailman3/lists/teuto-noc.ml.teuto.net/">hier</a> mit Ihrer E-Mail-Adresse und Sie werden per E-Mail auf dem Laufenden gehalten. <a href="https://www.teuto.net/datenschutzerklaerung/">Datenschutz</a> <a href="https://www.teuto.net/impressum/">Impressum</a></p>
+
+    
+    <small class="footer__copyright faded">Powered by <a href="https://github.com/cstate/cstate"><b>cState</b></a></small>
+
+    
+      <hr>
+
+      <p class="hinted">
+        <small>
+          ⚡
+          RSS abonnieren —
+          
+            <a href="https://teuto.fail/index.xml" class="no-underline">alle Updates</a>
+          
+          
+        </small>
+      </p>
+    
+  </div>
+</div>
+
+
+
+  </body>
+</html>

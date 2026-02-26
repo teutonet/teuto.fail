@@ -1,0 +1,83 @@
+{
+  "is": "system",
+  "title": "Public Cloud Paderborn",
+  "permalink": "https://teuto.fail/affected/public-cloud-paderborn/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Serverumzug in ein anderes Rechenzentrum",
+        "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+        "lastMod": "2026-01-14 03:52:49 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-01-14 04:00:00",
+        "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+        "filename": "2026-01-13-umzug-telehouse.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung der Netzwerkverbindung in Paderborn",
+        "createdAt": "2024-07-16 00:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-07-16-wartungsarbeiten-pb/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-07-16 06:00:00",
+        "affected": ["Public Cloud Paderborn", "Routing Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "login.teuto.net", "mail.teuto.net"],
+        "filename": "2024-07-16-wartungsarbeiten-pb.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung in Paderborn",
+        "createdAt": "2024-06-18 09:05:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-06-18-ausfall-pb/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-06-18 10:26:00",
+        "affected": ["Public Cloud Paderborn", "Routing Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "login.teuto.net", "mail.teuto.net"],
+        "filename": "2024-06-18-ausfall-pb.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung der Netzwerkverbindung in Paderborn",
+        "createdAt": "2024-05-14 12:10:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-05-14-netwerk-ausfall-pb/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-05-14 16:40:00",
+        "affected": ["Public Cloud Paderborn", "Routing Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "login.teuto.net", "mail.teuto.net"],
+        "filename": "2024-05-14-netwerk-ausfall-pb.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Einspielen von Updates in Paderborn. Es kommt zu Unterbrechungen bei der Erreichbarkeit von Diensten in der Public Cloud.",
+        "createdAt": "2024-05-07 08:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-05-07-cloud-updates-pb/",
+        "severity": "Notice",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-05-07 11:00:00",
+        "affected": ["Public Cloud Paderborn"],
+        "filename": "2024-05-07-cloud-updates-pb.md"
+      }
+    
+  ]
+}
+
+
+
+
+

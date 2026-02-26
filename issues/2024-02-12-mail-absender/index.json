@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Absender-Prüfung E-Mail",
+  "body": "\u003cp\u003eAb dem 12.2.2024 ist auf dem Server smtp.teuto.net eine Absender-Prüfung aktiv.\nDas Feature bewirkt, dass unser Mail-Server smtp.teuto.net überprüft, ob ein Absender wirklich über den Domainnamen versenden darf.\nAlle berechtigten Domainnamen sind als Domainnamen zu der Kundennummer im Mailadmin hinterlegt. Anschließend kann jedes Postfach des Kunden (Benutzer) jede dieser Domains als Absender Adresse verwenden.\u003c/p\u003e\n\u003ch2 id=\"handlungsbedarf\"\u003eHandlungsbedarf\u003c/h2\u003e\n\u003cp\u003eDas neue Feature betrifft Sie nur, wenn Sie Ihre E-Mail Postfächer über den Mailadmin unter mailadmin.teuto.net verwalten oder den Postausgangsserver smtp.teuto.net verwenden.\nBitte überprüfen Sie, ob alle verwendeten Domains im Mailadmin hinterlegt sind. Sollte das nicht der Fall sein, können Sie uns per E-Mail unter Angabe der Domain und der Kundennummer kontaktieren.\u003c/p\u003e\n\u003cp\u003eWir überprüfen bis zum 12.2. regelmäßig die verwendeten Absenderadressen und reagieren bei entsprechenden Auffälligkeiten.\u003c/p\u003e\n",
+  "createdAt": "2024-02-12 00:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2024-02-12-mail-absender/",
+  "severity": "Notice",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2024-02-12 07:00:00",
+  "affected": ["smtp.teuto.net"],
+  "filename": "2024-02-12-mail-absender.md"
+}

@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Wartungsarbeiten am internen Datenbanksystem. Es kommt zu kurzen Unterbrechungen beim Email Empfang/Versand.",
+  "body": "\u003cp\u003eDurch Wartungsarbeiten am internen Datenbanksystem kommt es am 16.01.2024 zwischen 07:00 und 08:00 Uhr zu kurzen Unterbrechungen beim Email Empfang/Versand. Davon betroffen sind imap.teuto.net, pop3.teuto.net und smtp.teuto.net.\u003c/p\u003e\n",
+  "createdAt": "2024-01-16 07:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2024-01-16-wartungsarbeiten-datenbanksystem/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-01-16 08:00:00",
+  "affected": ["imap.teuto.net", "pop3.teuto.net", "smtp.teuto.net"],
+  "filename": "2024-01-16-wartungsarbeiten-datenbanksystem.md"
+}

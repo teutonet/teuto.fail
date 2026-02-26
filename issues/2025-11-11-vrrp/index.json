@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Wartung Routing",
+  "body": "\u003cp\u003eAm 11.11.2025 zwischen 6:30 und 7:30 Uhr werden Wartungsarbeiten an der Netzwerkinfrastruktur in Bielefeld durchgeführt.\u003c/p\u003e\n\u003cp\u003eWährend der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eInternetanbindung/Routing am Standort Bielefeld\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eEs werden Ausfälle im Sekundenbereich erwartet.\u003c/p\u003e\n",
+  "createdAt": "2025-11-11 06:30:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2025-11-11-vrrp/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-11-11 07:30:00",
+  "affected": ["Routing Bielefeld"],
+  "filename": "2025-11-11-vrrp.md"
+}

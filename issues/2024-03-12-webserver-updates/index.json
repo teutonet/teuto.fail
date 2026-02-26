@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Geplante Wartung - web2, web3, web4",
+  "body": "\u003cp\u003eAm Dienstag den 12.03.2024 ab 21 Uhr kommt es zu Einschränkungen bei allen Webseiten auf den folgenden Webservern:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eweb2.teuto.net\u003c/li\u003e\n\u003cli\u003eweb3.teuto.net\u003c/li\u003e\n\u003cli\u003eweb4.teuto.net\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eAuf den genannten Webservern werden Softwareaktualisierungen eingespielt.\u003c/p\u003e\n\u003cp\u003eDen Server Ihrer Webseite Sehen Sie im Kundenlogin unter \u0026ldquo;Webseiten\u0026rdquo; im Feld \u0026ldquo;Server\u0026rdquo;.\nEs besteht Ihrerseits kein Handlungsbedarf.\u003c/p\u003e\n",
+  "createdAt": "2024-03-12 21:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2024-03-12-webserver-updates/",
+  "severity": "<no value>",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-03-12 23:00:00",
+  "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net"],
+  "filename": "2024-03-12-webserver-updates.md"
+}

@@ -1,0 +1,41 @@
+{
+  "is": "system",
+  "title": "Tickets.teuto.net",
+  "permalink": "https://teuto.fail/affected/tickets.teuto.net/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten gitlab System tickets.teuto.net",
+        "createdAt": "2025-03-07 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-03-07-wartungsarbeiten-tickets-teuto-net/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-03-07 08:00:00",
+        "affected": ["tickets.teuto.net"],
+        "filename": "2025-03-07-wartungsarbeiten-tickets-teuto-net.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Systemaktualisierung tickets.teuto.net",
+        "createdAt": "2024-10-23 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-10-23-update-tickets-teuto.net/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-10-23 07:45:00",
+        "affected": ["tickets.teuto.net"],
+        "filename": "2024-10-23-update-tickets-teuto.net.md"
+      }
+    
+  ]
+}
+
+
+
+
+

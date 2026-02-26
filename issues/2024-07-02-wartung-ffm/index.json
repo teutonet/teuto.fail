@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Wartungsarbeiten Netzwerk Frankfurt",
+  "body": "\u003cp\u003eAm 2.7.2024 zwischen 4 und 7 Uhr werden Wartungsarbeiten am Backbone-Routing und an den Aussenanbindungen in Frankfurt (AS42008) durchgeführt.\u003c/p\u003e\n\u003cp\u003eEs kann zu kurzen Ausfällen in der Erreichbarkeit aller Services kommen.\u003c/p\u003e\n",
+  "createdAt": "2024-07-02 07:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2024-07-02-wartung-ffm/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-07-02 22:00:00",
+  "affected": ["Routing Frankfurt", "Public Cloud Frankfurt"],
+  "filename": "2024-07-02-Wartung-ffm.md"
+}

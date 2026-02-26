@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Wartung E-Mail Systeme",
+  "body": "\u003cp\u003eAm 05.11.2025 zwischen 21 und 23 Uhr werden Umstellungen der E-Mail Systeme durchgeführt.\u003c/p\u003e\n\u003cp\u003eWährend der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:\u003c/p\u003e\n\u003ch3 id=\"imapteutonet-pop3teutonet\"\u003eimap.teuto.net, pop3.teuto.net:\u003c/h3\u003e\n\u003cp\u003eEs wird ein Ausfall von ca. 10 Minuten erwartet. Das betrifft nur den Abruf von E-Mails aus E-Mail Postfächern. Die Zustellung eingehender E-Mails ist zu jedem Zeitpunkt sichergestellt.\u003c/p\u003e\n\u003ch3 id=\"mailteutonet-smtpteutonet\"\u003email.teuto.net, smtp.teuto.net:\u003c/h3\u003e\n\u003cp\u003eDer Versand von E-mails ist für ca. 10 Minuten nicht möglich. Es gehen keine E-Mails verloren.\u003c/p\u003e\n\u003ch3 id=\"zimbrateutonet\"\u003ezimbra.teuto.net:\u003c/h3\u003e\n\u003cp\u003eDer Versand von E-Mails ist zeitweise nur mit Verzögerungen möglich. Der Zugriff auf Zimbra ist zu jedem Zeitpunkt möglich.\u003c/p\u003e\n",
+  "createdAt": "2025-11-05 21:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2025-10-23-wartungsarbeiten-mail-umstellung/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-11-05 21:10:00",
+  "affected": ["imap.teuto.net", "pop3.teuto.net", "smtp.teuto.net", "mail.teuto.net", "zimbra.teuto.net"],
+  "filename": "2025-10-23-wartungsarbeiten-mail-umstellung.md"
+}

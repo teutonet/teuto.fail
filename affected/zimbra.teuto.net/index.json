@@ -1,0 +1,55 @@
+{
+  "is": "system",
+  "title": "Zimbra.teuto.net",
+  "permalink": "https://teuto.fail/affected/zimbra.teuto.net/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Serverumzug in ein anderes Rechenzentrum",
+        "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+        "lastMod": "2026-01-14 03:52:49 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-01-14 04:00:00",
+        "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+        "filename": "2026-01-13-umzug-telehouse.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartung E-Mail Systeme",
+        "createdAt": "2025-11-05 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-10-23-wartungsarbeiten-mail-umstellung/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-11-05 21:10:00",
+        "affected": ["imap.teuto.net", "pop3.teuto.net", "smtp.teuto.net", "mail.teuto.net", "zimbra.teuto.net"],
+        "filename": "2025-10-23-wartungsarbeiten-mail-umstellung.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartung zimbra.teuto.net",
+        "createdAt": "2025-10-15 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-10-15-wartungsarbeiten-zimbra/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-10-15 23:00:00",
+        "affected": ["zimbra.teuto.net"],
+        "filename": "2025-10-15-wartungsarbeiten-zimbra.md"
+      }
+    
+  ]
+}
+
+
+
+
+

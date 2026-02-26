@@ -1,0 +1,41 @@
+{
+  "is": "system",
+  "title": "Public Cloud Bielefeld",
+  "permalink": "https://teuto.fail/affected/public-cloud-bielefeld/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Störung des Routings",
+        "createdAt": "2024-08-07 22:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-08-07-switch-reboot/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-08-07 22:30:00",
+        "affected": ["Public Cloud Bielefeld"],
+        "filename": "2024-08-07-switch-reboot.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung der Load Balancer in Bielefeld",
+        "createdAt": "2024-07-22 00:10:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-07-22-ausfall-cloud-bfe/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-07-22 11:50:00",
+        "affected": ["Public Cloud Bielefeld", "<no value>"],
+        "filename": "2024-07-22-ausfall-cloud-bfe.md"
+      }
+    
+  ]
+}
+
+
+
+
+

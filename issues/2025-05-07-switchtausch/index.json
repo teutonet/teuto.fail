@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Netzwerk Wartungsarbeiten Bielefeld",
+  "body": "\u003cp\u003eAm 07.05.2025 zwischen 20 und 23 Uhr werden Wartungsarbeiten an der Netzwerkinfrastruktur in Bielefeld durchgeführt.\u003c/p\u003e\n\u003cp\u003eWährend der Wartungsarbeiten steht Internet für folgende Dienstleistungen zeitweise nicht zur Verfügung:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eVerschiedene Festverbindungen / Internetanbindungen\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eEs werden Ausfälle im Minutenbereich erwartet.\u003c/p\u003e\n",
+  "createdAt": "2025-05-07 20:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2025-05-07-switchtausch/",
+  "severity": "informational",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-05-07 23:00:00",
+  "affected": ["Festverbindungen"],
+  "filename": "2025-05-07-switchtausch.md"
+}

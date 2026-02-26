@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Affected on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2026-03-04T20:00:00+00:00</lastBuildDate>
+    <updated>2026-03-04T20:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Web2.teuto.net</title>
+        <link>https://teuto.fail/affected/web2.teuto.net/</link>
+        <pubDate>Wed, 04 Mar 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/web2.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Web4.teuto.net</title>
+        <link>https://teuto.fail/affected/web4.teuto.net/</link>
+        <pubDate>Wed, 04 Mar 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/web4.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Mx1.teuto.net</title>
+        <link>https://teuto.fail/affected/mx1.teuto.net/</link>
+        <pubDate>Thu, 26 Feb 2026 10:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/mx1.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Mx2.teuto.net</title>
+        <link>https://teuto.fail/affected/mx2.teuto.net/</link>
+        <pubDate>Thu, 26 Feb 2026 10:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/mx2.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Netzwerke in Bielefeld</title>
+        <link>https://teuto.fail/affected/netzwerke-in-bielefeld/</link>
+        <pubDate>Thu, 26 Feb 2026 08:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/netzwerke-in-bielefeld/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Serverhousing Bielefeld</title>
+        <link>https://teuto.fail/affected/serverhousing-bielefeld/</link>
+        <pubDate>Fri, 13 Feb 2026 08:25:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/serverhousing-bielefeld/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Login.teuto.net</title>
+        <link>https://teuto.fail/affected/login.teuto.net/</link>
+        <pubDate>Tue, 13 Jan 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/login.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Mail.teuto.net</title>
+        <link>https://teuto.fail/affected/mail.teuto.net/</link>
+        <pubDate>Tue, 13 Jan 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/mail.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Mail1.teuto.net</title>
+        <link>https://teuto.fail/affected/mail1.teuto.net/</link>
+        <pubDate>Tue, 13 Jan 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/mail1.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Mx2.isp.teuto.net</title>
+        <link>https://teuto.fail/affected/mx2.isp.teuto.net/</link>
+        <pubDate>Tue, 13 Jan 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/mx2.isp.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Public Cloud Paderborn</title>
+        <link>https://teuto.fail/affected/public-cloud-paderborn/</link>
+        <pubDate>Tue, 13 Jan 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/public-cloud-paderborn/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Routing Paderborn</title>
+        <link>https://teuto.fail/affected/routing-paderborn/</link>
+        <pubDate>Tue, 13 Jan 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/routing-paderborn/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Smtp.teuto.net</title>
+        <link>https://teuto.fail/affected/smtp.teuto.net/</link>
+        <pubDate>Tue, 13 Jan 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/smtp.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Teuto.net</title>
+        <link>https://teuto.fail/affected/teuto.net/</link>
+        <pubDate>Tue, 13 Jan 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Web3.teuto.net</title>
+        <link>https://teuto.fail/affected/web3.teuto.net/</link>
+        <pubDate>Tue, 13 Jan 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/web3.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Zimbra.teuto.net</title>
+        <link>https://teuto.fail/affected/zimbra.teuto.net/</link>
+        <pubDate>Tue, 13 Jan 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/zimbra.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Routing Bielefeld</title>
+        <link>https://teuto.fail/affected/routing-bielefeld/</link>
+        <pubDate>Tue, 11 Nov 2025 06:30:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/routing-bielefeld/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Imap.teuto.net</title>
+        <link>https://teuto.fail/affected/imap.teuto.net/</link>
+        <pubDate>Wed, 05 Nov 2025 21:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/imap.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Pop3.teuto.net</title>
+        <link>https://teuto.fail/affected/pop3.teuto.net/</link>
+        <pubDate>Wed, 05 Nov 2025 21:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/pop3.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Imap.teuto.net, Pop3.teuto.net Und Smtp.teuto.net</title>
+        <link>https://teuto.fail/affected/imap.teuto.net-pop3.teuto.net-und-smtp.teuto.net/</link>
+        <pubDate>Mon, 20 Oct 2025 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/imap.teuto.net-pop3.teuto.net-und-smtp.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Festverbindungen</title>
+        <link>https://teuto.fail/affected/festverbindungen/</link>
+        <pubDate>Wed, 07 May 2025 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/festverbindungen/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Tickets.teuto.net</title>
+        <link>https://teuto.fail/affected/tickets.teuto.net/</link>
+        <pubDate>Fri, 07 Mar 2025 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/tickets.teuto.net/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Public Cloud Frankfurt</title>
+        <link>https://teuto.fail/affected/public-cloud-frankfurt/</link>
+        <pubDate>Wed, 19 Feb 2025 08:40:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/public-cloud-frankfurt/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Public Cloud Bielefeld</title>
+        <link>https://teuto.fail/affected/public-cloud-bielefeld/</link>
+        <pubDate>Wed, 07 Aug 2024 22:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/public-cloud-bielefeld/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Routing Frankfurt</title>
+        <link>https://teuto.fail/affected/routing-frankfurt/</link>
+        <pubDate>Tue, 06 Aug 2024 15:10:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/routing-frankfurt/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Route Bielefeld</title>
+        <link>https://teuto.fail/affected/route-bielefeld/</link>
+        <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/route-bielefeld/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Route Frankfurt</title>
+        <link>https://teuto.fail/affected/route-frankfurt/</link>
+        <pubDate>Mon, 04 Sep 2023 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/affected/route-frankfurt/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+  </channel>
+</rss>

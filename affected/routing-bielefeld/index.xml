@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Routing Bielefeld on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/routing-bielefeld/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2025-11-11T06:30:00+00:00</lastBuildDate>
+    <updated>2025-11-11T06:30:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/routing-bielefeld/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Wartung Routing</title>
+        <link>https://teuto.fail/issues/2025-11-11-vrrp/</link>
+        <pubDate>Tue, 11 Nov 2025 06:30:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-11-11-vrrp/</guid>
+        <category>2025-11-11 07:30:00</category>
+        <description>&lt;p&gt;Am 11.11.2025 zwischen 6:30 und 7:30 Uhr werden Wartungsarbeiten an der Netzwerkinfrastruktur in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Internetanbindung/Routing am Standort Bielefeld&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es werden Ausfälle im Sekundenbereich erwartet.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 11.11.2025 zwischen 6:30 und 7:30 Uhr werden Wartungsarbeiten an der Netzwerkinfrastruktur in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Internetanbindung/Routing am Standort Bielefeld&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es werden Ausfälle im Sekundenbereich erwartet.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartung Routing</title>
+        <link>https://teuto.fail/issues/2025-10-08-vrrp/</link>
+        <pubDate>Wed, 08 Oct 2025 06:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-10-08-vrrp/</guid>
+        <category>2025-10-08 07:00:00</category>
+        <description>&lt;p&gt;Am 8.10.2025 zwischen 6 und 7 Uhr werden Wartungsarbeiten an der Netzwerkinfrastruktur in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Internetanbindung/Routing am Standort Bielefeld&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es werden Ausfälle im Sekundenbereich erwartet.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 8.10.2025 zwischen 6 und 7 Uhr werden Wartungsarbeiten an der Netzwerkinfrastruktur in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Internetanbindung/Routing am Standort Bielefeld&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es werden Ausfälle im Sekundenbereich erwartet.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Ausfall Festverbindungen</title>
+        <link>https://teuto.fail/issues/2025-09-28-pxe-switche/</link>
+        <pubDate>Tue, 23 Sep 2025 20:30:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-09-28-pxe-switche/</guid>
+        <category>2025-09-23 23:00:00</category>
+        <description>&lt;p&gt;Am 23.09.2025 zwischen 19 und 23 Uhr werden Wartungsarbeiten an der Netzwerkinfrastruktur in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Verschiedene Festverbindungen / Internetanbindungen&lt;/li&gt;
+&lt;li&gt;Serverhousing im Rack H08&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Alle betroffenen Kunden werden separat per E-Mail informiert.&lt;/p&gt;
+&lt;p&gt;Es werden Ausfälle im Minutenbereich erwartet.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 23.09.2025 zwischen 19 und 23 Uhr werden Wartungsarbeiten an der Netzwerkinfrastruktur in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Verschiedene Festverbindungen / Internetanbindungen&lt;/li&gt;
+&lt;li&gt;Serverhousing im Rack H08&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Alle betroffenen Kunden werden separat per E-Mail informiert.&lt;/p&gt;
+&lt;p&gt;Es werden Ausfälle im Minutenbereich erwartet.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Netzwerkproblemen in BFE</title>
+        <link>https://teuto.fail/issues/2025-07-10-stoerung-bielefeld/</link>
+        <pubDate>Thu, 10 Jul 2025 07:30:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-07-10-stoerung-bielefeld/</guid>
+        <category>2025-07-10 10:00:00</category>
+        <description>&lt;p&gt;Seit 07:30 Uhr kommt es zu Störungen an der in Bielefeld gehosteten
+Infrastruktur. Die Erreichbarkeit verschiedener Dienste ist eingeschränkt.&lt;/p&gt;
+&lt;p&gt;Die telefonische Erreichbarkeit von teuto.net ist ebenfalls davon betroffen.&lt;/p&gt;
+&lt;p&gt;Eine Kontaktaufnahme ist per E-Mail an &lt;a href=&#34;mailto:support@teuto.net&#34;&gt;support@teuto.net&lt;/a&gt; möglich.&lt;/p&gt;
+&lt;p&gt;Update: Die Dienste sind wieder erreichbar. Telefonische Kontaktaufnahme
+ist auch wieder möglich.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Since 07:30 am there are issues with the infrastructure hosted in Bielefeld.
+The connectivity of various services is limited.&lt;/p&gt;
+&lt;p&gt;The availability of teuto.net via telephone is also limited.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Seit 07:30 Uhr kommt es zu Störungen an der in Bielefeld gehosteten
+Infrastruktur. Die Erreichbarkeit verschiedener Dienste ist eingeschränkt.&lt;/p&gt;
+&lt;p&gt;Die telefonische Erreichbarkeit von teuto.net ist ebenfalls davon betroffen.&lt;/p&gt;
+&lt;p&gt;Eine Kontaktaufnahme ist per E-Mail an &lt;a href=&#34;mailto:support@teuto.net&#34;&gt;support@teuto.net&lt;/a&gt; möglich.&lt;/p&gt;
+&lt;p&gt;Update: Die Dienste sind wieder erreichbar. Telefonische Kontaktaufnahme
+ist auch wieder möglich.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Since 07:30 am there are issues with the infrastructure hosted in Bielefeld.
+The connectivity of various services is limited.&lt;/p&gt;
+&lt;p&gt;The availability of teuto.net via telephone is also limited.&lt;/p&gt;
+&lt;p&gt;You can contact us by email at &lt;a href=&#34;mailto:support@teuto.net&#34;&gt;support@teuto.net&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Update: All services are up again. You can also reach us by phone again.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten Netzwerk Bielefeld</title>
+        <link>https://teuto.fail/issues/2025-03-04-wartungsarbeiten-netzwerk-bielefeld/</link>
+        <pubDate>Tue, 04 Mar 2025 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-03-04-wartungsarbeiten-netzwerk-bielefeld/</guid>
+        <category>2025-03-04 08:00:00</category>
+        <description>&lt;p&gt;Am 04.03.2025 zwischen 7:00 Uhr und 8:00 Uhr werden dringende Wartungsarbeiten am Netzwerk in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;In der redundanten Switch-Infrastrukur wird ein Switch in Betrieb genommen.&lt;/p&gt;
+&lt;p&gt;Es ist in diesem Zeitraum mit kurzen Ausfällen zu rechnen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 04.03.2025 zwischen 7:00 Uhr und 8:00 Uhr werden dringende Wartungsarbeiten am Netzwerk in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;In der redundanten Switch-Infrastrukur wird ein Switch in Betrieb genommen.&lt;/p&gt;
+&lt;p&gt;Es ist in diesem Zeitraum mit kurzen Ausfällen zu rechnen.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Dringende Wartungsarbeiten Netzwerk Bielefeld</title>
+        <link>https://teuto.fail/issues/2025-02-27-wartungsarbeiten-netzwerk-bielefeld/</link>
+        <pubDate>Thu, 27 Feb 2025 21:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-02-27-wartungsarbeiten-netzwerk-bielefeld/</guid>
+        <category>2025-02-27 21:30:00</category>
+        <description>&lt;p&gt;Am 27.02.2025 zwischen 21:00 Uhr und 22:00 Uhr werden dringende Wartungsarbeiten am Netzwerk in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;In der redundanten Switch-Infrastrukur wird ein Ersatz-Switch in Betrieb genommen.&lt;/p&gt;
+&lt;p&gt;Es ist in diesem Zeitraum mit kurzen Ausfällen zu rechnen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 27.02.2025 zwischen 21:00 Uhr und 22:00 Uhr werden dringende Wartungsarbeiten am Netzwerk in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;In der redundanten Switch-Infrastrukur wird ein Ersatz-Switch in Betrieb genommen.&lt;/p&gt;
+&lt;p&gt;Es ist in diesem Zeitraum mit kurzen Ausfällen zu rechnen.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Netzwerkproblemen in BFE</title>
+        <link>https://teuto.fail/issues/2025-02-25-st%C3%B6rung-routing/</link>
+        <pubDate>Tue, 25 Feb 2025 10:05:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-02-25-st%C3%B6rung-routing/</guid>
+        <category>2025-02-25 11:00:00</category>
+        <description>&lt;p&gt;Heute ab etwa 10:05 Uhr traten Netzwerkprobleme am Standort Bielefeld auf.
+Die Erreichbarkeit verschiedener Dienste war eingeschränkt.
+Die Störung ist behoben.&lt;/p&gt;
+&lt;p&gt;Sollten bei Ihnen weiterhin Probleme bestehen wenden Sie sich bitte an
+unser Support Team.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Network problems occurred at the Bielefeld site from around 10:05 a.m. today.
+The accessibility of various services was restricted.
+The problem is solved now.&lt;/p&gt;
+&lt;p&gt;Should you still experience problems please contact our support team.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Heute ab etwa 10:05 Uhr traten Netzwerkprobleme am Standort Bielefeld auf.
+Die Erreichbarkeit verschiedener Dienste war eingeschränkt.
+Die Störung ist behoben.&lt;/p&gt;
+&lt;p&gt;Sollten bei Ihnen weiterhin Probleme bestehen wenden Sie sich bitte an
+unser Support Team.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Network problems occurred at the Bielefeld site from around 10:05 a.m. today.
+The accessibility of various services was restricted.
+The problem is solved now.&lt;/p&gt;
+&lt;p&gt;Should you still experience problems please contact our support team.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Gestörte Anbindung Bielefeld</title>
+        <link>https://teuto.fail/issues/2024-11-11-glasfaser/</link>
+        <pubDate>Mon, 11 Nov 2024 10:30:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-11-11-glasfaser/</guid>
+        <category>2024-11-11 15:00:00</category>
+        <description>&lt;p&gt;Seit dem 11.11.2024 10:30 kann es zu Paketverlust und geringe Bandbreite am Standort Bielefeld kommen.&lt;/p&gt;
+&lt;p&gt;Hintergrund ist eine Außerbetriebnahme zur Entstörung einer Glasfaseranbindung.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Seit dem 11.11.2024 10:30 kann es zu Paketverlust und geringe Bandbreite am Standort Bielefeld kommen.&lt;/p&gt;
+&lt;p&gt;Hintergrund ist eine Außerbetriebnahme zur Entstörung einer Glasfaseranbindung.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten BGP-Routing Bielefeld</title>
+        <link>https://teuto.fail/issues/2024-10-16-wartungsarbeiten-bgp-bielefeld/</link>
+        <pubDate>Wed, 16 Oct 2024 22:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-10-16-wartungsarbeiten-bgp-bielefeld/</guid>
+        <category>2024-10-16 23:59:00</category>
+        <description>&lt;p&gt;Am 16.10.2024 zwischen 22:00 Uhr und 23:00 Uhr werden Wartungsarbeiten am BGP-Routing in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;Es ist in diesem Zeitraum mit Ausfällen zu rechnen.&lt;/p&gt;
+&lt;p&gt;Die Wartungsarbeiten wurden abgeschlossen. Es kam leider bis ca 24 Uhr zu Routingproblemen im Bereich IPv6.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 16.10.2024 zwischen 22:00 Uhr und 23:00 Uhr werden Wartungsarbeiten am BGP-Routing in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;Es ist in diesem Zeitraum mit Ausfällen zu rechnen.&lt;/p&gt;
+&lt;p&gt;Die Wartungsarbeiten wurden abgeschlossen. Es kam leider bis ca 24 Uhr zu Routingproblemen im Bereich IPv6.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Störung des Routings</title>
+        <link>https://teuto.fail/issues/2024-08-06-routing-probleme/</link>
+        <pubDate>Tue, 06 Aug 2024 15:10:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-08-06-routing-probleme/</guid>
+        <category>2024-08-06 15:55:00</category>
+        <description>&lt;p&gt;Aktuell kommt es zu einer Stoerung des Routings. Wir arbeiten mit Hochdruck an einer Loesung.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Aktuell kommt es zu einer Stoerung des Routings. Wir arbeiten mit Hochdruck an einer Loesung.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten Netzwerk Bielefeld</title>
+        <link>https://teuto.fail/issues/2024-08-01-dringende-wartungsarbeiten/</link>
+        <pubDate>Thu, 01 Aug 2024 23:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-08-01-dringende-wartungsarbeiten/</guid>
+        <category>2024-08-01 23:30:00</category>
+        <description>&lt;p&gt;Am 01.08.2024 zwischen 23:00 Uhr und 23:30 Uhr werden dringende Wartungsarbeiten am Netzwerk in Bielefeld durchgeführt. Es wird ein defektes Gerät ausgetauscht.&lt;/p&gt;
+&lt;p&gt;Es ist in diesem Zeitraum mit kurzen Ausfällen zu rechnen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 01.08.2024 zwischen 23:00 Uhr und 23:30 Uhr werden dringende Wartungsarbeiten am Netzwerk in Bielefeld durchgeführt. Es wird ein defektes Gerät ausgetauscht.&lt;/p&gt;
+&lt;p&gt;Es ist in diesem Zeitraum mit kurzen Ausfällen zu rechnen.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten Netzwerk Bielefeld</title>
+        <link>https://teuto.fail/issues/2024-06-18-wartungsarbeiten-netzwerk-bielefeld/</link>
+        <pubDate>Tue, 18 Jun 2024 22:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-06-18-wartungsarbeiten-netzwerk-bielefeld/</guid>
+        <category>2024-06-18 23:00:00</category>
+        <description>&lt;p&gt;Am 18.06.2024 zwischen 22:00 Uhr und 23:00 Uhr werden Wartungsarbeiten am Netzwerk in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;Es ist in diesem Zeitraum mit Ausfällen zu rechnen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 18.06.2024 zwischen 22:00 Uhr und 23:00 Uhr werden Wartungsarbeiten am Netzwerk in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;Es ist in diesem Zeitraum mit Ausfällen zu rechnen.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten Netzwerk Bielefeld</title>
+        <link>https://teuto.fail/issues/2024-05-27-wartungsarbeiten-netzwerk-bielefeld/</link>
+        <pubDate>Mon, 27 May 2024 22:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-05-27-wartungsarbeiten-netzwerk-bielefeld/</guid>
+        <category>2024-05-27 22:30:00</category>
+        <description>&lt;p&gt;Am 27.05.2024 zwischen 22:00 Uhr und 24:00 Uhr werden Wartungsarbeiten am Netzwerk in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;Es ist mit zwei Ausfällen im Bereich weniger Minuten zu rechnen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 27.05.2024 zwischen 22:00 Uhr und 24:00 Uhr werden Wartungsarbeiten am Netzwerk in Bielefeld durchgeführt.&lt;/p&gt;
+&lt;p&gt;Es ist mit zwei Ausfällen im Bereich weniger Minuten zu rechnen.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten BGP-Router Bielefeld</title>
+        <link>https://teuto.fail/issues/2024-01-18-wartungsarbeiten-bgp-router/</link>
+        <pubDate>Thu, 18 Jan 2024 21:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-01-18-wartungsarbeiten-bgp-router/</guid>
+        <category>2024-01-18 23:00:00</category>
+        <description>&lt;p&gt;Im folgenden Zeitraum finden Wartungsarbeiten an einem BGP-Router statt. Die BGP-Sitzungen werden zuvor heruntergefahren, so dass nur geringe Auswirkungen erwartet werden.&lt;/p&gt;
+&lt;p&gt;18.01.2024 21:00 Uhr - 18.01.2024 23:00 Uhr&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Im folgenden Zeitraum finden Wartungsarbeiten an einem BGP-Router statt. Die BGP-Sitzungen werden zuvor heruntergefahren, so dass nur geringe Auswirkungen erwartet werden.&lt;/p&gt;
+&lt;p&gt;18.01.2024 21:00 Uhr - 18.01.2024 23:00 Uhr&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

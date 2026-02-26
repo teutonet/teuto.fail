@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Störung der Netzwerkverbindung in Paderborn",
+  "body": "\u003cp\u003eAm Dienstag, den 16.07.2024 von 00:00 Uhr bis 06:00 Uhr wird eine Wartung der Infrastruktur am Standort Paderborn vorgenommen.\u003c/p\u003e\n\u003cp\u003eEs kann zu kurzen Einschränkungen bei der Verfügbarkeit der Dienste wie Public Cloud Paderborn, Webhosting, login.teuto.net und mail.teuto.net kommen.\u003c/p\u003e\n",
+  "createdAt": "2024-07-16 00:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2024-07-16-wartungsarbeiten-pb/",
+  "severity": "down",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-07-16 06:00:00",
+  "affected": ["Public Cloud Paderborn", "Routing Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "login.teuto.net", "mail.teuto.net"],
+  "filename": "2024-07-16-wartungsarbeiten-pb.md"
+}

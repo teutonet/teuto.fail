@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Ausfall imap.teuto.net, pop3.teuto.net",
+  "body": "\u003cp\u003eDurch einen Hardware-Ausfall sind die Dienste imap.teuto.net und pop3.teuto.net aktuell nicht erreichbar. Wir arbeiten an der Wiederherstellung der Dienste.\u003c/p\u003e\n\u003cp\u003eAktuell gehen wir davon aus das die Störung bis 10:00 Uhr behoben ist.\u003c/p\u003e\n\u003cp\u003eUpdate 9:15 Uhr: Die Dienste sind wieder verfügbar.\u003c/p\u003e\n",
+  "createdAt": "2023-11-10 00:15:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2023-11-10-ausfall-imap-pop3/",
+  "severity": "down",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2023-11-10 09:15:00",
+  "affected": ["imap.teuto.net", "pop3.teuto.net"],
+  "filename": "2023-11-10-ausfall-imap-pop3.md"
+}

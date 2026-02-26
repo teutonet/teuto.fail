@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Wartungsarbeiten Core-Routing Frankfurt",
+  "body": "\u003cp\u003eIm genannten Zeitraum werden Wartungsarbeiten am Core-Routing in Frankfurt durchgeführt\nEs kann zu kurzen Paketverlusten kommen.\u003c/p\u003e\n",
+  "createdAt": "2023-09-04 07:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2023-09-04-wartungsarbeiten-core-routing-frankfurt/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2023-09-04 08:00:00",
+  "affected": ["Route Frankfurt"],
+  "filename": "2023-09-04-wartungsarbeiten-core-routing-frankfurt.md"
+}

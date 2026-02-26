@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Information zu smtp.teuto.net",
+  "body": "\u003cp\u003eInformation zu smtp.teuto.net: Die ipv4-Adresse zu smtp.teuto.net hat sich geändert.\u003c/p\u003e\n",
+  "createdAt": "2025-10-24 11:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2025-10-24-kundeninfo/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-10-24 11:45:00",
+  "affected": ["smtp.teuto.net"],
+  "filename": "2025-10-24-kundeninfo.md"
+}

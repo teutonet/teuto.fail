@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Ausfall Festverbindungen",
+  "body": "\u003cp\u003eAm 23.09.2025 zwischen 19 und 23 Uhr werden Wartungsarbeiten an der Netzwerkinfrastruktur in Bielefeld durchgeführt.\u003c/p\u003e\n\u003cp\u003eWährend der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eVerschiedene Festverbindungen / Internetanbindungen\u003c/li\u003e\n\u003cli\u003eServerhousing im Rack H08\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eAlle betroffenen Kunden werden separat per E-Mail informiert.\u003c/p\u003e\n\u003cp\u003eEs werden Ausfälle im Minutenbereich erwartet.\u003c/p\u003e\n",
+  "createdAt": "2025-09-23 20:30:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2025-09-28-pxe-switche/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-09-23 23:00:00",
+  "affected": ["Routing Bielefeld"],
+  "filename": "2025-09-28-pxe-switche.md"
+}

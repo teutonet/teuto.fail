@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Dringende Wartungsarbeiten Netzwerk Bielefeld",
+  "body": "\u003cp\u003eAm 27.02.2025 zwischen 21:00 Uhr und 22:00 Uhr werden dringende Wartungsarbeiten am Netzwerk in Bielefeld durchgeführt.\u003c/p\u003e\n\u003cp\u003eIn der redundanten Switch-Infrastrukur wird ein Ersatz-Switch in Betrieb genommen.\u003c/p\u003e\n\u003cp\u003eEs ist in diesem Zeitraum mit kurzen Ausfällen zu rechnen.\u003c/p\u003e\n",
+  "createdAt": "2025-02-27 21:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2025-02-27-wartungsarbeiten-netzwerk-bielefeld/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-02-27 21:30:00",
+  "affected": ["Routing Bielefeld"],
+  "filename": "2025-02-27-wartungsarbeiten-netzwerk-bielefeld.md"
+}

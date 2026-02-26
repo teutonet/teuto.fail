@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Gestörte Anbindung Bielefeld",
+  "body": "\u003cp\u003eSeit dem 11.11.2024 10:30 kann es zu Paketverlust und geringe Bandbreite am Standort Bielefeld kommen.\u003c/p\u003e\n\u003cp\u003eHintergrund ist eine Außerbetriebnahme zur Entstörung einer Glasfaseranbindung.\u003c/p\u003e\n",
+  "createdAt": "2024-11-11 10:30:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2024-11-11-glasfaser/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-11-11 15:00:00",
+  "affected": ["Routing Bielefeld"],
+  "filename": "2024-11-11-glasfaser.md"
+}

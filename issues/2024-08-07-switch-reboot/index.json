@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Störung des Routings",
+  "body": "\u003cp\u003eAm 7.8. ab 22 Uhr werden dringende Wartungsarbeiten durchgeführt. Eine Netzwerkkomponente wird hierbei neu gestartet. Aufgrund der redudanten Auslegung werden keine Einschränkungen erwartet.\u003c/p\u003e\n",
+  "createdAt": "2024-08-07 22:00:00 +0000 UTC",
+  "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2024-08-07-switch-reboot/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-08-07 22:30:00",
+  "affected": ["Public Cloud Bielefeld"],
+  "filename": "2024-08-07-switch-reboot.md"
+}

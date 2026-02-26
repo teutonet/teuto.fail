@@ -1,0 +1,209 @@
+{
+  "is": "system",
+  "title": "Routing Bielefeld",
+  "permalink": "https://teuto.fail/affected/routing-bielefeld/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Wartung Routing",
+        "createdAt": "2025-11-11 06:30:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-11-11-vrrp/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-11-11 07:30:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-11-11-vrrp.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartung Routing",
+        "createdAt": "2025-10-08 06:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-10-08-vrrp/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-10-08 07:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-10-08-vrrp.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Ausfall Festverbindungen",
+        "createdAt": "2025-09-23 20:30:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-09-28-pxe-switche/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-09-23 23:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-09-28-pxe-switche.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Netzwerkproblemen in BFE",
+        "createdAt": "2025-07-10 07:30:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-07-10-stoerung-bielefeld/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-07-10 10:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-07-10-stoerung-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten Netzwerk Bielefeld",
+        "createdAt": "2025-03-04 07:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-03-04-wartungsarbeiten-netzwerk-bielefeld/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-03-04 08:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-03-04-wartungsarbeiten-netzwerk-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Dringende Wartungsarbeiten Netzwerk Bielefeld",
+        "createdAt": "2025-02-27 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-02-27-wartungsarbeiten-netzwerk-bielefeld/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-02-27 21:30:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-02-27-wartungsarbeiten-netzwerk-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Netzwerkproblemen in BFE",
+        "createdAt": "2025-02-25 10:05:00 +0000 UTC",
+        "lastMod": "2025-02-25 10:05:00 +0000 UTC",
+        "permalink": "https://teuto.fail/issues/2025-02-25-st%C3%B6rung-routing/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-02-25 11:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2025-02-25-Störung-Routing.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Gestörte Anbindung Bielefeld",
+        "createdAt": "2024-11-11 10:30:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-11-11-glasfaser/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-11-11 15:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2024-11-11-glasfaser.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten BGP-Routing Bielefeld",
+        "createdAt": "2024-10-16 22:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-10-16-wartungsarbeiten-bgp-bielefeld/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-10-16 23:59:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2024-10-16-wartungsarbeiten-bgp-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung des Routings",
+        "createdAt": "2024-08-06 15:10:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-08-06-routing-probleme/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-08-06 15:55:00",
+        "affected": ["Routing Frankfurt", "Routing Bielefeld", "Routing Paderborn"],
+        "filename": "2024-08-06-routing-probleme.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten Netzwerk Bielefeld",
+        "createdAt": "2024-08-01 23:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-08-01-dringende-wartungsarbeiten/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-08-01 23:30:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2024-08-01-dringende-wartungsarbeiten.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten Netzwerk Bielefeld",
+        "createdAt": "2024-06-18 22:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-06-18-wartungsarbeiten-netzwerk-bielefeld/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-06-18 23:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2024-06-18-wartungsarbeiten-netzwerk-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten Netzwerk Bielefeld",
+        "createdAt": "2024-05-27 22:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-05-27-wartungsarbeiten-netzwerk-bielefeld/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-05-27 22:30:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2024-05-27-wartungsarbeiten-netzwerk-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten BGP-Router Bielefeld",
+        "createdAt": "2024-01-18 21:00:00 +0000 UTC",
+        "lastMod": "2025-11-28 09:28:55 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-01-18-wartungsarbeiten-bgp-router/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-01-18 23:00:00",
+        "affected": ["Routing Bielefeld"],
+        "filename": "2024-01-18-wartungsarbeiten-bgp-router.md"
+      }
+    
+  ]
+}
+
+
+
+
+

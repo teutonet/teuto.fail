@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Login.teuto.net on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/login.teuto.net/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2026-01-13T20:00:00+00:00</lastBuildDate>
+    <updated>2026-01-13T20:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/login.teuto.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Serverumzug in ein anderes Rechenzentrum</title>
+        <link>https://teuto.fail/issues/2026-01-13-umzug-telehouse/</link>
+        <pubDate>Tue, 13 Jan 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2026-01-13-umzug-telehouse/</guid>
+        <category>2026-01-14 04:00:00</category>
+        <description>&lt;p&gt;Zwischen dem 13.01.2026 20:00 Uhr und dem 14.01.2026 04:00 Uhr werden einige Server vom Datacenter in Lichtenau (Kreis Paderborn) in das Datacenter in Bielefeld transportiert.&lt;/p&gt;
+&lt;p&gt;Während des Serverumzugs in das andere Rechenzentrum stehen alle bisher am Standort Paderborn bereitgestellten Dienste nicht zur Verfügung.&lt;/p&gt;
+&lt;p&gt;Davon betroffen sind folgende Dienstleistungen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Nextcloud&lt;/li&gt;
+&lt;li&gt;Shared Webhosting&lt;/li&gt;
+&lt;li&gt;Web/Mail/DNS-Verwaltung unter login.teuto.net&lt;/li&gt;
+&lt;li&gt;E-Mail Dienste von teuto.net&lt;/li&gt;
+&lt;li&gt;Webmail&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Im genannten Zeitraum können keine ausgehenden E-Mails versendet werden.&lt;/p&gt;
+&lt;p&gt;Das Empfangen und der Abruf von E-Mails ist nur für Postfächer im Mailsystem imap.teuto.net/Mailadmin sowie für Zimbra-Postfächer möglich. Eingehende Mails, die im Zeitraum des Umzugs eintreffen, werden im Nachgang zugestellt.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Zwischen dem 13.01.2026 20:00 Uhr und dem 14.01.2026 04:00 Uhr werden einige Server vom Datacenter in Lichtenau (Kreis Paderborn) in das Datacenter in Bielefeld transportiert.&lt;/p&gt;
+&lt;p&gt;Während des Serverumzugs in das andere Rechenzentrum stehen alle bisher am Standort Paderborn bereitgestellten Dienste nicht zur Verfügung.&lt;/p&gt;
+&lt;p&gt;Davon betroffen sind folgende Dienstleistungen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Nextcloud&lt;/li&gt;
+&lt;li&gt;Shared Webhosting&lt;/li&gt;
+&lt;li&gt;Web/Mail/DNS-Verwaltung unter login.teuto.net&lt;/li&gt;
+&lt;li&gt;E-Mail Dienste von teuto.net&lt;/li&gt;
+&lt;li&gt;Webmail&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Im genannten Zeitraum können keine ausgehenden E-Mails versendet werden.&lt;/p&gt;
+&lt;p&gt;Das Empfangen und der Abruf von E-Mails ist nur für Postfächer im Mailsystem imap.teuto.net/Mailadmin sowie für Zimbra-Postfächer möglich. Eingehende Mails, die im Zeitraum des Umzugs eintreffen, werden im Nachgang zugestellt.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Updates Webhosting Hostsysteme</title>
+        <link>https://teuto.fail/issues/2025-03-18-ispconfig-hostsysteme/</link>
+        <pubDate>Tue, 18 Mar 2025 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-03-18-ispconfig-hostsysteme/</guid>
+        <category>2025-03-18 22:00:00</category>
+        <description>&lt;p&gt;Am 18.03.2025 zwischen 20 und 23 Uhr werden an den genannten Servern Wartungsarbeiten durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienste zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;teuto.net shared Webhosting&lt;/li&gt;
+&lt;li&gt;Kundenlogin&lt;/li&gt;
+&lt;li&gt;Abruf und Versand von E-Mails im neuen Mailsystem&lt;/li&gt;
+&lt;/ul&gt;</description>
+        <content type="html">&lt;p&gt;Am 18.03.2025 zwischen 20 und 23 Uhr werden an den genannten Servern Wartungsarbeiten durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienste zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;teuto.net shared Webhosting&lt;/li&gt;
+&lt;li&gt;Kundenlogin&lt;/li&gt;
+&lt;li&gt;Abruf und Versand von E-Mails im neuen Mailsystem&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Systemaktualisierung master.teuto.net</title>
+        <link>https://teuto.fail/issues/2024-07-16-update-master-greensta/</link>
+        <pubDate>Tue, 16 Jul 2024 21:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-07-16-update-master-greensta/</guid>
+        <category>2024-07-16 23:00:00</category>
+        <description>&lt;p&gt;Am 16.07.2024 zwischen 21:00 Uhr und 22:00 Uhr werden Wartungsarbeiten am System master.teuto.net durchgeführt.&lt;/p&gt;
+&lt;p&gt;Dies betrifft das Kundenlogin unter login.teuto.net und den E-Mail Versand und Abruf mittels IMAP, SMTP, POP3 oder Webmailer.&lt;/p&gt;
+&lt;p&gt;E-Mails werden weiterhin vom Server empfangen, sodass es nicht zu Datenverlust kommt.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 16.07.2024 zwischen 21:00 Uhr und 22:00 Uhr werden Wartungsarbeiten am System master.teuto.net durchgeführt.&lt;/p&gt;
+&lt;p&gt;Dies betrifft das Kundenlogin unter login.teuto.net und den E-Mail Versand und Abruf mittels IMAP, SMTP, POP3 oder Webmailer.&lt;/p&gt;
+&lt;p&gt;E-Mails werden weiterhin vom Server empfangen, sodass es nicht zu Datenverlust kommt.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Störung der Netzwerkverbindung in Paderborn</title>
+        <link>https://teuto.fail/issues/2024-07-16-wartungsarbeiten-pb/</link>
+        <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-07-16-wartungsarbeiten-pb/</guid>
+        <category>2024-07-16 06:00:00</category>
+        <description>&lt;p&gt;Am Dienstag, den 16.07.2024 von 00:00 Uhr bis 06:00 Uhr wird eine Wartung der Infrastruktur am Standort Paderborn vorgenommen.&lt;/p&gt;
+&lt;p&gt;Es kann zu kurzen Einschränkungen bei der Verfügbarkeit der Dienste wie Public Cloud Paderborn, Webhosting, login.teuto.net und mail.teuto.net kommen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am Dienstag, den 16.07.2024 von 00:00 Uhr bis 06:00 Uhr wird eine Wartung der Infrastruktur am Standort Paderborn vorgenommen.&lt;/p&gt;
+&lt;p&gt;Es kann zu kurzen Einschränkungen bei der Verfügbarkeit der Dienste wie Public Cloud Paderborn, Webhosting, login.teuto.net und mail.teuto.net kommen.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Störung in Paderborn</title>
+        <link>https://teuto.fail/issues/2024-06-18-ausfall-pb/</link>
+        <pubDate>Tue, 18 Jun 2024 09:05:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-06-18-ausfall-pb/</guid>
+        <category>2024-06-18 10:26:00</category>
+        <description>&lt;p&gt;Wir verzeichnen aktuell eine Störung in Paderborn.&lt;/p&gt;
+&lt;p&gt;Update: Die Ursache war ein Stromausfall im Rechenzentrum eines Dienstleisters. Die Systeme sind wieder erreichbar.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Wir verzeichnen aktuell eine Störung in Paderborn.&lt;/p&gt;
+&lt;p&gt;Update: Die Ursache war ein Stromausfall im Rechenzentrum eines Dienstleisters. Die Systeme sind wieder erreichbar.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Systemaktualisierung mail.teuto.net</title>
+        <link>https://teuto.fail/issues/2024-05-28-update-mail-teuto-net/</link>
+        <pubDate>Tue, 28 May 2024 21:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-05-28-update-mail-teuto-net/</guid>
+        <category>2024-05-28 22:00:00</category>
+        <description>&lt;p&gt;Am 28.05.2024 zwischen 21:00 Uhr und 22:00 Uhr werden Wartungsarbeiten am System mail.teuto.net durchgeführt.&lt;/p&gt;
+&lt;p&gt;Dies betrifft das Kundenlogin unter login.teuto.net und den E-Mail Versand und Abruf mittels IMAP, SMTP, POP3 oder Webmailer.&lt;/p&gt;
+&lt;p&gt;E-Mails werden weiterhin vom Server empfangen, sodass es nicht zu Datenverlust kommt.&lt;/p&gt;
+&lt;p&gt;Die genannten Dienste werden nur eingeschränkt erreichbar sein.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 28.05.2024 zwischen 21:00 Uhr und 22:00 Uhr werden Wartungsarbeiten am System mail.teuto.net durchgeführt.&lt;/p&gt;
+&lt;p&gt;Dies betrifft das Kundenlogin unter login.teuto.net und den E-Mail Versand und Abruf mittels IMAP, SMTP, POP3 oder Webmailer.&lt;/p&gt;
+&lt;p&gt;E-Mails werden weiterhin vom Server empfangen, sodass es nicht zu Datenverlust kommt.&lt;/p&gt;
+&lt;p&gt;Die genannten Dienste werden nur eingeschränkt erreichbar sein.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Störung der Netzwerkverbindung in Paderborn</title>
+        <link>https://teuto.fail/issues/2024-05-14-netwerk-ausfall-pb/</link>
+        <pubDate>Tue, 14 May 2024 12:10:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-05-14-netwerk-ausfall-pb/</guid>
+        <category>2024-05-14 16:40:00</category>
+        <description>&lt;p&gt;Wir verzeichnen aktuell eine Störung der Netzwerkverbindung in Paderborn.&lt;/p&gt;
+&lt;p&gt;Update: Im Rechenzentrum in Frankfurt kam es zu einem Stromausfall, davon ist die Leitung nach Paderborn betroffen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Wir verzeichnen aktuell eine Störung der Netzwerkverbindung in Paderborn.&lt;/p&gt;
+&lt;p&gt;Update: Im Rechenzentrum in Frankfurt kam es zu einem Stromausfall, davon ist die Leitung nach Paderborn betroffen.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Umzug der Webhosting- und Mailhosting-Infrastruktur</title>
+        <link>https://teuto.fail/issues/2024-02-24-ispconfig-migration/</link>
+        <pubDate>Sat, 24 Feb 2024 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-02-24-ispconfig-migration/</guid>
+        <category>2024-02-24 18:00:00</category>
+        <description>&lt;p&gt;Am Samstag, den 24.02.2024 werden einige Server vom Standort Bielefeld in ein Rechenzentrum von windCORES, Teil der WestfalenWIND Gruppe umgezogen.&lt;/p&gt;
+&lt;p&gt;Die betroffenen Dienste sind ab 7 Uhr nicht erreichbar, wir gehen davon aus das der Umzug bis 11 Uhr abgeschlossen ist.&lt;/p&gt;
+&lt;p&gt;Betroffen sind sämtliche Webserver im Shared Hosting und ein Teil der Mailinfrastruktur.&lt;/p&gt;
+&lt;p&gt;Ob Ihr Postfach betroffen ist können Sie unter &lt;a href=&#34;https://mailconf.teuto.net/&#34;&gt;https://mailconf.teuto.net/&lt;/a&gt; anhand der Posteingangsserver bzw. Postausgangserver prüfen.&lt;/p&gt;
+&lt;p&gt;Der Umzug wurde erfolgreich abgeschlossen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am Samstag, den 24.02.2024 werden einige Server vom Standort Bielefeld in ein Rechenzentrum von windCORES, Teil der WestfalenWIND Gruppe umgezogen.&lt;/p&gt;
+&lt;p&gt;Die betroffenen Dienste sind ab 7 Uhr nicht erreichbar, wir gehen davon aus das der Umzug bis 11 Uhr abgeschlossen ist.&lt;/p&gt;
+&lt;p&gt;Betroffen sind sämtliche Webserver im Shared Hosting und ein Teil der Mailinfrastruktur.&lt;/p&gt;
+&lt;p&gt;Ob Ihr Postfach betroffen ist können Sie unter &lt;a href=&#34;https://mailconf.teuto.net/&#34;&gt;https://mailconf.teuto.net/&lt;/a&gt; anhand der Posteingangsserver bzw. Postausgangserver prüfen.&lt;/p&gt;
+&lt;p&gt;Der Umzug wurde erfolgreich abgeschlossen.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>
