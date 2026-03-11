@@ -1,0 +1,27 @@
+{
+  "is": "system",
+  "title": "Netzwerke in Bielefeld",
+  "permalink": "https://teuto.fail/affected/netzwerke-in-bielefeld/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Netzwerkprobleme in Bielefeld",
+        "createdAt": "2026-02-26 08:00:00 +0000 UTC",
+        "lastMod": "2026-02-26 13:34:40 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-02-26-netzwerkprobleme-bielefeld/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-02-26 13:30:00",
+        "affected": ["Netzwerke in Bielefeld"],
+        "filename": "2026-02-26-netzwerkprobleme-bielefeld.md"
+      }
+    
+  ]
+}
+
+
+
+
+

@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Netzwerkprobleme in Bielefeld",
+  "body": "\u003cp\u003eDie Netzwerkprobleme konnten behoben werden.\u003c/p\u003e\n\u003cp\u003eUrsprüngliche Meldung:\nSeit heute, dem 26.02.2026, kommt es seit 08:00 Uhr zu Netzwerkstörungen am Standort Bielefeld.\u003c/p\u003e\n\u003cp\u003eAktuell sind alle Dienste betroffen. Wir arbeiten mit Hochdruck an der Behebung des Problems.\u003c/p\u003e\n\u003cp\u003eSobald weitere Informationen vorliegen, informieren wir Sie umgehend.\u003c/p\u003e\n",
+  "createdAt": "2026-02-26 08:00:00 +0000 UTC",
+  "lastMod": "2026-02-26 13:34:40 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2026-02-26-netzwerkprobleme-bielefeld/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2026-02-26 13:30:00",
+  "affected": ["Netzwerke in Bielefeld"],
+  "filename": "2026-02-26-netzwerkprobleme-bielefeld.md"
+}
