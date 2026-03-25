@@ -1,0 +1,55 @@
+{
+  "is": "system",
+  "title": "Public Cloud Bielefeld",
+  "permalink": "https://teuto.fail/affected/public-cloud-bielefeld/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Netzwerkprobleme in Bielefeld",
+        "createdAt": "2026-03-11 12:00:00 +0000 UTC",
+        "lastMod": "2026-03-11 14:50:31 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-03-11-netzwerkprobleme-bielefeld/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-03-11 15:00:00",
+        "affected": ["Routing Bielefeld", "Serverhousing Bielefeld", "Public Cloud Bielefeld", "Festverbindungen"],
+        "filename": "2026-03-11-netzwerkprobleme-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung des Routings",
+        "createdAt": "2024-08-07 22:00:00 +0000 UTC",
+        "lastMod": "2026-01-13 20:10:34 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-08-07-switch-reboot/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-08-07 22:30:00",
+        "affected": ["Public Cloud Bielefeld"],
+        "filename": "2024-08-07-switch-reboot.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Störung der Load Balancer in Bielefeld",
+        "createdAt": "2024-07-22 00:10:00 +0000 UTC",
+        "lastMod": "2026-01-13 20:10:34 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2024-07-22-ausfall-cloud-bfe/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-07-22 11:50:00",
+        "affected": ["Public Cloud Bielefeld", "<no value>"],
+        "filename": "2024-07-22-ausfall-cloud-bfe.md"
+      }
+    
+  ]
+}
+
+
+
+
+

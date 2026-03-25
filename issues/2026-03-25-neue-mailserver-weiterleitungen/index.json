@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Neue Ip-Adressen für weitergeleitete E-Mails (E-Mail Relay)",
+  "body": "\u003cp\u003eBisher haben wir E-Mails von den IPs 212.8.207.34 und 2001:ae2:207::1:a:1 an Ihre Server weitergeleitet.\u003c/p\u003e\n\u003cp\u003eKünftig werden E-Mails auch von folgenden zusätzlichen IP-Adressen weitergeleitet:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e212.15.214.182\u003c/li\u003e\n\u003cli\u003e212.8.207.204\u003c/li\u003e\n\u003cli\u003e2001:ae2:207::1:0:2\u003c/li\u003e\n\u003c/ul\u003e\n",
+  "createdAt": "2026-05-25 10:00:00 +0000 UTC",
+  "lastMod": "2026-03-25 09:55:03 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2026-03-25-neue-mailserver-weiterleitungen/",
+  "severity": "notice",
+  "resolved": false,
+  "informational": false,
+  "resolvedAt": "2026-02-26 12:00:00",
+  "affected": ["mail1.teuto.net"],
+  "filename": "2026-03-25-neue-mailserver-weiterleitungen.md"
+}

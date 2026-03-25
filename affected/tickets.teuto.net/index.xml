@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Tickets.teuto.net on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/tickets.teuto.net/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2025-03-07T07:00:00+00:00</lastBuildDate>
+    <updated>2025-03-07T07:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/tickets.teuto.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten gitlab System tickets.teuto.net</title>
+        <link>https://teuto.fail/issues/2025-03-07-wartungsarbeiten-tickets-teuto-net/</link>
+        <pubDate>Fri, 07 Mar 2025 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-03-07-wartungsarbeiten-tickets-teuto-net/</guid>
+        <category>2025-03-07 08:00:00</category>
+        <description>&lt;p&gt;Am 07.03.2025 zwischen 7:00 Uhr und 8:00 Uhr werden Wartungsarbeiten am gitlab System tickets.teuto.net durchgeführt.&lt;/p&gt;
+&lt;p&gt;tickets.teuto.net ist in dieser Zeit nur eingeschränkt verfügbar.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 07.03.2025 zwischen 7:00 Uhr und 8:00 Uhr werden Wartungsarbeiten am gitlab System tickets.teuto.net durchgeführt.&lt;/p&gt;
+&lt;p&gt;tickets.teuto.net ist in dieser Zeit nur eingeschränkt verfügbar.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Systemaktualisierung tickets.teuto.net</title>
+        <link>https://teuto.fail/issues/2024-10-23-update-tickets-teuto.net/</link>
+        <pubDate>Wed, 23 Oct 2024 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-10-23-update-tickets-teuto.net/</guid>
+        <category>2024-10-23 07:45:00</category>
+        <description>&lt;p&gt;Am 23.10.2024 zwischen 07:00 Uhr und 08:00 Uhr wird ein Systemupgrade auf tickets.teuto.net durchgeführt.&lt;/p&gt;
+&lt;p&gt;Dies betrifft das gitlab System unter tickets.teuto.net.&lt;/p&gt;
+&lt;p&gt;tickets.teuto.net ist in dieser Zeit nur eingeschränkt verfügbar.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 23.10.2024 zwischen 07:00 Uhr und 08:00 Uhr wird ein Systemupgrade auf tickets.teuto.net durchgeführt.&lt;/p&gt;
+&lt;p&gt;Dies betrifft das gitlab System unter tickets.teuto.net.&lt;/p&gt;
+&lt;p&gt;tickets.teuto.net ist in dieser Zeit nur eingeschränkt verfügbar.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>
