@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Serverumzug in ein anderes Rechenzentrum",
+  "body": "\u003cp\u003eZwischen dem 13.01.2026 20:00 Uhr und dem 14.01.2026 04:00 Uhr werden einige Server vom Datacenter in Lichtenau (Kreis Paderborn) in das Datacenter in Bielefeld transportiert.\u003c/p\u003e\n\u003cp\u003eWährend des Serverumzugs in das andere Rechenzentrum stehen alle bisher am Standort Paderborn bereitgestellten Dienste nicht zur Verfügung.\u003c/p\u003e\n\u003cp\u003eDavon betroffen sind folgende Dienstleistungen:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eManaged Nextcloud\u003c/li\u003e\n\u003cli\u003eShared Webhosting\u003c/li\u003e\n\u003cli\u003eWeb/Mail/DNS-Verwaltung unter login.teuto.net\u003c/li\u003e\n\u003cli\u003eE-Mail Dienste von teuto.net\u003c/li\u003e\n\u003cli\u003eWebmail\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIm genannten Zeitraum können keine ausgehenden E-Mails versendet werden.\u003c/p\u003e\n\u003cp\u003eDas Empfangen und der Abruf von E-Mails ist nur für Postfächer im Mailsystem imap.teuto.net/Mailadmin sowie für Zimbra-Postfächer möglich. Eingehende Mails, die im Zeitraum des Umzugs eintreffen, werden im Nachgang zugestellt.\u003c/p\u003e\n",
+  "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+  "lastMod": "2026-01-14 03:52:49 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2026-01-14 04:00:00",
+  "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+  "filename": "2026-01-13-umzug-telehouse.md"
+}

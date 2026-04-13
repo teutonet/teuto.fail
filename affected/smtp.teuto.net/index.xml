@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Smtp.teuto.net on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/smtp.teuto.net/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2026-01-13T20:00:00+00:00</lastBuildDate>
+    <updated>2026-01-13T20:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/smtp.teuto.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Serverumzug in ein anderes Rechenzentrum</title>
+        <link>https://teuto.fail/issues/2026-01-13-umzug-telehouse/</link>
+        <pubDate>Tue, 13 Jan 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2026-01-13-umzug-telehouse/</guid>
+        <category>2026-01-14 04:00:00</category>
+        <description>&lt;p&gt;Zwischen dem 13.01.2026 20:00 Uhr und dem 14.01.2026 04:00 Uhr werden einige Server vom Datacenter in Lichtenau (Kreis Paderborn) in das Datacenter in Bielefeld transportiert.&lt;/p&gt;
+&lt;p&gt;Während des Serverumzugs in das andere Rechenzentrum stehen alle bisher am Standort Paderborn bereitgestellten Dienste nicht zur Verfügung.&lt;/p&gt;
+&lt;p&gt;Davon betroffen sind folgende Dienstleistungen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Nextcloud&lt;/li&gt;
+&lt;li&gt;Shared Webhosting&lt;/li&gt;
+&lt;li&gt;Web/Mail/DNS-Verwaltung unter login.teuto.net&lt;/li&gt;
+&lt;li&gt;E-Mail Dienste von teuto.net&lt;/li&gt;
+&lt;li&gt;Webmail&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Im genannten Zeitraum können keine ausgehenden E-Mails versendet werden.&lt;/p&gt;
+&lt;p&gt;Das Empfangen und der Abruf von E-Mails ist nur für Postfächer im Mailsystem imap.teuto.net/Mailadmin sowie für Zimbra-Postfächer möglich. Eingehende Mails, die im Zeitraum des Umzugs eintreffen, werden im Nachgang zugestellt.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Zwischen dem 13.01.2026 20:00 Uhr und dem 14.01.2026 04:00 Uhr werden einige Server vom Datacenter in Lichtenau (Kreis Paderborn) in das Datacenter in Bielefeld transportiert.&lt;/p&gt;
+&lt;p&gt;Während des Serverumzugs in das andere Rechenzentrum stehen alle bisher am Standort Paderborn bereitgestellten Dienste nicht zur Verfügung.&lt;/p&gt;
+&lt;p&gt;Davon betroffen sind folgende Dienstleistungen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Nextcloud&lt;/li&gt;
+&lt;li&gt;Shared Webhosting&lt;/li&gt;
+&lt;li&gt;Web/Mail/DNS-Verwaltung unter login.teuto.net&lt;/li&gt;
+&lt;li&gt;E-Mail Dienste von teuto.net&lt;/li&gt;
+&lt;li&gt;Webmail&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Im genannten Zeitraum können keine ausgehenden E-Mails versendet werden.&lt;/p&gt;
+&lt;p&gt;Das Empfangen und der Abruf von E-Mails ist nur für Postfächer im Mailsystem imap.teuto.net/Mailadmin sowie für Zimbra-Postfächer möglich. Eingehende Mails, die im Zeitraum des Umzugs eintreffen, werden im Nachgang zugestellt.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartung E-Mail Systeme</title>
+        <link>https://teuto.fail/issues/2025-10-23-wartungsarbeiten-mail-umstellung/</link>
+        <pubDate>Wed, 05 Nov 2025 21:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-10-23-wartungsarbeiten-mail-umstellung/</guid>
+        <category>2025-11-05 21:10:00</category>
+        <description>&lt;p&gt;Am 05.11.2025 zwischen 21 und 23 Uhr werden Umstellungen der E-Mail Systeme durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;h3 id=&#34;imapteutonet-pop3teutonet&#34;&gt;imap.teuto.net, pop3.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Es wird ein Ausfall von ca. 10 Minuten erwartet. Das betrifft nur den Abruf von E-Mails aus E-Mail Postfächern. Die Zustellung eingehender E-Mails ist zu jedem Zeitpunkt sichergestellt.&lt;/p&gt;
+&lt;h3 id=&#34;mailteutonet-smtpteutonet&#34;&gt;mail.teuto.net, smtp.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Der Versand von E-mails ist für ca. 10 Minuten nicht möglich. Es gehen keine E-Mails verloren.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 05.11.2025 zwischen 21 und 23 Uhr werden Umstellungen der E-Mail Systeme durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;h3 id=&#34;imapteutonet-pop3teutonet&#34;&gt;imap.teuto.net, pop3.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Es wird ein Ausfall von ca. 10 Minuten erwartet. Das betrifft nur den Abruf von E-Mails aus E-Mail Postfächern. Die Zustellung eingehender E-Mails ist zu jedem Zeitpunkt sichergestellt.&lt;/p&gt;
+&lt;h3 id=&#34;mailteutonet-smtpteutonet&#34;&gt;mail.teuto.net, smtp.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Der Versand von E-mails ist für ca. 10 Minuten nicht möglich. Es gehen keine E-Mails verloren.&lt;/p&gt;
+&lt;h3 id=&#34;zimbrateutonet&#34;&gt;zimbra.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Der Versand von E-Mails ist zeitweise nur mit Verzögerungen möglich. Der Zugriff auf Zimbra ist zu jedem Zeitpunkt möglich.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Information zu smtp.teuto.net</title>
+        <link>https://teuto.fail/issues/2025-10-24-kundeninfo/</link>
+        <pubDate>Fri, 24 Oct 2025 11:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-10-24-kundeninfo/</guid>
+        <category>2025-10-24 11:45:00</category>
+        <description>&lt;p&gt;Information zu smtp.teuto.net: Die ipv4-Adresse zu smtp.teuto.net hat sich geändert.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Information zu smtp.teuto.net: Die ipv4-Adresse zu smtp.teuto.net hat sich geändert.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Absender-Prüfung E-Mail</title>
+        <link>https://teuto.fail/issues/2024-02-12-mail-absender/</link>
+        <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-02-12-mail-absender/</guid>
+        <category>2024-02-12 07:00:00</category>
+        <description>&lt;p&gt;Ab dem 12.2.2024 ist auf dem Server smtp.teuto.net eine Absender-Prüfung aktiv.
+Das Feature bewirkt, dass unser Mail-Server smtp.teuto.net überprüft, ob ein Absender wirklich über den Domainnamen versenden darf.
+Alle berechtigten Domainnamen sind als Domainnamen zu der Kundennummer im Mailadmin hinterlegt. Anschließend kann jedes Postfach des Kunden (Benutzer) jede dieser Domains als Absender Adresse verwenden.&lt;/p&gt;
+&lt;h2 id=&#34;handlungsbedarf&#34;&gt;Handlungsbedarf&lt;/h2&gt;
+&lt;p&gt;Das neue Feature betrifft Sie nur, wenn Sie Ihre E-Mail Postfächer über den Mailadmin unter mailadmin.teuto.net verwalten oder den Postausgangsserver smtp.teuto.net verwenden.
+Bitte überprüfen Sie, ob alle verwendeten Domains im Mailadmin hinterlegt sind. Sollte das nicht der Fall sein, können Sie uns per E-Mail unter Angabe der Domain und der Kundennummer kontaktieren.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Ab dem 12.2.2024 ist auf dem Server smtp.teuto.net eine Absender-Prüfung aktiv.
+Das Feature bewirkt, dass unser Mail-Server smtp.teuto.net überprüft, ob ein Absender wirklich über den Domainnamen versenden darf.
+Alle berechtigten Domainnamen sind als Domainnamen zu der Kundennummer im Mailadmin hinterlegt. Anschließend kann jedes Postfach des Kunden (Benutzer) jede dieser Domains als Absender Adresse verwenden.&lt;/p&gt;
+&lt;h2 id=&#34;handlungsbedarf&#34;&gt;Handlungsbedarf&lt;/h2&gt;
+&lt;p&gt;Das neue Feature betrifft Sie nur, wenn Sie Ihre E-Mail Postfächer über den Mailadmin unter mailadmin.teuto.net verwalten oder den Postausgangsserver smtp.teuto.net verwenden.
+Bitte überprüfen Sie, ob alle verwendeten Domains im Mailadmin hinterlegt sind. Sollte das nicht der Fall sein, können Sie uns per E-Mail unter Angabe der Domain und der Kundennummer kontaktieren.&lt;/p&gt;
+&lt;p&gt;Wir überprüfen bis zum 12.2. regelmäßig die verwendeten Absenderadressen und reagieren bei entsprechenden Auffälligkeiten.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten am internen Datenbanksystem. Es kommt zu kurzen Unterbrechungen beim Email Empfang/Versand.</title>
+        <link>https://teuto.fail/issues/2024-01-16-wartungsarbeiten-datenbanksystem/</link>
+        <pubDate>Tue, 16 Jan 2024 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-01-16-wartungsarbeiten-datenbanksystem/</guid>
+        <category>2024-01-16 08:00:00</category>
+        <description>&lt;p&gt;Durch Wartungsarbeiten am internen Datenbanksystem kommt es am 16.01.2024 zwischen 07:00 und 08:00 Uhr zu kurzen Unterbrechungen beim Email Empfang/Versand. Davon betroffen sind imap.teuto.net, pop3.teuto.net und smtp.teuto.net.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Durch Wartungsarbeiten am internen Datenbanksystem kommt es am 16.01.2024 zwischen 07:00 und 08:00 Uhr zu kurzen Unterbrechungen beim Email Empfang/Versand. Davon betroffen sind imap.teuto.net, pop3.teuto.net und smtp.teuto.net.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Netzwerkproblemen in BFE",
+  "body": "\u003cp\u003eHeute ab etwa 10:05 Uhr traten Netzwerkprobleme am Standort Bielefeld auf.\nDie Erreichbarkeit verschiedener Dienste war eingeschränkt.\nDie Störung ist behoben.\u003c/p\u003e\n\u003cp\u003eSollten bei Ihnen weiterhin Probleme bestehen wenden Sie sich bitte an\nunser Support Team.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003eNetwork problems occurred at the Bielefeld site from around 10:05 a.m. today.\nThe accessibility of various services was restricted.\nThe problem is solved now.\u003c/p\u003e\n\u003cp\u003eShould you still experience problems please contact our support team.\u003c/p\u003e\n",
+  "createdAt": "2025-02-25 10:05:00 +0000 UTC",
+  "lastMod": "2025-02-25 10:05:00 +0000 UTC",
+  "permalink": "https://teuto.fail/issues/2025-02-25-st%C3%B6rung-routing/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-02-25 11:00:00",
+  "affected": ["Routing Bielefeld"],
+  "filename": "2025-02-25-Störung-Routing.md"
+}
