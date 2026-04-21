@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Systemaktualisierung master.teuto.net",
+  "body": "\u003cp\u003eAm 21.04.2026 zwischen 20:00 Uhr und 22:00 Uhr werden Wartungsarbeiten am System master.teuto.net durchgeführt.\u003c/p\u003e\n\u003cp\u003eDies betrifft das Kundenlogin unter login.teuto.net und den E-Mail Versand und Abruf mittels IMAP, SMTP, POP3 oder Webmailer.\u003c/p\u003e\n\u003cp\u003eE-Mails werden weiterhin vom Server empfangen, sodass es nicht zu Datenverlust kommt.\u003c/p\u003e\n",
+  "createdAt": "2026-04-21 20:00:00 +0000 UTC",
+  "lastMod": "2026-04-21 21:27:29 +0200 +0200",
+  "permalink": "https://teuto.fail/issues/2026-04-21-update-master-teuto/",
+  "severity": "down",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2026-04-21 23:00:00",
+  "affected": ["mail.teuto.net", "login.teuto.net"],
+  "filename": "2026-04-21-update-master-teuto.md"
+}

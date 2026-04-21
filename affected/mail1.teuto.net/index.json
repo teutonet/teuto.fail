@@ -1,0 +1,69 @@
+{
+  "is": "system",
+  "title": "Mail1.teuto.net",
+  "permalink": "https://teuto.fail/affected/mail1.teuto.net/",
+  "status": "notice", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Neue Ip-Adressen für weitergeleitete E-Mails (E-Mail Relay)",
+        "createdAt": "2026-05-25 10:00:00 +0000 UTC",
+        "lastMod": "2026-03-25 09:55:03 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-03-25-neue-mailserver-weiterleitungen/",
+        "severity": "notice",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "2026-02-26 12:00:00",
+        "affected": ["mail1.teuto.net"],
+        "filename": "2026-03-25-neue-mailserver-weiterleitungen.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Systemaktualisierung mail1.teuto.net",
+        "createdAt": "2026-03-24 20:00:00 +0000 UTC",
+        "lastMod": "2026-03-25 09:51:52 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-03-24-update-mail1-teuto-net/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-03-24 22:00:00",
+        "affected": ["mail1.teuto.net"],
+        "filename": "2026-03-24-update-mail1-teuto-net.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Serverumzug in ein anderes Rechenzentrum",
+        "createdAt": "2026-01-13 20:00:00 +0000 UTC",
+        "lastMod": "2026-02-11 12:41:39 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-01-13-umzug-telehouse/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-01-14 04:00:00",
+        "affected": ["Routing Paderborn", "Public Cloud Paderborn", "web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail.teuto.net", "zimbra.teuto.net", "smtp.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "teuto.net", "login.teuto.net"],
+        "filename": "2026-01-13-umzug-telehouse.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Updates Webhosting Hostsysteme",
+        "createdAt": "2025-03-18 20:00:00 +0000 UTC",
+        "lastMod": "2026-02-11 12:41:39 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-03-18-ispconfig-hostsysteme/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-03-18 22:00:00",
+        "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net", "mail1.teuto.net", "mx2.isp.teuto.net", "login.teuto.net", "teuto.net", "mail.teuto.net"],
+        "filename": "2025-03-18-ispconfig-hostsysteme.md"
+      }
+    
+  ]
+}
+
+
+
+
+

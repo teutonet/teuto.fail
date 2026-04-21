@@ -1,0 +1,27 @@
+{
+  "is": "system",
+  "title": "Mx1.teuto.net",
+  "permalink": "https://teuto.fail/affected/mx1.teuto.net/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Neue Ip-Adressen für mx1 und mx2.teuto.net",
+        "createdAt": "2026-02-26 10:00:00 +0000 UTC",
+        "lastMod": "2026-03-23 11:54:28 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-02-26-neue-mxserver-ips/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-02-26 12:00:00",
+        "affected": ["mx1.teuto.net", "mx2.teuto.net"],
+        "filename": "2026-02-26-neue-mxserver-ips.md"
+      }
+    
+  ]
+}
+
+
+
+
+
