@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Zimbra.teuto.net on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/zimbra.teuto.net/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2026-01-13T20:00:00+00:00</lastBuildDate>
+    <updated>2026-01-13T20:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/zimbra.teuto.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Serverumzug in ein anderes Rechenzentrum</title>
+        <link>https://teuto.fail/issues/2026-01-13-umzug-telehouse/</link>
+        <pubDate>Tue, 13 Jan 2026 20:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2026-01-13-umzug-telehouse/</guid>
+        <category>2026-01-14 04:00:00</category>
+        <description>&lt;p&gt;Zwischen dem 13.01.2026 20:00 Uhr und dem 14.01.2026 04:00 Uhr werden einige Server vom Datacenter in Lichtenau (Kreis Paderborn) in das Datacenter in Bielefeld transportiert.&lt;/p&gt;
+&lt;p&gt;Während des Serverumzugs in das andere Rechenzentrum stehen alle bisher am Standort Paderborn bereitgestellten Dienste nicht zur Verfügung.&lt;/p&gt;
+&lt;p&gt;Davon betroffen sind folgende Dienstleistungen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Nextcloud&lt;/li&gt;
+&lt;li&gt;Shared Webhosting&lt;/li&gt;
+&lt;li&gt;Web/Mail/DNS-Verwaltung unter login.teuto.net&lt;/li&gt;
+&lt;li&gt;E-Mail Dienste von teuto.net&lt;/li&gt;
+&lt;li&gt;Webmail&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Im genannten Zeitraum können keine ausgehenden E-Mails versendet werden.&lt;/p&gt;
+&lt;p&gt;Das Empfangen und der Abruf von E-Mails ist nur für Postfächer im Mailsystem imap.teuto.net/Mailadmin sowie für Zimbra-Postfächer möglich. Eingehende Mails, die im Zeitraum des Umzugs eintreffen, werden im Nachgang zugestellt.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Zwischen dem 13.01.2026 20:00 Uhr und dem 14.01.2026 04:00 Uhr werden einige Server vom Datacenter in Lichtenau (Kreis Paderborn) in das Datacenter in Bielefeld transportiert.&lt;/p&gt;
+&lt;p&gt;Während des Serverumzugs in das andere Rechenzentrum stehen alle bisher am Standort Paderborn bereitgestellten Dienste nicht zur Verfügung.&lt;/p&gt;
+&lt;p&gt;Davon betroffen sind folgende Dienstleistungen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Nextcloud&lt;/li&gt;
+&lt;li&gt;Shared Webhosting&lt;/li&gt;
+&lt;li&gt;Web/Mail/DNS-Verwaltung unter login.teuto.net&lt;/li&gt;
+&lt;li&gt;E-Mail Dienste von teuto.net&lt;/li&gt;
+&lt;li&gt;Webmail&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Im genannten Zeitraum können keine ausgehenden E-Mails versendet werden.&lt;/p&gt;
+&lt;p&gt;Das Empfangen und der Abruf von E-Mails ist nur für Postfächer im Mailsystem imap.teuto.net/Mailadmin sowie für Zimbra-Postfächer möglich. Eingehende Mails, die im Zeitraum des Umzugs eintreffen, werden im Nachgang zugestellt.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartung E-Mail Systeme</title>
+        <link>https://teuto.fail/issues/2025-10-23-wartungsarbeiten-mail-umstellung/</link>
+        <pubDate>Wed, 05 Nov 2025 21:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-10-23-wartungsarbeiten-mail-umstellung/</guid>
+        <category>2025-11-05 21:10:00</category>
+        <description>&lt;p&gt;Am 05.11.2025 zwischen 21 und 23 Uhr werden Umstellungen der E-Mail Systeme durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;h3 id=&#34;imapteutonet-pop3teutonet&#34;&gt;imap.teuto.net, pop3.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Es wird ein Ausfall von ca. 10 Minuten erwartet. Das betrifft nur den Abruf von E-Mails aus E-Mail Postfächern. Die Zustellung eingehender E-Mails ist zu jedem Zeitpunkt sichergestellt.&lt;/p&gt;
+&lt;h3 id=&#34;mailteutonet-smtpteutonet&#34;&gt;mail.teuto.net, smtp.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Der Versand von E-mails ist für ca. 10 Minuten nicht möglich. Es gehen keine E-Mails verloren.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 05.11.2025 zwischen 21 und 23 Uhr werden Umstellungen der E-Mail Systeme durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;h3 id=&#34;imapteutonet-pop3teutonet&#34;&gt;imap.teuto.net, pop3.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Es wird ein Ausfall von ca. 10 Minuten erwartet. Das betrifft nur den Abruf von E-Mails aus E-Mail Postfächern. Die Zustellung eingehender E-Mails ist zu jedem Zeitpunkt sichergestellt.&lt;/p&gt;
+&lt;h3 id=&#34;mailteutonet-smtpteutonet&#34;&gt;mail.teuto.net, smtp.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Der Versand von E-mails ist für ca. 10 Minuten nicht möglich. Es gehen keine E-Mails verloren.&lt;/p&gt;
+&lt;h3 id=&#34;zimbrateutonet&#34;&gt;zimbra.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Der Versand von E-Mails ist zeitweise nur mit Verzögerungen möglich. Der Zugriff auf Zimbra ist zu jedem Zeitpunkt möglich.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartung zimbra.teuto.net</title>
+        <link>https://teuto.fail/issues/2025-10-15-wartungsarbeiten-zimbra/</link>
+        <pubDate>Wed, 15 Oct 2025 21:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-10-15-wartungsarbeiten-zimbra/</guid>
+        <category>2025-10-15 23:00:00</category>
+        <description>&lt;p&gt;Am 15.10.2025 zwischen 21 und 23 Uhr werden Wartungsarbeiten am Server zimbra.teuto.net durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zugriff auf den Groupware-Server zimbra.teuto.net&lt;/li&gt;
+&lt;/ul&gt;</description>
+        <content type="html">&lt;p&gt;Am 15.10.2025 zwischen 21 und 23 Uhr werden Wartungsarbeiten am Server zimbra.teuto.net durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zugriff auf den Groupware-Server zimbra.teuto.net&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

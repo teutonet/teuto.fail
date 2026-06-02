@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Ns3.teuto.net on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/ns3.teuto.net/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2026-05-05T22:22:00+00:00</lastBuildDate>
+    <updated>2026-05-05T22:22:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/ns3.teuto.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] DNS-Probleme .de-TLD</title>
+        <link>https://teuto.fail/issues/2026-05-05-de-zone/</link>
+        <pubDate>Tue, 05 May 2026 22:22:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2026-05-05-de-zone/</guid>
+        <category>2026-05-06 2:00:00</category>
+        <description>&lt;p&gt;Aktuell kommt es zu DNSSEC-Problemen mit der DNS-Zone der TLD .de. Die Ursache liegt außerhalb des Einflussbereiches der teuto.net Netzdienste GmbH.
+Daraus resultierend kann es zu Einschränkungen bei allen von uns zur Verfügung gestellten Diensten kommen.
+Insbesondere betroffen sind hiervon teutoStack und Kubernetes.
+DNS-Anfragen für die teutostack.de-Zone können Sie alternativ an den Namserver ns1.teuto.net stellen.&lt;/p&gt;
+&lt;p&gt;Wir bitten die entstandenen Unannehmlichkeiten zu Entschuldigen.&lt;/p&gt;
+&lt;p&gt;Weitere Informationen finden Sie hier: &lt;a href=&#34;https://status.denic.de/&#34;&gt;https://status.denic.de/&lt;/a&gt;&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Aktuell kommt es zu DNSSEC-Problemen mit der DNS-Zone der TLD .de. Die Ursache liegt außerhalb des Einflussbereiches der teuto.net Netzdienste GmbH.
+Daraus resultierend kann es zu Einschränkungen bei allen von uns zur Verfügung gestellten Diensten kommen.
+Insbesondere betroffen sind hiervon teutoStack und Kubernetes.
+DNS-Anfragen für die teutostack.de-Zone können Sie alternativ an den Namserver ns1.teuto.net stellen.&lt;/p&gt;
+&lt;p&gt;Wir bitten die entstandenen Unannehmlichkeiten zu Entschuldigen.&lt;/p&gt;
+&lt;p&gt;Weitere Informationen finden Sie hier: &lt;a href=&#34;https://status.denic.de/&#34;&gt;https://status.denic.de/&lt;/a&gt;&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

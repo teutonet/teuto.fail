@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Pop3.teuto.net on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/pop3.teuto.net/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2025-11-05T21:00:00+00:00</lastBuildDate>
+    <updated>2025-11-05T21:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/pop3.teuto.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Wartung E-Mail Systeme</title>
+        <link>https://teuto.fail/issues/2025-10-23-wartungsarbeiten-mail-umstellung/</link>
+        <pubDate>Wed, 05 Nov 2025 21:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2025-10-23-wartungsarbeiten-mail-umstellung/</guid>
+        <category>2025-11-05 21:10:00</category>
+        <description>&lt;p&gt;Am 05.11.2025 zwischen 21 und 23 Uhr werden Umstellungen der E-Mail Systeme durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;h3 id=&#34;imapteutonet-pop3teutonet&#34;&gt;imap.teuto.net, pop3.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Es wird ein Ausfall von ca. 10 Minuten erwartet. Das betrifft nur den Abruf von E-Mails aus E-Mail Postfächern. Die Zustellung eingehender E-Mails ist zu jedem Zeitpunkt sichergestellt.&lt;/p&gt;
+&lt;h3 id=&#34;mailteutonet-smtpteutonet&#34;&gt;mail.teuto.net, smtp.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Der Versand von E-mails ist für ca. 10 Minuten nicht möglich. Es gehen keine E-Mails verloren.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 05.11.2025 zwischen 21 und 23 Uhr werden Umstellungen der E-Mail Systeme durchgeführt.&lt;/p&gt;
+&lt;p&gt;Während der Wartungsarbeiten stehen folgende Dienstleistungen zeitweise nicht zur Verfügung:&lt;/p&gt;
+&lt;h3 id=&#34;imapteutonet-pop3teutonet&#34;&gt;imap.teuto.net, pop3.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Es wird ein Ausfall von ca. 10 Minuten erwartet. Das betrifft nur den Abruf von E-Mails aus E-Mail Postfächern. Die Zustellung eingehender E-Mails ist zu jedem Zeitpunkt sichergestellt.&lt;/p&gt;
+&lt;h3 id=&#34;mailteutonet-smtpteutonet&#34;&gt;mail.teuto.net, smtp.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Der Versand von E-mails ist für ca. 10 Minuten nicht möglich. Es gehen keine E-Mails verloren.&lt;/p&gt;
+&lt;h3 id=&#34;zimbrateutonet&#34;&gt;zimbra.teuto.net:&lt;/h3&gt;
+&lt;p&gt;Der Versand von E-Mails ist zeitweise nur mit Verzögerungen möglich. Der Zugriff auf Zimbra ist zu jedem Zeitpunkt möglich.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten am internen Datenbanksystem. Es kommt zu kurzen Unterbrechungen beim Email Empfang/Versand.</title>
+        <link>https://teuto.fail/issues/2024-01-16-wartungsarbeiten-datenbanksystem/</link>
+        <pubDate>Tue, 16 Jan 2024 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-01-16-wartungsarbeiten-datenbanksystem/</guid>
+        <category>2024-01-16 08:00:00</category>
+        <description>&lt;p&gt;Durch Wartungsarbeiten am internen Datenbanksystem kommt es am 16.01.2024 zwischen 07:00 und 08:00 Uhr zu kurzen Unterbrechungen beim Email Empfang/Versand. Davon betroffen sind imap.teuto.net, pop3.teuto.net und smtp.teuto.net.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Durch Wartungsarbeiten am internen Datenbanksystem kommt es am 16.01.2024 zwischen 07:00 und 08:00 Uhr zu kurzen Unterbrechungen beim Email Empfang/Versand. Davon betroffen sind imap.teuto.net, pop3.teuto.net und smtp.teuto.net.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten imap.teuto.net, pop3.teuto.net</title>
+        <link>https://teuto.fail/issues/2023-07-31-einschraenkung-email-versand-empfang/</link>
+        <pubDate>Thu, 16 Nov 2023 21:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2023-07-31-einschraenkung-email-versand-empfang/</guid>
+        <category>2023-11-16 22:00:00</category>
+        <description>&lt;p&gt;Bedingt durch den Ausfall in der letzten Woche sind dringende Wartungsarbeiten notwendig. Davon betroffen sind imap.teuto.net und pop3.teuto.net.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Bedingt durch den Ausfall in der letzten Woche sind dringende Wartungsarbeiten notwendig. Davon betroffen sind imap.teuto.net und pop3.teuto.net.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Ausfall imap.teuto.net, pop3.teuto.net</title>
+        <link>https://teuto.fail/issues/2023-11-10-ausfall-imap-pop3/</link>
+        <pubDate>Fri, 10 Nov 2023 00:15:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2023-11-10-ausfall-imap-pop3/</guid>
+        <category>2023-11-10 09:15:00</category>
+        <description>&lt;p&gt;Durch einen Hardware-Ausfall sind die Dienste imap.teuto.net und pop3.teuto.net aktuell nicht erreichbar. Wir arbeiten an der Wiederherstellung der Dienste.&lt;/p&gt;
+&lt;p&gt;Aktuell gehen wir davon aus das die Störung bis 10:00 Uhr behoben ist.&lt;/p&gt;
+&lt;p&gt;Update 9:15 Uhr: Die Dienste sind wieder verfügbar.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Durch einen Hardware-Ausfall sind die Dienste imap.teuto.net und pop3.teuto.net aktuell nicht erreichbar. Wir arbeiten an der Wiederherstellung der Dienste.&lt;/p&gt;
+&lt;p&gt;Aktuell gehen wir davon aus das die Störung bis 10:00 Uhr behoben ist.&lt;/p&gt;
+&lt;p&gt;Update 9:15 Uhr: Die Dienste sind wieder verfügbar.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

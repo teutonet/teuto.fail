@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Deaktivierung von HTTP2",
+  "body": "\u003cp\u003eAufgrund der Sicherheitslücke CVE-2026-23918 im Apache2 Webserver können wir temporär das Protokoll HTTP/2 nicht bereitstellen.\u003c/p\u003e\n\u003cp\u003eWebserver-Verbindungen erfolgen weiterhin über HTTP/1.1 und HTTP/1.0. Es werden nur kleine Performance-Einschränkungen erwartet.\u003c/p\u003e\n",
+  "createdAt": "2026-05-06 09:00:00 +0000 UTC",
+  "lastMod": "2026-05-07 10:40:19 +0200 +0200",
+  "permalink": "https://teuto.fail/issues/2026-05-6-sicherheitsluecke-http2-apache2/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2026-05-07 11:00:00",
+  "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net"],
+  "filename": "2026-05-6-sicherheitsluecke-http2-apache2.md"
+}

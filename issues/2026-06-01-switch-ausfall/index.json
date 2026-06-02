@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Störung des Routings",
+  "body": "\u003cp\u003eWir verzeichnen aktuell eine Störung des Routings in der Cloud am Standort Frankfurt\u003c/p\u003e\n\u003cp\u003eDie Erreichbarkeit der in der Cloud betriebenen Dienste ist derzeit eingeschränkt.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003eUpdate: 20:10 Uhr\u003c/p\u003e\n\u003cp\u003eAlle Dienste laufen derzeit wieder planmäßig.\u003c/p\u003e\n\u003cp\u003eObwohl der Betrieb der Dienste wiederhergestellt ist, wird die zugrunde liegende Infrastruktur weiterhin überwacht. Es besteht die Möglichkeit, dass noch nicht alle Systeme vollständig stabil sind.\u003c/p\u003e\n",
+  "createdAt": "2026-06-01 11:45:00 +0000 UTC",
+  "lastMod": "2026-06-02 20:58:28 +0200 +0200",
+  "permalink": "https://teuto.fail/issues/2026-06-01-switch-ausfall/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2026-06-02 20:45:00",
+  "affected": ["Public Cloud Frankfurt"],
+  "filename": "2026-06-01-switch-ausfall.md"
+}

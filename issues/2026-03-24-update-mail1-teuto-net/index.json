@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Systemaktualisierung mail1.teuto.net",
+  "body": "\u003cp\u003eAm Dienstag den 24.03.2026 ab 20 Uhr kommt es zu Einschränkungen bei allen Postfächern auf den folgenden Mail-Servern:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003email1.teuto.net\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eDies betrifft den E-Mail Versand und Abruf mittels IMAP, SMTP, POP3 oder Webmailer.\u003c/p\u003e\n\u003cp\u003eDie genannten Dienste werden nur eingeschränkt erreichbar sein.\u003c/p\u003e\n",
+  "createdAt": "2026-03-24 20:00:00 +0000 UTC",
+  "lastMod": "2026-03-25 09:51:52 +0100 +0100",
+  "permalink": "https://teuto.fail/issues/2026-03-24-update-mail1-teuto-net/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2026-03-24 22:00:00",
+  "affected": ["mail1.teuto.net"],
+  "filename": "2026-03-24-update-mail1-teuto-net.md"
+}

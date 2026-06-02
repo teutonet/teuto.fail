@@ -1,0 +1,41 @@
+{
+  "is": "system",
+  "title": "Route Bielefeld",
+  "permalink": "https://teuto.fail/affected/route-bielefeld/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten an Außenanbindung durch Carrier in Bielefeld",
+        "createdAt": "2024-03-06 00:00:00 +0000 UTC",
+        "lastMod": "2024-03-06 00:00:00 +0000 UTC",
+        "permalink": "https://teuto.fail/issues/2024-03-06-wartungsarbeiten-au%C3%9Fenanbindung-durch-carrier-in-bielefeld/",
+        "severity": "<no value>",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2024-03-06 08:00:00",
+        "affected": ["Route Bielefeld"],
+        "filename": "2024-03-06-wartungsarbeiten-außenanbindung-durch-carrier-in-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten an Außenanbindung durch Carrier in Bielefeld",
+        "createdAt": "2023-10-16 07:00:00 +0000 UTC",
+        "lastMod": "2023-10-16 07:00:00 +0000 UTC",
+        "permalink": "https://teuto.fail/issues/2023-10-16-wartungsarbeiten-au%C3%9Fenanbindung-durch-carrier-in-bielefeld/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2023-10-18 08:00:00",
+        "affected": ["Route Bielefeld"],
+        "filename": "2023-10-16-wartungsarbeiten-außenanbindung-durch-carrier-in-bielefeld.md"
+      }
+    
+  ]
+}
+
+
+
+
+

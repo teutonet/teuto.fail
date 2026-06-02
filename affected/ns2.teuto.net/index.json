@@ -1,0 +1,27 @@
+{
+  "is": "system",
+  "title": "Ns2.teuto.net",
+  "permalink": "https://teuto.fail/affected/ns2.teuto.net/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "DNS-Probleme .de-TLD",
+        "createdAt": "2026-05-05 22:22:00 +0000 UTC",
+        "lastMod": "2026-05-06 08:59:51 +0200 +0200",
+        "permalink": "https://teuto.fail/issues/2026-05-05-de-zone/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-05-06 2:00:00",
+        "affected": ["ns1.teuto.net", "ns2.teuto.net", "ns3.teuto.net"],
+        "filename": "2026-05-05-de-zone.md"
+      }
+    
+  ]
+}
+
+
+
+
+

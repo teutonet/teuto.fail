@@ -1,0 +1,69 @@
+{
+  "is": "system",
+  "title": "Serverhousing Bielefeld",
+  "permalink": "https://teuto.fail/affected/serverhousing-bielefeld/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Netzwerkwartung in Bielefeld",
+        "createdAt": "2026-05-12 21:00:00 +0000 UTC",
+        "lastMod": "2026-05-15 11:43:33 +0200 +0200",
+        "permalink": "https://teuto.fail/issues/2026-05-12-netzwerkprobleme-bielefeld/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-05-12 22:00:00",
+        "affected": ["Routing Bielefeld", "Serverhousing Bielefeld", "Public Cloud Bielefeld", "Festverbindungen"],
+        "filename": "2026-05-12-netzwerkprobleme-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Netzwerkprobleme in Bielefeld",
+        "createdAt": "2026-03-11 12:00:00 +0000 UTC",
+        "lastMod": "2026-03-23 12:37:28 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-03-11-netzwerkprobleme-bielefeld/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-03-11 15:00:00",
+        "affected": ["Routing Bielefeld", "Serverhousing Bielefeld", "Public Cloud Bielefeld", "Festverbindungen"],
+        "filename": "2026-03-11-netzwerkprobleme-bielefeld.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Beeinträchtigung der Klimasysteme im Bielefelder Rechenzentrum",
+        "createdAt": "2026-02-13 08:25:00 +0000 UTC",
+        "lastMod": "2026-03-23 12:37:28 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2026-02-13-ausfall-klimatisierung-bfe/",
+        "severity": "Notice",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-02-13 12:16:00",
+        "affected": ["Serverhousing Bielefeld"],
+        "filename": "2026-02-13-ausfall-klimatisierung-bfe.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Netzwerk Wartungsarbeiten Bielefeld",
+        "createdAt": "2025-04-07 19:00:00 +0000 UTC",
+        "lastMod": "2026-03-23 12:37:28 +0100 +0100",
+        "permalink": "https://teuto.fail/issues/2025-04-07-switchtausch/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-04-07 23:00:00",
+        "affected": ["Serverhousing Bielefeld", "Festverbindungen"],
+        "filename": "2025-04-07-switchtausch.md"
+      }
+    
+  ]
+}
+
+
+
+
+

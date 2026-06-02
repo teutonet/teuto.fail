@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Route Bielefeld on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/route-bielefeld/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2024-03-06T00:00:00+00:00</lastBuildDate>
+    <updated>2024-03-06T00:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/route-bielefeld/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten an Außenanbindung durch Carrier in Bielefeld</title>
+        <link>https://teuto.fail/issues/2024-03-06-wartungsarbeiten-au%C3%9Fenanbindung-durch-carrier-in-bielefeld/</link>
+        <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2024-03-06-wartungsarbeiten-au%C3%9Fenanbindung-durch-carrier-in-bielefeld/</guid>
+        <category>2024-03-06 08:00:00</category>
+        <description>&lt;p&gt;Am Mittwoch, den 06.03.2024 im Zeitraum von 00:00 Uhr bis 06:00 Uhr werden Wartungsarbeiten an einer der redundanten Außenanbindungen in Bielefeld durch den Anbieter der Anbindung vorgenommen.&lt;/p&gt;
+&lt;p&gt;Um mehrfache Routen-Änderungen zu vermeiden, wird die entsprechende Anbindung im gesamten Zeitraum durch uns deaktiviert.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am Mittwoch, den 06.03.2024 im Zeitraum von 00:00 Uhr bis 06:00 Uhr werden Wartungsarbeiten an einer der redundanten Außenanbindungen in Bielefeld durch den Anbieter der Anbindung vorgenommen.&lt;/p&gt;
+&lt;p&gt;Um mehrfache Routen-Änderungen zu vermeiden, wird die entsprechende Anbindung im gesamten Zeitraum durch uns deaktiviert.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten an Außenanbindung durch Carrier in Bielefeld</title>
+        <link>https://teuto.fail/issues/2023-10-16-wartungsarbeiten-au%C3%9Fenanbindung-durch-carrier-in-bielefeld/</link>
+        <pubDate>Mon, 16 Oct 2023 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2023-10-16-wartungsarbeiten-au%C3%9Fenanbindung-durch-carrier-in-bielefeld/</guid>
+        <category>2023-10-18 08:00:00</category>
+        <description>&lt;p&gt;Im genannten Zeitraum werden zweimal Wartungsarbeiten an einer der redundanten Außenanbindungen in Bielefeld durch den Anbieter der Anbindung vorgenommen.&lt;/p&gt;
+&lt;p&gt;Um mehrfache Routen-Änderungen zu vermeiden, wird die entsprechende Anbindung im gesamten Zeitraum durch uns deaktiviert.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Im genannten Zeitraum werden zweimal Wartungsarbeiten an einer der redundanten Außenanbindungen in Bielefeld durch den Anbieter der Anbindung vorgenommen.&lt;/p&gt;
+&lt;p&gt;Um mehrfache Routen-Änderungen zu vermeiden, wird die entsprechende Anbindung im gesamten Zeitraum durch uns deaktiviert.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

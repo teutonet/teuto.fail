@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto.fail/"/>
+    <title>Route Frankfurt on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto.fail/affected/route-frankfurt/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2023-09-04T07:00:00+00:00</lastBuildDate>
+    <updated>2023-09-04T07:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto.fail/affected/route-frankfurt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Wartungsarbeiten Core-Routing Frankfurt</title>
+        <link>https://teuto.fail/issues/2023-09-04-wartungsarbeiten-core-routing-frankfurt/</link>
+        <pubDate>Mon, 04 Sep 2023 07:00:00 +0000</pubDate>
+        <guid>https://teuto.fail/issues/2023-09-04-wartungsarbeiten-core-routing-frankfurt/</guid>
+        <category>2023-09-04 08:00:00</category>
+        <description>&lt;p&gt;Im genannten Zeitraum werden Wartungsarbeiten am Core-Routing in Frankfurt durchgeführt
+Es kann zu kurzen Paketverlusten kommen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Im genannten Zeitraum werden Wartungsarbeiten am Core-Routing in Frankfurt durchgeführt
+Es kann zu kurzen Paketverlusten kommen.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

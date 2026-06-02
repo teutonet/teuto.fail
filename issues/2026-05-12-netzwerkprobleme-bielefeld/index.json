@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Netzwerkwartung in Bielefeld",
+  "body": "\u003cp\u003eAm 12.5.2026 ab ca. 21 Uhr führen wir Wartungsarbeiten an unserer Netzwerkinfrastruktur in Bielefeld durch.\u003c/p\u003e\n\u003cp\u003eEs werden keine Einschränkungen oder Ausfälle erwartet.\u003c/p\u003e\n",
+  "createdAt": "2026-05-12 21:00:00 +0000 UTC",
+  "lastMod": "2026-05-15 11:43:33 +0200 +0200",
+  "permalink": "https://teuto.fail/issues/2026-05-12-netzwerkprobleme-bielefeld/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2026-05-12 22:00:00",
+  "affected": ["Routing Bielefeld", "Serverhousing Bielefeld", "Public Cloud Bielefeld", "Festverbindungen"],
+  "filename": "2026-05-12-netzwerkprobleme-bielefeld.md"
+}
